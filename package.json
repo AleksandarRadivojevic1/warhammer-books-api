@@ -1,0 +1,27 @@
+{
+  "name": "warhammer-books-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AleksandarRadivojevic1/warhammer-books-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/AleksandarRadivojevic1/warhammer-books-api/issues"
+  },
+  "homepage": "https://github.com/AleksandarRadivojevic1/warhammer-books-api#readme",
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1",
+    "express-rate-limit": "^8.3.1",
+    "mongoose": "^9.3.1"
+  }
+}
