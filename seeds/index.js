@@ -11,17 +11,17 @@ mongoose.connect("mongodb://localhost:27017/warhammer-db")
     console.log("MongoDB connected");
 
     try {
-      // Order matters
+      //Order is important here because books reference authors, series, and primarchs
       const authors = await seedAuthors();
       const series = await seedSeries();
       const primarchs = await seedPrimarchs();
 
       await seedBooks({ authors, series, primarchs });
 
-      console.log("🌱 Seeding complete");
-      process.exit();
+
+      console.log("Seeding complete");
     } catch (err) {
       console.error(err);
-      process.exit(1);
     }
+    mongoose.connection.close();
   });

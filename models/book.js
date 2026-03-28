@@ -44,6 +44,13 @@ const bookSchema = new mongoose.Schema({
 
     year: String    // optional: "M31.005"
   },
+  
+  factions: [{
+      name: String,
+      slug: String
+  }],
+
+  characters: [String],
 
     primarchs: [{
     type: mongoose.Schema.Types.ObjectId,

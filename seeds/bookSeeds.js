@@ -9,32 +9,33 @@ module.exports = async ({ authors, series, primarchs }) => {
   const findPrimarch = (slug) => primarchs.find(p => p.slug === slug)._id;
 
   const books = await Book.insertMany([
-    {
-      title: "Horus Rising",
-      slug: "horus-rising",
-      series: findSeries("horus-heresy"),
-      orderInSeries: 1,
-      author: findAuthor("dan-abnett"),
-      pages: 416,
-      setting: {
-        era: "Horus Heresy",
-        millennium: "M31"
-      },
-      primarchs: [findPrimarch("horus")],
-      description: "The beginning of the Horus Heresy."
-    },
-    {
-      title: "False Gods",
-      slug: "false-gods",
-      series: findSeries("horus-heresy"),
-      orderInSeries: 2,
-      author: findAuthor("graham-mcneill"),
-      setting: {
-        era: "Horus Heresy",
-        millennium: "M31"
-      },
-      primarchs: [findPrimarch("horus")]
-    }
+{
+  title: "Horus Rising",
+  slug: "horus-rising",
+  series: findSeries("horus-heresy"),
+  orderInSeries: 1,
+  author: findAuthor("dan-abnett"),
+  pages: 416,
+
+  coverImage: "https://example.com/horus-rising.jpg",
+
+  setting: {
+    era: "Horus Heresy",
+    millennium: "M31",
+    year: "M31.005"
+  },
+
+  factions: [
+    { name: "Imperium", slug: "imperium" },
+    { name: "Luna Wolves", slug: "luna-wolves" }
+  ],
+
+  characters: ["Garviel Loken", "Erebus"],
+
+  primarchs: [findPrimarch("horus")],
+
+  description: "The beginning of the Horus Heresy."
+}
   ]);
 
   console.log("Books seeded");

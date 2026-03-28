@@ -22,4 +22,4 @@ module.exports = async () => {
 
   console.log("Primarchs seeded");
   return primarchs;
-};
+}; 

@@ -8,13 +8,16 @@ module.exports = async () => {
       name: "Horus Heresy",
       slug: "horus-heresy",
       era: "Horus Heresy",
-      order: 1
+      order: 1,
+      description:"placeholder description for horus heresy series"
     },
     {
       name: "Eisenhorn",
       slug: "eisenhorn",
       era: "Warhammer 40K",
-      order: 2
+      order: 2,
+      description:"placeholder description for eisenhorn series"
+
     }
   ]);
 
