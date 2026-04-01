@@ -2,6 +2,7 @@ const BookRoutes = require("./routes/v1/book")
 const AuthorRoutes = require("./routes/v1/author")
 const PrimarchRoutes = require("./routes/v1/primarch")
 const SeriesRoutes = require("./routes/v1/series")
+const errorHandler = require("./middleware/errorHandler")
 const mongoose = require("mongoose");
 const morgan = require('morgan')
 
@@ -27,6 +28,12 @@ app.use("/api/v1/primarchs", PrimarchRoutes);
 app.use("/api/v1/series", SeriesRoutes);
 
 
+
+app.use((req, res) => {
+  res.status(404).json({ error: "Route not found" });
+});
+
+app.use(errorHandler);
 
 app.listen(3001, () => {
   console.log("Listening on port 3001.");

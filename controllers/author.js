@@ -4,18 +4,19 @@ const Book = require("../models/book");
 const BASE_URL = "/api/v1";
 
 const authorUrl = (slug) => `${BASE_URL}/authors/${slug}`;
-const bookUrl   = (slug) => `${BASE_URL}/books/${slug}`;
+const bookUrl = (slug) => `${BASE_URL}/books/${slug}`;
 
 
 // Get all authors
-exports.getAuthors = async (req, res) => {
+exports.getAuthors = async (req, res, next) => {
   try {
     const authors = await Author.find();
 
     const results = authors.map(author => ({
       name: author.name,
       slug: author.slug,
-      url: authorUrl(author.slug)
+      url: authorUrl(author.slug),
+      bio: author.bio
     }));
 
     res.json({
@@ -24,13 +25,13 @@ exports.getAuthors = async (req, res) => {
     });
 
   } catch (err) {
-    res.status(500).json({ error: err.message });
+    next(err);
   }
 };
 
 
 // Get author by slug
-exports.getAuthorBySlug = async (req, res) => {
+exports.getAuthorBySlug = async (req, res, next) => {
   try {
     const author = await Author.findOne({ slug: req.params.slug });
 
@@ -54,6 +55,6 @@ exports.getAuthorBySlug = async (req, res) => {
     });
 
   } catch (err) {
-    res.status(500).json({ error: err.message });
+    next(err);
   }
 };

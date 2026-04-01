@@ -16,7 +16,7 @@ const seriesSchema = new mongoose.Schema({
 
   description: String,
 
-  era: String, // "Horus Heresy", "40K"
+  era: String, // "Age of Sigmar", "41st Millennium"
 
   order: Number 
 }, { timestamps: true });

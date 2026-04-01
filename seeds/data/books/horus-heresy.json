@@ -1,0 +1,1034 @@
+[
+  {
+    "title": "Horus Rising",
+    "slug": "horus-rising",
+    "series": "the-horus-heresy-novels",
+    "orderInSeries": 1,
+    "author": "dan-abnett",
+    "pages": 416,
+    "coverImage": "",
+    "setting": { "era": "Horus Heresy", "millennium": "M31", "year": "M31.005" },
+    "factions": [
+      { "name": "Imperium", "slug": "imperium" },
+      { "name": "Luna Wolves", "slug": "luna-wolves" }
+    ],
+    "characters": [
+      { "name": "Garviel Loken", "slug": "garviel-loken" },
+      { "name": "Erebus", "slug": "erebus" }
+    ],
+    "primarchs": ["horus-lupercal"],
+    "description": "The Great Crusade is at its height and Horus, the Warmaster, leads his Luna Wolves to glory. But the seeds of heresy are already being sown."
+  },
+  {
+    "title": "False Gods",
+    "slug": "false-gods",
+    "series": "the-horus-heresy-novels",
+    "orderInSeries": 2,
+    "author": "graham-mcneill",
+    "pages": 416,
+    "coverImage": "",
+    "setting": { "era": "Horus Heresy", "millennium": "M31" },
+    "factions": [
+      { "name": "Luna Wolves", "slug": "luna-wolves" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "characters": [
+      { "name": "Garviel Loken", "slug": "garviel-loken" },
+      { "name": "Horus Lupercal", "slug": "horus-lupercal" },
+      { "name": "Erebus", "slug": "erebus" }
+    ],
+    "primarchs": ["horus-lupercal"],
+    "description": "Horus is mortally wounded on Davin and saved by the Chaos powers, his soul corrupted. The path to heresy becomes irreversible."
+  },
+  {
+    "title": "Galaxy in Flames",
+    "slug": "galaxy-in-flames",
+    "series": "the-horus-heresy-novels",
+    "orderInSeries": 3,
+    "author": "ben-counter",
+    "pages": 416,
+    "coverImage": "",
+    "setting": { "era": "Horus Heresy", "millennium": "M31" },
+    "factions": [
+      { "name": "Luna Wolves", "slug": "luna-wolves" },
+      { "name": "Imperium", "slug": "imperium" }
+    ],
+    "characters": [
+      { "name": "Garviel Loken", "slug": "garviel-loken" },
+      { "name": "Saul Tarvitz", "slug": "saul-tarvitz" },
+      { "name": "Horus Lupercal", "slug": "horus-lupercal" }
+    ],
+    "primarchs": ["horus-lupercal"],
+    "description": "The betrayal at Isstvan III begins. Horus orders the destruction of his own loyal warriors, and the Heresy erupts into open war."
+  },
+  {
+    "title": "The Flight of the Eisenstein",
+    "slug": "the-flight-of-the-eisenstein",
+    "series": "the-horus-heresy-novels",
+    "orderInSeries": 4,
+    "author": "james-swallow",
+    "pages": 416,
+    "coverImage": "",
+    "setting": { "era": "Horus Heresy", "millennium": "M31" },
+    "factions": [
+      { "name": "Death Guard", "slug": "death-guard" },
+      { "name": "Imperium", "slug": "imperium" }
+    ],
+    "characters": [
+      { "name": "Nathaniel Garro", "slug": "nathaniel-garro" },
+      { "name": "Mortarion", "slug": "mortarion" }
+    ],
+    "primarchs": ["mortarion", "horus-lupercal"],
+    "description": "Death Guard captain Nathaniel Garro defies his Legion and flees to Terra to warn the Emperor of Horus's treachery."
+  },
+  {
+    "title": "Fulgrim",
+    "slug": "fulgrim",
+    "series": "the-horus-heresy-novels",
+    "orderInSeries": 5,
+    "author": "graham-mcneill",
+    "pages": 512,
+    "coverImage": "",
+    "setting": { "era": "Horus Heresy", "millennium": "M31" },
+    "factions": [
+      { "name": "Emperor's Children", "slug": "emperors-children" },
+      { "name": "Iron Hands", "slug": "iron-hands" }
+    ],
+    "characters": [
+      { "name": "Fulgrim", "slug": "fulgrim" },
+      { "name": "Ferrus Manus", "slug": "ferrus-manus" },
+      { "name": "Lucius", "slug": "lucius" }
+    ],
+    "primarchs": ["fulgrim", "ferrus-manus"],
+    "description": "The fall of Fulgrim and the Emperor's Children into the embrace of Slaanesh, culminating in the devastating battle of Isstvan V."
+  },
+  {
+    "title": "Descent of Angels",
+    "slug": "descent-of-angels",
+    "series": "the-horus-heresy-novels",
+    "orderInSeries": 6,
+    "author": "mitchel-scanlon",
+    "pages": 416,
+    "coverImage": "",
+    "setting": { "era": "Horus Heresy", "millennium": "M31" },
+    "factions": [
+      { "name": "Dark Angels", "slug": "dark-angels" },
+      { "name": "Imperium", "slug": "imperium" }
+    ],
+    "characters": [
+      { "name": "Lion El'Jonson", "slug": "lion-el-jonson" },
+      { "name": "Zahariel El'Zurias", "slug": "zahariel-el-zurias" },
+      { "name": "Nemiel", "slug": "nemiel" }
+    ],
+    "primarchs": ["lion-el-jonson"],
+    "description": "The early history of the Dark Angels and their primarch Lion El'Jonson, from Caliban to the Great Crusade."
+  },
+  {
+    "title": "Legion",
+    "slug": "legion",
+    "series": "the-horus-heresy-novels",
+    "orderInSeries": 7,
+    "author": "dan-abnett",
+    "pages": 320,
+    "coverImage": "",
+    "setting": { "era": "Horus Heresy", "millennium": "M31" },
+    "factions": [
+      { "name": "Alpha Legion", "slug": "alpha-legion" },
+      { "name": "Imperium", "slug": "imperium" }
+    ],
+    "characters": [
+      { "name": "John Grammaticus", "slug": "john-grammaticus" },
+      { "name": "Alpharius", "slug": "alpharius" },
+      { "name": "Omegon", "slug": "omegon" }
+    ],
+    "primarchs": ["alpharius", "omegon"],
+    "description": "The mysterious Alpha Legion and its twin primarchs Alpharius and Omegon operate in the shadows with inscrutable motives."
+  },
+  {
+    "title": "Battle for the Abyss",
+    "slug": "battle-for-the-abyss",
+    "series": "the-horus-heresy-novels",
+    "orderInSeries": 8,
+    "author": "ben-counter",
+    "pages": 416,
+    "coverImage": "",
+    "setting": { "era": "Horus Heresy", "millennium": "M31" },
+    "factions": [
+      { "name": "Word Bearers", "slug": "word-bearers" },
+      { "name": "Ultramarines", "slug": "ultramarines" }
+    ],
+    "characters": [
+      { "name": "Cestus", "slug": "cestus" },
+      { "name": "Zadkiel", "slug": "zadkiel" }
+    ],
+    "primarchs": [],
+    "description": "A small force of loyal Space Marines races to intercept a massive Word Bearers ship before it can devastate the Ultramarines home system."
+  },
+  {
+    "title": "Mechanicum",
+    "slug": "mechanicum",
+    "series": "the-horus-heresy-novels",
+    "orderInSeries": 9,
+    "author": "graham-mcneill",
+    "pages": 416,
+    "coverImage": "",
+    "setting": { "era": "Horus Heresy", "millennium": "M31" },
+    "factions": [
+      { "name": "Adeptus Mechanicum", "slug": "adeptus-mechanicum" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "characters": [
+      { "name": "Dalia Cythera", "slug": "dalia-cythera" },
+      { "name": "Kelbor-Hal", "slug": "kelbor-hal" }
+    ],
+    "primarchs": [],
+    "description": "Civil war erupts on Mars as the Fabricator-General pledges the Mechanicum to Horus, unleashing the Silica Animus upon the red planet."
+  },
+  {
+    "title": "Tales of Heresy",
+    "slug": "tales-of-heresy",
+    "series": "the-horus-heresy-novels",
+    "orderInSeries": 10,
+    "pages": 416,
+    "coverImage": "",
+    "setting": { "era": "Horus Heresy", "millennium": "M31" },
+    "factions": [
+      { "name": "Imperium", "slug": "imperium" }
+    ],
+    "characters": [],
+    "primarchs": [],
+    "description": "An anthology of short stories set during the Horus Heresy, covering events and characters from across the war-torn galaxy."
+  },
+  {
+    "title": "Fallen Angels",
+    "slug": "fallen-angels",
+    "series": "the-horus-heresy-novels",
+    "orderInSeries": 11,
+    "author": "mike-lee",
+    "pages": 416,
+    "coverImage": "",
+    "setting": { "era": "Horus Heresy", "millennium": "M31" },
+    "factions": [
+      { "name": "Dark Angels", "slug": "dark-angels" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "characters": [
+      { "name": "Zahariel El'Zurias", "slug": "zahariel-el-zurias" },
+      { "name": "Nemiel", "slug": "nemiel" },
+      { "name": "Lion El'Jonson", "slug": "lion-el-jonson" }
+    ],
+    "primarchs": ["lion-el-jonson"],
+    "description": "As the Heresy spreads, the Dark Angels are divided between Caliban and the stars, and dark secrets begin to surface within the Legion."
+  },
+  {
+    "title": "A Thousand Sons",
+    "slug": "a-thousand-sons",
+    "series": "the-horus-heresy-novels",
+    "orderInSeries": 12,
+    "author": "graham-mcneill",
+    "pages": 592,
+    "coverImage": "",
+    "setting": { "era": "Horus Heresy", "millennium": "M31" },
+    "factions": [
+      { "name": "Thousand Sons", "slug": "thousand-sons" },
+      { "name": "Space Wolves", "slug": "space-wolves" }
+    ],
+    "characters": [
+      { "name": "Magnus the Red", "slug": "magnus-the-red" },
+      { "name": "Ahriman", "slug": "ahriman" },
+      { "name": "Leman Russ", "slug": "leman-russ" }
+    ],
+    "primarchs": ["magnus-the-red", "leman-russ"],
+    "description": "Magnus the Red defies the Emperor's decree at Nikaea, and the Space Wolves are unleashed to burn Prospero to the ground."
+  },
+  {
+    "title": "Nemesis",
+    "slug": "nemesis",
+    "series": "the-horus-heresy-novels",
+    "orderInSeries": 13,
+    "author": "james-swallow",
+    "pages": 416,
+    "coverImage": "",
+    "setting": { "era": "Horus Heresy", "millennium": "M31" },
+    "factions": [
+      { "name": "Imperium", "slug": "imperium" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "characters": [
+      { "name": "Eristede Kell", "slug": "eristede-kell" },
+      { "name": "Yosef Sabrat", "slug": "yosef-sabrat" }
+    ],
+    "primarchs": [],
+    "description": "A secret Officio Assassinorum mission is launched to kill Horus, while a terrifying Chaos assassin hunts the Emperor in return."
+  },
+  {
+    "title": "The First Heretic",
+    "slug": "the-first-heretic",
+    "series": "the-horus-heresy-novels",
+    "orderInSeries": 14,
+    "author": "aaron-dembski-bowden",
+    "pages": 512,
+    "coverImage": "",
+    "setting": { "era": "Horus Heresy", "millennium": "M31" },
+    "factions": [
+      { "name": "Word Bearers", "slug": "word-bearers" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "characters": [
+      { "name": "Lorgar Aurelian", "slug": "lorgar-aurelian" },
+      { "name": "Argel Tal", "slug": "argel-tal" },
+      { "name": "Erebus", "slug": "erebus" }
+    ],
+    "primarchs": ["lorgar-aurelian"],
+    "description": "The story of Lorgar and the Word Bearers, the first Legion to turn from the Emperor and embrace the gods of Chaos."
+  },
+  {
+    "title": "Prospero Burns",
+    "slug": "prospero-burns",
+    "series": "the-horus-heresy-novels",
+    "orderInSeries": 15,
+    "author": "dan-abnett",
+    "pages": 416,
+    "coverImage": "",
+    "setting": { "era": "Horus Heresy", "millennium": "M31" },
+    "factions": [
+      { "name": "Space Wolves", "slug": "space-wolves" },
+      { "name": "Thousand Sons", "slug": "thousand-sons" }
+    ],
+    "characters": [
+      { "name": "Kasper Hawser", "slug": "kasper-hawser" },
+      { "name": "Leman Russ", "slug": "leman-russ" }
+    ],
+    "primarchs": ["leman-russ", "magnus-the-red"],
+    "description": "The companion novel to A Thousand Sons, told from the perspective of the Space Wolves as they descend on Prospero."
+  },
+  {
+    "title": "Age of Darkness",
+    "slug": "age-of-darkness",
+    "series": "the-horus-heresy-novels",
+    "orderInSeries": 16,
+    "pages": 416,
+    "coverImage": "",
+    "setting": { "era": "Horus Heresy", "millennium": "M31" },
+    "factions": [
+      { "name": "Imperium", "slug": "imperium" }
+    ],
+    "characters": [],
+    "primarchs": [],
+    "description": "An anthology of stories exploring the wider galaxy during the darkest days of the Horus Heresy, showing how war reshapes everything."
+  },
+  {
+    "title": "The Outcast Dead",
+    "slug": "the-outcast-dead",
+    "series": "the-horus-heresy-novels",
+    "orderInSeries": 17,
+    "author": "graham-mcneill",
+    "pages": 416,
+    "coverImage": "",
+    "setting": { "era": "Horus Heresy", "millennium": "M31" },
+    "factions": [
+      { "name": "Imperium", "slug": "imperium" }
+    ],
+    "characters": [
+      { "name": "Kai Zulane", "slug": "kai-zulane" }
+    ],
+    "primarchs": [],
+    "description": "On Terra, an astropath becomes entangled with a group of renegade Space Marines who possess knowledge that could change the course of the war."
+  },
+  {
+    "title": "Deliverance Lost",
+    "slug": "deliverance-lost",
+    "series": "the-horus-heresy-novels",
+    "orderInSeries": 18,
+    "author": "gav-thorpe",
+    "pages": 416,
+    "coverImage": "",
+    "setting": { "era": "Horus Heresy", "millennium": "M31" },
+    "factions": [
+      { "name": "Raven Guard", "slug": "raven-guard" },
+      { "name": "Alpha Legion", "slug": "alpha-legion" }
+    ],
+    "characters": [
+      { "name": "Corvus Corax", "slug": "corvus-corax" },
+      { "name": "Alpharius", "slug": "alpharius" }
+    ],
+    "primarchs": ["corvus-corax", "alpharius"],
+    "description": "Corvus Corax struggles to rebuild his shattered Legion after Isstvan V, while Alpha Legion infiltrators work to destroy what remains."
+  },
+  {
+    "title": "Know No Fear",
+    "slug": "know-no-fear",
+    "series": "the-horus-heresy-novels",
+    "orderInSeries": 19,
+    "author": "dan-abnett",
+    "pages": 416,
+    "coverImage": "",
+    "setting": { "era": "Horus Heresy", "millennium": "M31" },
+    "factions": [
+      { "name": "Ultramarines", "slug": "ultramarines" },
+      { "name": "Word Bearers", "slug": "word-bearers" }
+    ],
+    "characters": [
+      { "name": "Roboute Guilliman", "slug": "roboute-guilliman" },
+      { "name": "Kor Phaeron", "slug": "kor-phaeron" }
+    ],
+    "primarchs": ["roboute-guilliman"],
+    "description": "The Word Bearers launch a devastating surprise attack on Calth, seeking to destroy the Ultramarines and summon daemonic forces."
+  },
+  {
+    "title": "The Primarchs",
+    "slug": "the-primarchs",
+    "series": "the-horus-heresy-novels",
+    "orderInSeries": 20,
+    "pages": 416,
+    "coverImage": "",
+    "setting": { "era": "Horus Heresy", "millennium": "M31" },
+    "factions": [
+      { "name": "Imperium", "slug": "imperium" }
+    ],
+    "characters": [],
+    "primarchs": ["fulgrim", "ferrus-manus", "lion-el-jonson", "roboute-guilliman"],
+    "description": "Four novellas exploring the primarchs: Fulgrim, Ferrus Manus, Lion El'Jonson, and Roboute Guilliman before and during the Heresy."
+  },
+  {
+    "title": "Fear to Tread",
+    "slug": "fear-to-tread",
+    "series": "the-horus-heresy-novels",
+    "orderInSeries": 21,
+    "author": "james-swallow",
+    "pages": 512,
+    "coverImage": "",
+    "setting": { "era": "Horus Heresy", "millennium": "M31" },
+    "factions": [
+      { "name": "Blood Angels", "slug": "blood-angels" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "characters": [
+      { "name": "Sanguinius", "slug": "sanguinius" },
+      { "name": "Meros", "slug": "meros" }
+    ],
+    "primarchs": ["sanguinius"],
+    "description": "Sanguinius leads the Blood Angels into the Signus Cluster, walking directly into a daemonic trap laid by Horus and the Ruinous Powers."
+  },
+  {
+    "title": "Shadows of Treachery",
+    "slug": "shadows-of-treachery",
+    "series": "the-horus-heresy-novels",
+    "orderInSeries": 22,
+    "pages": 416,
+    "coverImage": "",
+    "setting": { "era": "Horus Heresy", "millennium": "M31" },
+    "factions": [
+      { "name": "Imperium", "slug": "imperium" }
+    ],
+    "characters": [
+      { "name": "Rogal Dorn", "slug": "rogal-dorn" }
+    ],
+    "primarchs": ["rogal-dorn", "perturabo"],
+    "description": "An anthology focusing on the Iron Warriors at the Phall System, the Knights Errant, and other tales from the shadow war."
+  },
+  {
+    "title": "Angel Exterminatus",
+    "slug": "angel-exterminatus",
+    "series": "the-horus-heresy-novels",
+    "orderInSeries": 23,
+    "author": "graham-mcneill",
+    "pages": 512,
+    "coverImage": "",
+    "setting": { "era": "Horus Heresy", "millennium": "M31" },
+    "factions": [
+      { "name": "Emperor's Children", "slug": "emperors-children" },
+      { "name": "Iron Warriors", "slug": "iron-warriors" }
+    ],
+    "characters": [
+      { "name": "Fulgrim", "slug": "fulgrim" },
+      { "name": "Perturabo", "slug": "perturabo" },
+      { "name": "Lucius", "slug": "lucius" }
+    ],
+    "primarchs": ["fulgrim", "perturabo"],
+    "description": "Fulgrim and Perturabo lead a joint expedition into the Eye of Terror in search of an ancient eldar secret weapon, but their alliance quickly fractures."
+  },
+  {
+    "title": "Betrayer",
+    "slug": "betrayer",
+    "series": "the-horus-heresy-novels",
+    "orderInSeries": 24,
+    "author": "aaron-dembski-bowden",
+    "pages": 416,
+    "coverImage": "",
+    "setting": { "era": "Horus Heresy", "millennium": "M31" },
+    "factions": [
+      { "name": "World Eaters", "slug": "world-eaters" },
+      { "name": "Word Bearers", "slug": "word-bearers" }
+    ],
+    "characters": [
+      { "name": "Angron", "slug": "angron" },
+      { "name": "Lorgar Aurelian", "slug": "lorgar-aurelian" },
+      { "name": "Khârn", "slug": "kharn" }
+    ],
+    "primarchs": ["angron", "lorgar-aurelian"],
+    "description": "Angron and Lorgar lead the Shadow Crusade through Ultramar, laying waste to everything in their path as Angron's transformation into a Daemon Prince begins."
+  },
+  {
+    "title": "Mark of Calth",
+    "slug": "mark-of-calth",
+    "series": "the-horus-heresy-novels",
+    "orderInSeries": 25,
+    "pages": 416,
+    "coverImage": "",
+    "setting": { "era": "Horus Heresy", "millennium": "M31" },
+    "factions": [
+      { "name": "Ultramarines", "slug": "ultramarines" },
+      { "name": "Word Bearers", "slug": "word-bearers" }
+    ],
+    "characters": [
+      { "name": "Roboute Guilliman", "slug": "roboute-guilliman" }
+    ],
+    "primarchs": ["roboute-guilliman"],
+    "description": "An anthology of stories set during and after the Battle of Calth, exploring the underground war fought in the tunnels of that devastated world."
+  },
+  {
+    "title": "Vulkan Lives",
+    "slug": "vulkan-lives",
+    "series": "the-horus-heresy-novels",
+    "orderInSeries": 26,
+    "author": "nick-kyme",
+    "pages": 416,
+    "coverImage": "",
+    "setting": { "era": "Horus Heresy", "millennium": "M31" },
+    "factions": [
+      { "name": "Salamanders", "slug": "salamanders" },
+      { "name": "Iron Warriors", "slug": "iron-warriors" }
+    ],
+    "characters": [
+      { "name": "Vulkan", "slug": "vulkan" },
+      { "name": "Numeon", "slug": "numeon" }
+    ],
+    "primarchs": ["vulkan", "perturabo"],
+    "description": "Vulkan is captured by Konrad Curze and subjected to endless torment, while his sons desperately search for their missing primarch."
+  },
+  {
+    "title": "The Unremembered Empire",
+    "slug": "the-unremembered-empire",
+    "series": "the-horus-heresy-novels",
+    "orderInSeries": 27,
+    "author": "dan-abnett",
+    "pages": 416,
+    "coverImage": "",
+    "setting": { "era": "Horus Heresy", "millennium": "M31" },
+    "factions": [
+      { "name": "Ultramarines", "slug": "ultramarines" },
+      { "name": "Dark Angels", "slug": "dark-angels" }
+    ],
+    "characters": [
+      { "name": "Roboute Guilliman", "slug": "roboute-guilliman" },
+      { "name": "Lion El'Jonson", "slug": "lion-el-jonson" },
+      { "name": "Sanguinius", "slug": "sanguinius" }
+    ],
+    "primarchs": ["roboute-guilliman", "lion-el-jonson", "sanguinius"],
+    "description": "Guilliman founds the Imperium Secundus on Macragge as Terra goes dark, drawing Lion El'Jonson and Sanguinius into a fragile new order."
+  },
+  {
+    "title": "Scars",
+    "slug": "scars",
+    "series": "the-horus-heresy-novels",
+    "orderInSeries": 28,
+    "author": "chris-wraight",
+    "pages": 528,
+    "coverImage": "",
+    "setting": { "era": "Horus Heresy", "millennium": "M31" },
+    "factions": [
+      { "name": "White Scars", "slug": "white-scars" },
+      { "name": "Alpha Legion", "slug": "alpha-legion" }
+    ],
+    "characters": [
+      { "name": "Jaghatai Khan", "slug": "jaghatai-khan" },
+      { "name": "Shiban Khan", "slug": "shiban-khan" }
+    ],
+    "primarchs": ["jaghatai-khan"],
+    "description": "The White Scars are caught between loyalty and treachery as both Chaos and the Inquisition seek to claim them, and Jaghatai Khan rides to war."
+  },
+  {
+    "title": "Vengeful Spirit",
+    "slug": "vengeful-spirit",
+    "series": "the-horus-heresy-novels",
+    "orderInSeries": 29,
+    "author": "graham-mcneill",
+    "pages": 544,
+    "coverImage": "",
+    "setting": { "era": "Horus Heresy", "millennium": "M31" },
+    "factions": [
+      { "name": "Sons of Horus", "slug": "sons-of-horus" },
+      { "name": "Imperial Fists", "slug": "imperial-fists" }
+    ],
+    "characters": [
+      { "name": "Horus Lupercal", "slug": "horus-lupercal" },
+      { "name": "Garviel Loken", "slug": "garviel-loken" }
+    ],
+    "primarchs": ["horus-lupercal", "rogal-dorn"],
+    "description": "Horus descends on Molech to claim a secret power gifted by the Emperor himself, while Loken races to stop him."
+  },
+  {
+    "title": "The Damnation of Pythos",
+    "slug": "the-damnation-of-pythos",
+    "series": "the-horus-heresy-novels",
+    "orderInSeries": 30,
+    "author": "david-annandale",
+    "pages": 416,
+    "coverImage": "",
+    "setting": { "era": "Horus Heresy", "millennium": "M31" },
+    "factions": [
+      { "name": "Iron Hands", "slug": "iron-hands" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "characters": [
+      { "name": "Atticus", "slug": "atticus" }
+    ],
+    "primarchs": [],
+    "description": "Survivors of Isstvan V make planetfall on the jungle world of Pythos, where a terrible darkness awaits them from beyond the warp."
+  },
+  {
+    "title": "Legacies of Betrayal",
+    "slug": "legacies-of-betrayal",
+    "series": "the-horus-heresy-novels",
+    "orderInSeries": 31,
+    "pages": 480,
+    "coverImage": "",
+    "setting": { "era": "Horus Heresy", "millennium": "M31" },
+    "factions": [
+      { "name": "Imperium", "slug": "imperium" }
+    ],
+    "characters": [
+      { "name": "Nathaniel Garro", "slug": "nathaniel-garro" }
+    ],
+    "primarchs": [],
+    "description": "An anthology collecting key short stories and novellas from across the Horus Heresy, including early Nathaniel Garro tales."
+  },
+  {
+    "title": "Deathfire",
+    "slug": "deathfire",
+    "series": "the-horus-heresy-novels",
+    "orderInSeries": 32,
+    "author": "nick-kyme",
+    "pages": 416,
+    "coverImage": "",
+    "setting": { "era": "Horus Heresy", "millennium": "M31" },
+    "factions": [
+      { "name": "Salamanders", "slug": "salamanders" }
+    ],
+    "characters": [
+      { "name": "Numeon", "slug": "numeon" },
+      { "name": "Vulkan", "slug": "vulkan" }
+    ],
+    "primarchs": ["vulkan"],
+    "description": "Numeon leads a desperate pilgrimage to Nocturne, carrying Vulkan's body home and searching for a way to reignite the primarch's deathfire."
+  },
+  {
+    "title": "War Without End",
+    "slug": "war-without-end",
+    "series": "the-horus-heresy-novels",
+    "orderInSeries": 33,
+    "pages": 416,
+    "coverImage": "",
+    "setting": { "era": "Horus Heresy", "millennium": "M31" },
+    "factions": [
+      { "name": "Imperium", "slug": "imperium" }
+    ],
+    "characters": [],
+    "primarchs": [],
+    "description": "An anthology of stories spanning the breadth of the Horus Heresy, from loyal warriors to traitors and the desperate battles between them."
+  },
+  {
+    "title": "Pharos",
+    "slug": "pharos",
+    "series": "the-horus-heresy-novels",
+    "orderInSeries": 34,
+    "author": "guy-haley",
+    "pages": 416,
+    "coverImage": "",
+    "setting": { "era": "Horus Heresy", "millennium": "M31" },
+    "factions": [
+      { "name": "Ultramarines", "slug": "ultramarines" },
+      { "name": "Night Lords", "slug": "night-lords" }
+    ],
+    "characters": [
+      { "name": "Roboute Guilliman", "slug": "roboute-guilliman" },
+      { "name": "Konrad Curze", "slug": "konrad-curze" }
+    ],
+    "primarchs": ["roboute-guilliman", "konrad-curze"],
+    "description": "The Night Lords attack the beacon world of Sotha, threatening the Pharos that guides ships through the warp to Imperium Secundus."
+  },
+  {
+    "title": "Eye of Terra",
+    "slug": "eye-of-terra",
+    "series": "the-horus-heresy-novels",
+    "orderInSeries": 35,
+    "pages": 416,
+    "coverImage": "",
+    "setting": { "era": "Horus Heresy", "millennium": "M31" },
+    "factions": [
+      { "name": "Imperium", "slug": "imperium" }
+    ],
+    "characters": [],
+    "primarchs": [],
+    "description": "An anthology delving into pivotal moments of the Heresy, from the loyalists fighting to survive to the traitors consolidating their gains."
+  },
+  {
+    "title": "The Path of Heaven",
+    "slug": "the-path-of-heaven",
+    "series": "the-horus-heresy-novels",
+    "orderInSeries": 36,
+    "author": "chris-wraight",
+    "pages": 432,
+    "coverImage": "",
+    "setting": { "era": "Horus Heresy", "millennium": "M31" },
+    "factions": [
+      { "name": "White Scars", "slug": "white-scars" },
+      { "name": "Death Guard", "slug": "death-guard" }
+    ],
+    "characters": [
+      { "name": "Jaghatai Khan", "slug": "jaghatai-khan" },
+      { "name": "Shiban Khan", "slug": "shiban-khan" },
+      { "name": "Arvida", "slug": "arvida" }
+    ],
+    "primarchs": ["jaghatai-khan"],
+    "description": "The White Scars fight their way through the Heresy's killing fields to reach Terra, confronting Death Guard and traitor forces blocking their path."
+  },
+  {
+    "title": "The Silent War",
+    "slug": "the-silent-war",
+    "series": "the-horus-heresy-novels",
+    "orderInSeries": 37,
+    "pages": 480,
+    "coverImage": "",
+    "setting": { "era": "Horus Heresy", "millennium": "M31" },
+    "factions": [
+      { "name": "Imperium", "slug": "imperium" }
+    ],
+    "characters": [],
+    "primarchs": [],
+    "description": "An anthology of stories exploring the clandestine war of spies, assassins, and intrigue fought in the shadows of the Horus Heresy."
+  },
+  {
+    "title": "Angels of Caliban",
+    "slug": "angels-of-caliban",
+    "series": "the-horus-heresy-novels",
+    "orderInSeries": 38,
+    "author": "gav-thorpe",
+    "pages": 416,
+    "coverImage": "",
+    "setting": { "era": "Horus Heresy", "millennium": "M31" },
+    "factions": [
+      { "name": "Dark Angels", "slug": "dark-angels" },
+      { "name": "Night Lords", "slug": "night-lords" }
+    ],
+    "characters": [
+      { "name": "Lion El'Jonson", "slug": "lion-el-jonson" },
+      { "name": "Konrad Curze", "slug": "konrad-curze" },
+      { "name": "Astelan", "slug": "astelan" }
+    ],
+    "primarchs": ["lion-el-jonson", "konrad-curze"],
+    "description": "Lion El'Jonson captures Konrad Curze and puts the Night Haunter on trial for his crimes, while civil war threatens Caliban itself."
+  },
+  {
+    "title": "Praetorian of Dorn",
+    "slug": "praetorian-of-dorn",
+    "series": "the-horus-heresy-novels",
+    "orderInSeries": 39,
+    "author": "john-french",
+    "pages": 416,
+    "coverImage": "",
+    "setting": { "era": "Horus Heresy", "millennium": "M31" },
+    "factions": [
+      { "name": "Imperial Fists", "slug": "imperial-fists" },
+      { "name": "Alpha Legion", "slug": "alpha-legion" }
+    ],
+    "characters": [
+      { "name": "Rogal Dorn", "slug": "rogal-dorn" },
+      { "name": "Alpharius", "slug": "alpharius" },
+      { "name": "Sigismund", "slug": "sigismund" }
+    ],
+    "primarchs": ["rogal-dorn", "alpharius"],
+    "description": "The Alpha Legion launch a bold strike against the Sol System itself, and Rogal Dorn must outmanoeuvre the most subtle of enemies."
+  },
+  {
+    "title": "Corax",
+    "slug": "corax",
+    "series": "the-horus-heresy-novels",
+    "orderInSeries": 40,
+    "author": "gav-thorpe",
+    "pages": 416,
+    "coverImage": "",
+    "setting": { "era": "Horus Heresy", "millennium": "M31" },
+    "factions": [
+      { "name": "Raven Guard", "slug": "raven-guard" }
+    ],
+    "characters": [
+      { "name": "Corvus Corax", "slug": "corvus-corax" }
+    ],
+    "primarchs": ["corvus-corax"],
+    "description": "A collection of stories centred on Corvus Corax and the Raven Guard, exploring the primarch's darkest decisions and their consequences."
+  },
+  {
+    "title": "The Master of Mankind",
+    "slug": "the-master-of-mankind",
+    "series": "the-horus-heresy-novels",
+    "orderInSeries": 41,
+    "author": "aaron-dembski-bowden",
+    "pages": 320,
+    "coverImage": "",
+    "setting": { "era": "Horus Heresy", "millennium": "M31" },
+    "factions": [
+      { "name": "Imperium", "slug": "imperium" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "characters": [
+      { "name": "Constantin Valdor", "slug": "constantin-valdor" },
+      { "name": "Diocletian", "slug": "diocletian" }
+    ],
+    "primarchs": [],
+    "description": "Deep beneath the Imperial Palace, the Emperor toils on the Golden Throne while his Custodians fight a savage war against daemonic incursions in the Webway."
+  },
+  {
+    "title": "Garro",
+    "slug": "garro",
+    "series": "the-horus-heresy-novels",
+    "orderInSeries": 42,
+    "author": "james-swallow",
+    "pages": 704,
+    "coverImage": "",
+    "setting": { "era": "Horus Heresy", "millennium": "M31" },
+    "factions": [
+      { "name": "Knights Errant", "slug": "knights-errant" },
+      { "name": "Imperium", "slug": "imperium" }
+    ],
+    "characters": [
+      { "name": "Nathaniel Garro", "slug": "nathaniel-garro" }
+    ],
+    "primarchs": [],
+    "description": "The collected audio dramas and stories of Nathaniel Garro, the Knight Errant who walks a solitary path serving the nascent Inquisition."
+  },
+  {
+    "title": "Shattered Legions",
+    "slug": "shattered-legions",
+    "series": "the-horus-heresy-novels",
+    "orderInSeries": 43,
+    "pages": 480,
+    "coverImage": "",
+    "setting": { "era": "Horus Heresy", "millennium": "M31" },
+    "factions": [
+      { "name": "Iron Hands", "slug": "iron-hands" },
+      { "name": "Raven Guard", "slug": "raven-guard" },
+      { "name": "Salamanders", "slug": "salamanders" }
+    ],
+    "characters": [],
+    "primarchs": [],
+    "description": "An anthology following the survivors of Isstvan V — Iron Hands, Raven Guard, and Salamanders — waging a guerrilla war against the traitor Legions."
+  },
+  {
+    "title": "The Crimson King",
+    "slug": "the-crimson-king",
+    "series": "the-horus-heresy-novels",
+    "orderInSeries": 44,
+    "author": "graham-mcneill",
+    "pages": 432,
+    "coverImage": "",
+    "setting": { "era": "Horus Heresy", "millennium": "M31" },
+    "factions": [
+      { "name": "Thousand Sons", "slug": "thousand-sons" }
+    ],
+    "characters": [
+      { "name": "Magnus the Red", "slug": "magnus-the-red" },
+      { "name": "Ahriman", "slug": "ahriman" }
+    ],
+    "primarchs": ["magnus-the-red"],
+    "description": "Magnus the Red seeks to warn the Emperor of Horus's treachery through sorcery, but the price of his vision will doom his Legion."
+  },
+  {
+    "title": "Tallarn",
+    "slug": "tallarn",
+    "series": "the-horus-heresy-novels",
+    "orderInSeries": 45,
+    "author": "john-french",
+    "pages": 480,
+    "coverImage": "",
+    "setting": { "era": "Horus Heresy", "millennium": "M31" },
+    "factions": [
+      { "name": "Iron Warriors", "slug": "iron-warriors" },
+      { "name": "Imperium", "slug": "imperium" }
+    ],
+    "characters": [
+      { "name": "Perturabo", "slug": "perturabo" }
+    ],
+    "primarchs": ["perturabo"],
+    "description": "The Iron Warriors poison Tallarn with a virus bomb, triggering the largest armoured conflict in the history of the Horus Heresy."
+  },
+  {
+    "title": "Ruinstorm",
+    "slug": "ruinstorm",
+    "series": "the-horus-heresy-novels",
+    "orderInSeries": 46,
+    "author": "david-annandale",
+    "pages": 416,
+    "coverImage": "",
+    "setting": { "era": "Horus Heresy", "millennium": "M31" },
+    "factions": [
+      { "name": "Ultramarines", "slug": "ultramarines" },
+      { "name": "Blood Angels", "slug": "blood-angels" },
+      { "name": "Dark Angels", "slug": "dark-angels" }
+    ],
+    "characters": [
+      { "name": "Roboute Guilliman", "slug": "roboute-guilliman" },
+      { "name": "Lion El'Jonson", "slug": "lion-el-jonson" },
+      { "name": "Sanguinius", "slug": "sanguinius" }
+    ],
+    "primarchs": ["roboute-guilliman", "lion-el-jonson", "sanguinius"],
+    "description": "Three primarchs battle through the Ruinstorm to reach Terra, knowing that each step closer could decide the fate of the Imperium."
+  },
+  {
+    "title": "Old Earth",
+    "slug": "old-earth",
+    "series": "the-horus-heresy-novels",
+    "orderInSeries": 47,
+    "author": "nick-kyme",
+    "pages": 416,
+    "coverImage": "",
+    "setting": { "era": "Horus Heresy", "millennium": "M31" },
+    "factions": [
+      { "name": "Salamanders", "slug": "salamanders" }
+    ],
+    "characters": [
+      { "name": "Vulkan", "slug": "vulkan" },
+      { "name": "Numeon", "slug": "numeon" }
+    ],
+    "primarchs": ["vulkan"],
+    "description": "Vulkan's long journey through death and rebirth draws to a close as he returns to Terra, forever changed by his ordeal."
+  },
+  {
+    "title": "The Burden of Loyalty",
+    "slug": "the-burden-of-loyalty",
+    "series": "the-horus-heresy-novels",
+    "orderInSeries": 48,
+    "pages": 480,
+    "coverImage": "",
+    "setting": { "era": "Horus Heresy", "millennium": "M31" },
+    "factions": [
+      { "name": "Imperium", "slug": "imperium" }
+    ],
+    "characters": [],
+    "primarchs": [],
+    "description": "An anthology examining the cost of loyalty during the Heresy, through the eyes of warriors on both sides of the conflict."
+  },
+  {
+    "title": "Wolfsbane",
+    "slug": "wolfsbane",
+    "series": "the-horus-heresy-novels",
+    "orderInSeries": 49,
+    "author": "guy-haley",
+    "pages": 336,
+    "coverImage": "",
+    "setting": { "era": "Horus Heresy", "millennium": "M31" },
+    "factions": [
+      { "name": "Space Wolves", "slug": "space-wolves" },
+      { "name": "Sons of Horus", "slug": "sons-of-horus" }
+    ],
+    "characters": [
+      { "name": "Leman Russ", "slug": "leman-russ" },
+      { "name": "Horus Lupercal", "slug": "horus-lupercal" }
+    ],
+    "primarchs": ["leman-russ", "horus-lupercal"],
+    "description": "Leman Russ makes a desperate bid to reach Horus and end the Heresy with a single blade-strike, but nothing goes as planned."
+  },
+  {
+    "title": "Born of Flame",
+    "slug": "born-of-flame",
+    "series": "the-horus-heresy-novels",
+    "orderInSeries": 50,
+    "pages": 432,
+    "coverImage": "",
+    "setting": { "era": "Horus Heresy", "millennium": "M31" },
+    "factions": [
+      { "name": "Salamanders", "slug": "salamanders" },
+      { "name": "Word Bearers", "slug": "word-bearers" }
+    ],
+    "characters": [],
+    "primarchs": ["vulkan"],
+    "description": "An anthology of Salamanders stories exploring the Legion's history, beliefs, and the long shadow cast by their missing primarch Vulkan."
+  },
+  {
+    "title": "Slaves to Darkness",
+    "slug": "slaves-to-darkness",
+    "series": "the-horus-heresy-novels",
+    "orderInSeries": 51,
+    "author": "john-french",
+    "pages": 432,
+    "coverImage": "",
+    "setting": { "era": "Horus Heresy", "millennium": "M31" },
+    "factions": [
+      { "name": "Sons of Horus", "slug": "sons-of-horus" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "characters": [
+      { "name": "Horus Lupercal", "slug": "horus-lupercal" },
+      { "name": "Maloghurst", "slug": "maloghurst" }
+    ],
+    "primarchs": ["horus-lupercal", "fulgrim", "perturabo", "angron", "mortarion"],
+    "description": "Horus calls the Traitor primarchs to council to forge a final strategy for the assault on Terra, but unity among the damned is fragile."
+  },
+  {
+    "title": "Heralds of the Siege",
+    "slug": "heralds-of-the-siege",
+    "series": "the-horus-heresy-novels",
+    "orderInSeries": 52,
+    "pages": 480,
+    "coverImage": "",
+    "setting": { "era": "Horus Heresy", "millennium": "M31" },
+    "factions": [
+      { "name": "Imperium", "slug": "imperium" }
+    ],
+    "characters": [],
+    "primarchs": [],
+    "description": "An anthology of stories set on the eve of the Siege of Terra, as both sides make their final preparations for the war's decisive battle."
+  },
+  {
+    "title": "Titandeath",
+    "slug": "titandeath",
+    "series": "the-horus-heresy-novels",
+    "orderInSeries": 53,
+    "author": "guy-haley",
+    "pages": 352,
+    "coverImage": "",
+    "setting": { "era": "Horus Heresy", "millennium": "M31" },
+    "factions": [
+      { "name": "Legio Titanicus", "slug": "legio-titanicus" },
+      { "name": "Sons of Horus", "slug": "sons-of-horus" }
+    ],
+    "characters": [
+      { "name": "Jaghatai Khan", "slug": "jaghatai-khan" },
+      { "name": "Mortarion", "slug": "mortarion" }
+    ],
+    "primarchs": ["jaghatai-khan", "mortarion"],
+    "description": "The war for Beta-Garmon rages as Titan Legions clash in the largest mechanised battle of the Heresy, the gateway to Terra hanging in the balance."
+  },
+  {
+    "title": "The Buried Dagger",
+    "slug": "the-buried-dagger",
+    "series": "the-horus-heresy-novels",
+    "orderInSeries": 54,
+    "author": "james-swallow",
+    "pages": 432,
+    "coverImage": "",
+    "setting": { "era": "Horus Heresy", "millennium": "M31" },
+    "factions": [
+      { "name": "Death Guard", "slug": "death-guard" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "characters": [
+      { "name": "Mortarion", "slug": "mortarion" },
+      { "name": "Nathaniel Garro", "slug": "nathaniel-garro" },
+      { "name": "Typhus", "slug": "typhus" }
+    ],
+    "primarchs": ["mortarion"],
+    "description": "Mortarion and the Death Guard are claimed by Nurgle in the final dark transformation, closing the last chapter before the Siege of Terra begins."
+  }
+]

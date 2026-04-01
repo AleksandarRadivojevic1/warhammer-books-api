@@ -1,0 +1,308 @@
+[
+  {
+    "title": "First and Only",
+    "slug": "first-and-only",
+    "series": "gaunts-ghosts",
+    "orderInSeries": 1,
+    "author": "dan-abnett",
+    "pages": 320,
+    "coverImage": "",
+    "setting": { "era": "41st Millennium", "millennium": "M41" },
+    "factions": [
+      { "name": "Astra Militarum", "slug": "astra-militarum" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "characters": [
+      { "name": "Ibram Gaunt", "slug": "ibram-gaunt" },
+      { "name": "Colm Corbec", "slug": "colm-corbec" },
+      { "name": "Mkoll", "slug": "mkoll" }
+    ],
+    "primarchs": [],
+    "description": "Colonel-Commissar Ibram Gaunt and the Tanith First-and-Only are thrust into the brutal Sabbat Worlds Crusade, fighting for survival on deadly battlefields."
+  },
+  {
+    "title": "Ghostmaker",
+    "slug": "ghostmaker",
+    "series": "gaunts-ghosts",
+    "orderInSeries": 2,
+    "author": "dan-abnett",
+    "pages": 384,
+    "coverImage": "",
+    "setting": { "era": "41st Millennium", "millennium": "M41" },
+    "factions": [
+      { "name": "Astra Militarum", "slug": "astra-militarum" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "characters": [
+      { "name": "Ibram Gaunt", "slug": "ibram-gaunt" },
+      { "name": "Colm Corbec", "slug": "colm-corbec" },
+      { "name": "Hlaine Larkin", "slug": "hlaine-larkin" }
+    ],
+    "primarchs": [],
+    "description": "A collection of linked stories exploring the origins of the Ghosts and the individuals that make up Gaunt's remarkable regiment."
+  },
+  {
+    "title": "Necropolis",
+    "slug": "necropolis",
+    "series": "gaunts-ghosts",
+    "orderInSeries": 3,
+    "author": "dan-abnett",
+    "pages": 448,
+    "coverImage": "",
+    "setting": { "era": "41st Millennium", "millennium": "M41" },
+    "factions": [
+      { "name": "Astra Militarum", "slug": "astra-militarum" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "characters": [
+      { "name": "Ibram Gaunt", "slug": "ibram-gaunt" },
+      { "name": "Tona Criid", "slug": "tona-criid" },
+      { "name": "Caffran", "slug": "caffran" }
+    ],
+    "primarchs": [],
+    "description": "The Ghosts fight a brutal hive city war on Verghast, defending Vervunhive against a massive Chaos-backed assault from a rival city."
+  },
+  {
+    "title": "Honour Guard",
+    "slug": "honour-guard",
+    "series": "gaunts-ghosts",
+    "orderInSeries": 4,
+    "author": "dan-abnett",
+    "pages": 320,
+    "coverImage": "",
+    "setting": { "era": "41st Millennium", "millennium": "M41" },
+    "factions": [
+      { "name": "Astra Militarum", "slug": "astra-militarum" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "characters": [
+      { "name": "Ibram Gaunt", "slug": "ibram-gaunt" },
+      { "name": "Colm Corbec", "slug": "colm-corbec" }
+    ],
+    "primarchs": [],
+    "description": "Gaunt is tasked with retrieving a holy relic from deep in enemy territory on the shrine world of Hagia, with only his Ghosts to rely on."
+  },
+  {
+    "title": "The Guns of Tanith",
+    "slug": "the-guns-of-tanith",
+    "series": "gaunts-ghosts",
+    "orderInSeries": 5,
+    "author": "dan-abnett",
+    "pages": 320,
+    "coverImage": "",
+    "setting": { "era": "41st Millennium", "millennium": "M41" },
+    "factions": [
+      { "name": "Astra Militarum", "slug": "astra-militarum" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "characters": [
+      { "name": "Ibram Gaunt", "slug": "ibram-gaunt" },
+      { "name": "Mkvenner", "slug": "mkvenner" }
+    ],
+    "primarchs": [],
+    "description": "The Ghosts are thrown into an urban war on the vital city-world of Phantine, fighting alongside rival regiments in a battle for control of the skies."
+  },
+  {
+    "title": "Straight Silver",
+    "slug": "straight-silver",
+    "series": "gaunts-ghosts",
+    "orderInSeries": 6,
+    "author": "dan-abnett",
+    "pages": 320,
+    "coverImage": "",
+    "setting": { "era": "41st Millennium", "millennium": "M41" },
+    "factions": [
+      { "name": "Astra Militarum", "slug": "astra-militarum" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "characters": [
+      { "name": "Ibram Gaunt", "slug": "ibram-gaunt" },
+      { "name": "Eszrah Night", "slug": "eszrah-night" }
+    ],
+    "primarchs": [],
+    "description": "The Ghosts are deployed to the trenches of Aexe Cardinal, caught in a grinding attritional war unlike any they have faced before."
+  },
+  {
+    "title": "Sabbat Martyr",
+    "slug": "sabbat-martyr",
+    "series": "gaunts-ghosts",
+    "orderInSeries": 7,
+    "author": "dan-abnett",
+    "pages": 320,
+    "coverImage": "",
+    "setting": { "era": "41st Millennium", "millennium": "M41" },
+    "factions": [
+      { "name": "Astra Militarum", "slug": "astra-militarum" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "characters": [
+      { "name": "Ibram Gaunt", "slug": "ibram-gaunt" },
+      { "name": "Saint Sabbat", "slug": "saint-sabbat" }
+    ],
+    "primarchs": [],
+    "description": "The reincarnated Saint Sabbat walks the battlefields of Herodor, and Gaunt's Ghosts are her chosen protectors against a massive Chaos assault."
+  },
+  {
+    "title": "Traitor General",
+    "slug": "traitor-general",
+    "series": "gaunts-ghosts",
+    "orderInSeries": 8,
+    "author": "dan-abnett",
+    "pages": 320,
+    "coverImage": "",
+    "setting": { "era": "41st Millennium", "millennium": "M41" },
+    "factions": [
+      { "name": "Astra Militarum", "slug": "astra-militarum" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "characters": [
+      { "name": "Ibram Gaunt", "slug": "ibram-gaunt" },
+      { "name": "Eszrah Night", "slug": "eszrah-night" }
+    ],
+    "primarchs": [],
+    "description": "Gaunt leads a small team deep into Chaos-held territory on Gereon to assassinate a defected Imperial general before he gives up vital secrets."
+  },
+  {
+    "title": "His Last Command",
+    "slug": "his-last-command",
+    "series": "gaunts-ghosts",
+    "orderInSeries": 9,
+    "author": "dan-abnett",
+    "pages": 320,
+    "coverImage": "",
+    "setting": { "era": "41st Millennium", "millennium": "M41" },
+    "factions": [
+      { "name": "Astra Militarum", "slug": "astra-militarum" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "characters": [
+      { "name": "Ibram Gaunt", "slug": "ibram-gaunt" },
+      { "name": "Rawne", "slug": "rawne" }
+    ],
+    "primarchs": [],
+    "description": "Gaunt returns from Gereon a changed man, rejoining his Ghosts on the front lines of the Sabbat Worlds Crusade for one more brutal campaign."
+  },
+  {
+    "title": "The Armour of Contempt",
+    "slug": "the-armour-of-contempt",
+    "series": "gaunts-ghosts",
+    "orderInSeries": 10,
+    "author": "dan-abnett",
+    "pages": 320,
+    "coverImage": "",
+    "setting": { "era": "41st Millennium", "millennium": "M41" },
+    "factions": [
+      { "name": "Astra Militarum", "slug": "astra-militarum" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "characters": [
+      { "name": "Ibram Gaunt", "slug": "ibram-gaunt" },
+      { "name": "Dalin Criid", "slug": "dalin-criid" }
+    ],
+    "primarchs": [],
+    "description": "The Gereon resistance fighters are integrated into the Imperial Guard as the Crusade pushes deeper into the Chaos-held worlds."
+  },
+  {
+    "title": "Only in Death",
+    "slug": "only-in-death",
+    "series": "gaunts-ghosts",
+    "orderInSeries": 11,
+    "author": "dan-abnett",
+    "pages": 352,
+    "coverImage": "",
+    "setting": { "era": "41st Millennium", "millennium": "M41" },
+    "factions": [
+      { "name": "Astra Militarum", "slug": "astra-militarum" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "characters": [
+      { "name": "Ibram Gaunt", "slug": "ibram-gaunt" },
+      { "name": "Colm Corbec", "slug": "colm-corbec" }
+    ],
+    "primarchs": [],
+    "description": "Gaunt and the Ghosts are besieged in the haunted fortress of Hinzerhaus, battling both Chaos forces and terrifying manifestations from within."
+  },
+  {
+    "title": "Blood Pact",
+    "slug": "blood-pact",
+    "series": "gaunts-ghosts",
+    "orderInSeries": 12,
+    "author": "dan-abnett",
+    "pages": 352,
+    "coverImage": "",
+    "setting": { "era": "41st Millennium", "millennium": "M41" },
+    "factions": [
+      { "name": "Astra Militarum", "slug": "astra-militarum" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "characters": [
+      { "name": "Ibram Gaunt", "slug": "ibram-gaunt" },
+      { "name": "Rawne", "slug": "rawne" },
+      { "name": "Ana Curth", "slug": "ana-curth" }
+    ],
+    "primarchs": [],
+    "description": "A Chaos prisoner holds vital intelligence, but the Blood Pact have dispatched assassins to ensure he never speaks. Gaunt's Ghosts are all that stand in the way."
+  },
+  {
+    "title": "Salvation's Reach",
+    "slug": "salvations-reach",
+    "series": "gaunts-ghosts",
+    "orderInSeries": 13,
+    "author": "dan-abnett",
+    "pages": 352,
+    "coverImage": "",
+    "setting": { "era": "41st Millennium", "millennium": "M41" },
+    "factions": [
+      { "name": "Astra Militarum", "slug": "astra-militarum" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "characters": [
+      { "name": "Ibram Gaunt", "slug": "ibram-gaunt" },
+      { "name": "Mabbon Etogaur", "slug": "mabbon-etogaur" }
+    ],
+    "primarchs": [],
+    "description": "Gaunt leads a desperate raid on a remote Chaos stronghold, hoping to retrieve intelligence that could turn the tide of the entire Crusade."
+  },
+  {
+    "title": "The Warmaster",
+    "slug": "the-warmaster",
+    "series": "gaunts-ghosts",
+    "orderInSeries": 14,
+    "author": "dan-abnett",
+    "pages": 400,
+    "coverImage": "",
+    "setting": { "era": "41st Millennium", "millennium": "M41" },
+    "factions": [
+      { "name": "Astra Militarum", "slug": "astra-militarum" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "characters": [
+      { "name": "Ibram Gaunt", "slug": "ibram-gaunt" },
+      { "name": "Rawne", "slug": "rawne" },
+      { "name": "Mabbon Etogaur", "slug": "mabbon-etogaur" }
+    ],
+    "primarchs": [],
+    "description": "Gaunt is summoned to the command of the Sabbat Worlds Crusade itself, putting the Ghosts in the crosshairs of enemies from every direction."
+  },
+  {
+    "title": "Anarch",
+    "slug": "anarch",
+    "series": "gaunts-ghosts",
+    "orderInSeries": 15,
+    "author": "dan-abnett",
+    "pages": 480,
+    "coverImage": "",
+    "setting": { "era": "41st Millennium", "millennium": "M41" },
+    "factions": [
+      { "name": "Astra Militarum", "slug": "astra-militarum" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "characters": [
+      { "name": "Ibram Gaunt", "slug": "ibram-gaunt" },
+      { "name": "Rawne", "slug": "rawne" },
+      { "name": "Mabbon Etogaur", "slug": "mabbon-etogaur" }
+    ],
+    "primarchs": [],
+    "description": "The Anarch himself moves against the Crusade, and Gaunt faces the most dangerous enemy he has ever encountered in the final battle for the Sabbat Worlds."
+  }
+]

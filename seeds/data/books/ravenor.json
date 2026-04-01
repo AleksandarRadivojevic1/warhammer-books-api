@@ -1,0 +1,65 @@
+[
+  {
+    "title": "Ravenor",
+    "slug": "ravenor",
+    "series": "ravenor",
+    "orderInSeries": 1,
+    "author": "dan-abnett",
+    "pages": 384,
+    "coverImage": "",
+    "setting": { "era": "41st Millennium", "millennium": "M41" },
+    "factions": [
+      { "name": "Inquisition", "slug": "inquisition" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "characters": [
+      { "name": "Gideon Ravenor", "slug": "gideon-ravenor" },
+      { "name": "Patience Kys", "slug": "patience-kys" },
+      { "name": "Carl Thonius", "slug": "carl-thonius" }
+    ],
+    "primarchs": [],
+    "description": "Inquisitor Gideon Ravenor and his lethal warband investigate the trafficking of a dangerous substance called flects across the Scarus Sector."
+  },
+  {
+    "title": "Ravenor Returned",
+    "slug": "ravenor-returned",
+    "series": "ravenor",
+    "orderInSeries": 2,
+    "author": "dan-abnett",
+    "pages": 384,
+    "coverImage": "",
+    "setting": { "era": "41st Millennium", "millennium": "M41" },
+    "factions": [
+      { "name": "Inquisition", "slug": "inquisition" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "characters": [
+      { "name": "Gideon Ravenor", "slug": "gideon-ravenor" },
+      { "name": "Patience Kys", "slug": "patience-kys" },
+      { "name": "Zael", "slug": "zael" }
+    ],
+    "primarchs": [],
+    "description": "Ravenor's warband pursues their quarry through the underbelly of the Imperium, uncovering a conspiracy that reaches into the heart of the Inquisition itself."
+  },
+  {
+    "title": "Ravenor Rogue",
+    "slug": "ravenor-rogue",
+    "series": "ravenor",
+    "orderInSeries": 3,
+    "author": "dan-abnett",
+    "pages": 384,
+    "coverImage": "",
+    "setting": { "era": "41st Millennium", "millennium": "M41" },
+    "factions": [
+      { "name": "Inquisition", "slug": "inquisition" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "characters": [
+      { "name": "Gideon Ravenor", "slug": "gideon-ravenor" },
+      { "name": "Gregor Eisenhorn", "slug": "gregor-eisenhorn" },
+      { "name": "Patience Kys", "slug": "patience-kys" }
+    ],
+    "primarchs": [],
+    "description": "Declared rogue by the Inquisition, Ravenor's warband makes a final desperate move to close the case that has defined their lives — and reunites with Eisenhorn."
+  }
+]

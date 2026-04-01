@@ -1,0 +1,85 @@
+[
+  {
+    "title": "Xenos",
+    "slug": "xenos-eisenhorn",
+    "series": "eisenhorn",
+    "orderInSeries": 1,
+    "author": "dan-abnett",
+    "pages": 352,
+    "coverImage": "",
+    "setting": { "era": "41st Millennium", "millennium": "M41" },
+    "factions": [
+      { "name": "Inquisition", "slug": "inquisition" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "characters": [
+      { "name": "Gregor Eisenhorn", "slug": "gregor-eisenhorn" },
+      { "name": "Aemos", "slug": "aemos" },
+      { "name": "Bequin", "slug": "bequin" }
+    ],
+    "primarchs": [],
+    "description": "Inquisitor Gregor Eisenhorn hunts a xenos-tainted conspiracy across the Imperium, confronting heresy and darkness at every turn."
+  },
+  {
+    "title": "Malleus",
+    "slug": "malleus-eisenhorn",
+    "series": "eisenhorn",
+    "orderInSeries": 2,
+    "author": "dan-abnett",
+    "pages": 368,
+    "coverImage": "",
+    "setting": { "era": "41st Millennium", "millennium": "M41" },
+    "factions": [
+      { "name": "Inquisition", "slug": "inquisition" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "characters": [
+      { "name": "Gregor Eisenhorn", "slug": "gregor-eisenhorn" },
+      { "name": "Cherubael", "slug": "cherubael" },
+      { "name": "Gideon Ravenor", "slug": "gideon-ravenor" }
+    ],
+    "primarchs": [],
+    "description": "Eisenhorn pursues a daemonic conspiracy that forces him to make increasingly dark choices, and introduces the bound daemon Cherubael."
+  },
+  {
+    "title": "Hereticus",
+    "slug": "hereticus-eisenhorn",
+    "series": "eisenhorn",
+    "orderInSeries": 3,
+    "author": "dan-abnett",
+    "pages": 352,
+    "coverImage": "",
+    "setting": { "era": "41st Millennium", "millennium": "M41" },
+    "factions": [
+      { "name": "Inquisition", "slug": "inquisition" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "characters": [
+      { "name": "Gregor Eisenhorn", "slug": "gregor-eisenhorn" },
+      { "name": "Cherubael", "slug": "cherubael" },
+      { "name": "Alizebeth Bequin", "slug": "alizebeth-bequin" }
+    ],
+    "primarchs": [],
+    "description": "Eisenhorn is declared Radical and hunted by his own organisation, as the line between Inquisitor and heretic blurs beyond recognition."
+  },
+  {
+    "title": "The Magos",
+    "slug": "the-magos",
+    "series": "eisenhorn",
+    "orderInSeries": 4,
+    "author": "dan-abnett",
+    "pages": 480,
+    "coverImage": "",
+    "setting": { "era": "41st Millennium", "millennium": "M41" },
+    "factions": [
+      { "name": "Inquisition", "slug": "inquisition" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "characters": [
+      { "name": "Gregor Eisenhorn", "slug": "gregor-eisenhorn" },
+      { "name": "Cherubael", "slug": "cherubael" }
+    ],
+    "primarchs": [],
+    "description": "A collection of short stories and a new novella bridging the gap between the Eisenhorn and Ravenor trilogies, showing Eisenhorn's darkest years."
+  }
+]

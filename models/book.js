@@ -50,7 +50,10 @@ const bookSchema = new mongoose.Schema({
       slug: String
   }],
 
-  characters: [String],
+  characters: [{
+    name: String,
+    slug: String
+  }],
 
     primarchs: [{
     type: mongoose.Schema.Types.ObjectId,

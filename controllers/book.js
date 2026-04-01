@@ -6,10 +6,10 @@ const Primarch = require("../models/primarch");
 const BASE_URL = "/api/v1";
 
 //URL helpers
-const bookUrl     = (slug)  => `${BASE_URL}/books/${slug}`;
-const authorUrl   = (slug)  => `${BASE_URL}/authors/${slug}`;
-const seriesUrl   = (slug)  => `${BASE_URL}/series/${slug}`;
-const primarchUrl = (slug)  => `${BASE_URL}/primarchs/${slug}`;
+const bookUrl = (slug) => `${BASE_URL}/books/${slug}`;
+const authorUrl = (slug) => `${BASE_URL}/authors/${slug}`;
+const seriesUrl = (slug) => `${BASE_URL}/series/${slug}`;
+const primarchUrl = (slug) => `${BASE_URL}/primarchs/${slug}`;
 
 // Formats a populated author into the API shape
 const formatAuthor = (author) =>
@@ -19,52 +19,105 @@ const formatAuthor = (author) =>
 const formatSeries = (series) =>
   series ? { name: series.name, url: seriesUrl(series.slug) } : null;
 
+const SLUG_PATTERN = /^[a-z0-9-]+$/;
 
-// Get all books with pagination
-exports.getBooks = async (req, res) => {
+const validateSlug = (slug, field, res) => {
+  if (!SLUG_PATTERN.test(slug)) {
+    res.status(400).json({ error: `Invalid ${field}: "${slug}"` });
+    return false;
+  }
+  return true;
+};
+
+// Escapes special regex characters in a search string
+const escapeRegex = (str) => str.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+
+// Get all books with pagination and optional filtering
+exports.getBooks = async (req, res, next) => {
   try {
-    const page  = Math.max(1, parseInt(req.query.page) || 1);
+    const page = Math.max(1, parseInt(req.query.page) || 1);
     const limit = 10;
+    const filter = {};
+
+    // Direct field filters
+    if (req.query.era) filter["setting.era"] = req.query.era;
+    if (req.query.millennium) filter["setting.millennium"] = req.query.millennium;
+    if (req.query.search) {
+      filter.title = { $regex: escapeRegex(req.query.search), $options: "i" };
+    }
+
+    // Slug-based filters — validate slug, look up _id, filter by it
+    if (req.query.series) {
+      if (!validateSlug(req.query.series, "series", res)) return;
+      const series = await Series.findOne({ slug: req.query.series });
+      if (!series) return res.status(404).json({ error: `Series not found: "${req.query.series}"` });
+      filter.series = series._id;
+    }
+
+    if (req.query.author) {
+      if (!validateSlug(req.query.author, "author", res)) return;
+      const author = await Author.findOne({ slug: req.query.author });
+      if (!author) return res.status(404).json({ error: `Author not found: "${req.query.author}"` });
+      filter.author = author._id;
+    }
+
+    if (req.query.primarch) {
+      if (!validateSlug(req.query.primarch, "primarch", res)) return;
+      const primarch = await Primarch.findOne({ slug: req.query.primarch });
+      if (!primarch) return res.status(404).json({ error: `Primarch not found: "${req.query.primarch}"` });
+      filter.primarchs = primarch._id;
+    }
 
     const [total, books] = await Promise.all([
-      Book.countDocuments(),
-      Book.find()
-        .populate("author", "name slug")  // populate so URLs use slugs
+      Book.countDocuments(filter),
+      Book.find(filter)
+        .populate("author", "name slug")
         .populate("series", "name slug")
+        .sort({ orderInSeries: 1 })
         .skip((page - 1) * limit)
         .limit(limit),
     ]);
 
+    // Preserve active filters in pagination links
+    const activeFilters = { ...req.query };
+    delete activeFilters.page;
+    const filterString = new URLSearchParams(activeFilters).toString();
+    const paginationBase = filterString
+      ? `${BASE_URL}/books?${filterString}&`
+      : `${BASE_URL}/books?`;
+
     const results = books.map((book) => ({
-      id:         book._id,
-      title:      book.title,
-      slug:       book.slug,
-      url:        bookUrl(book.slug),
-      series:     formatSeries(book.series),
-      author:     formatAuthor(book.author),
+      id: book._id,
+      title: book.title,
+      slug: book.slug,
+      url: bookUrl(book.slug),
+      series: formatSeries(book.series),
+      author: formatAuthor(book.author),
       coverImage: book.coverImage || null,
-      setting:    book.setting,
+      setting: book.setting,
+      characters: book.characters ?? [],
+      factions: book.factions ?? [],
     }));
 
     res.json({
-      count:    total,
-      next:     page * limit < total ? `${BASE_URL}/books?page=${page + 1}` : null,
-      previous: page > 1             ? `${BASE_URL}/books?page=${page - 1}` : null,
+      count: total,
+      next: page * limit < total ? `${paginationBase}page=${page + 1}` : null,
+      previous: page > 1 ? `${paginationBase}page=${page - 1}` : null,
       results,
     });
 
   } catch (err) {
-    res.status(500).json({ error: err.message });
+    next(err);
   }
 };
 
 
 // Get book by slug
-exports.getBookBySlug = async (req, res) => {
+exports.getBookBySlug = async (req, res, next) => {
   try {
     const book = await Book.findOne({ slug: req.params.slug })
-      .populate("author",    "name slug")
-      .populate("series",    "name slug")
+      .populate("author", "name slug")
+      .populate("series", "name slug")
       .populate("primarchs", "name slug");
 
     if (!book) {
@@ -72,24 +125,26 @@ exports.getBookBySlug = async (req, res) => {
     }
 
     res.json({
-      id:          book._id,
-      title:       book.title,
-      slug:        book.slug,
+      id: book._id,
+      title: book.title,
+      slug: book.slug,
       description: book.description,
-      series:      formatSeries(book.series), 
-      author:      formatAuthor(book.author),
-      pages:       book.pages,
-      coverImage:  book.coverImage || null,
-      setting:     book.setting,
-      primarchs:   (book.primarchs ?? []).map((p) => ({
+      series: formatSeries(book.series),
+      author: formatAuthor(book.author),
+      pages: book.pages,
+      coverImage: book.coverImage || null,
+      setting: book.setting,
+      primarchs: (book.primarchs ?? []).map((p) => ({
         name: p.name,
-        url:  primarchUrl(p.slug),
+        url: primarchUrl(p.slug),
       })),
-      createdAt:   book.createdAt,
-      updatedAt:   book.updatedAt,
+      factions: book.factions ?? [],
+      characters: book.characters ?? [],
+      createdAt: book.createdAt,
+      updatedAt: book.updatedAt,
     });
 
   } catch (err) {
-    res.status(500).json({ error: err.message });
+    next(err);
   }
 };

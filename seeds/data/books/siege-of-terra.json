@@ -1,0 +1,208 @@
+[
+  {
+    "title": "The Solar War",
+    "slug": "the-solar-war",
+    "series": "the-siege-of-terra",
+    "orderInSeries": 1,
+    "author": "john-french",
+    "pages": 352,
+    "coverImage": "",
+    "setting": { "era": "Horus Heresy", "millennium": "M31" },
+    "factions": [
+      { "name": "Imperial Fists", "slug": "imperial-fists" },
+      { "name": "Sons of Horus", "slug": "sons-of-horus" }
+    ],
+    "characters": [
+      { "name": "Rogal Dorn", "slug": "rogal-dorn" },
+      { "name": "Sigismund", "slug": "sigismund" },
+      { "name": "Mersadie Oliton", "slug": "mersadie-oliton" }
+    ],
+    "primarchs": ["rogal-dorn", "horus-lupercal"],
+    "description": "The Traitor fleet arrives at the edge of the Solar System and the battle for humanity's birthright begins."
+  },
+  {
+    "title": "The Lost and the Damned",
+    "slug": "the-lost-and-the-damned",
+    "series": "the-siege-of-terra",
+    "orderInSeries": 2,
+    "author": "guy-haley",
+    "pages": 400,
+    "coverImage": "",
+    "setting": { "era": "Horus Heresy", "millennium": "M31" },
+    "factions": [
+      { "name": "Imperium", "slug": "imperium" },
+      { "name": "Sons of Horus", "slug": "sons-of-horus" }
+    ],
+    "characters": [
+      { "name": "Rogal Dorn", "slug": "rogal-dorn" },
+      { "name": "Sanguinius", "slug": "sanguinius" },
+      { "name": "Keeler", "slug": "keeler" }
+    ],
+    "primarchs": ["rogal-dorn", "sanguinius"],
+    "description": "The Traitor forces make landfall on Terra as the outer defences crumble, and the true horror of the Siege begins."
+  },
+  {
+    "title": "The First Wall",
+    "slug": "the-first-wall",
+    "series": "the-siege-of-terra",
+    "orderInSeries": 3,
+    "author": "gav-thorpe",
+    "pages": 400,
+    "coverImage": "",
+    "setting": { "era": "Horus Heresy", "millennium": "M31" },
+    "factions": [
+      { "name": "Imperial Fists", "slug": "imperial-fists" },
+      { "name": "Sons of Horus", "slug": "sons-of-horus" }
+    ],
+    "characters": [
+      { "name": "Rogal Dorn", "slug": "rogal-dorn" },
+      { "name": "Keeler", "slug": "keeler" },
+      { "name": "Archamus", "slug": "archamus" }
+    ],
+    "primarchs": ["rogal-dorn"],
+    "description": "The Traitor assault reaches the walls of the Imperial Palace, and the defenders fight a desperate battle to hold the outer fortifications."
+  },
+  {
+    "title": "Saturnine",
+    "slug": "saturnine",
+    "series": "the-siege-of-terra",
+    "orderInSeries": 4,
+    "author": "dan-abnett",
+    "pages": 448,
+    "coverImage": "",
+    "setting": { "era": "Horus Heresy", "millennium": "M31" },
+    "factions": [
+      { "name": "Imperial Fists", "slug": "imperial-fists" },
+      { "name": "Sons of Horus", "slug": "sons-of-horus" }
+    ],
+    "characters": [
+      { "name": "Rogal Dorn", "slug": "rogal-dorn" },
+      { "name": "Sanguinius", "slug": "sanguinius" },
+      { "name": "Sigismund", "slug": "sigismund" }
+    ],
+    "primarchs": ["rogal-dorn", "sanguinius"],
+    "description": "The Siege reaches a critical point as both sides pour everything into the battle for the Saturnine gate, and sacrifices are made that cannot be undone."
+  },
+  {
+    "title": "Mortis",
+    "slug": "mortis",
+    "series": "the-siege-of-terra",
+    "orderInSeries": 5,
+    "author": "john-french",
+    "pages": 448,
+    "coverImage": "",
+    "setting": { "era": "Horus Heresy", "millennium": "M31" },
+    "factions": [
+      { "name": "Legio Titanicus", "slug": "legio-titanicus" },
+      { "name": "Sons of Horus", "slug": "sons-of-horus" }
+    ],
+    "characters": [
+      { "name": "Rogal Dorn", "slug": "rogal-dorn" },
+      { "name": "Sanguinius", "slug": "sanguinius" }
+    ],
+    "primarchs": ["rogal-dorn", "sanguinius"],
+    "description": "The Titan Legions clash on the plains of Terra as the defenders strain to hold back an endless tide of traitors and the warp grows stronger."
+  },
+  {
+    "title": "Warhawk",
+    "slug": "warhawk",
+    "series": "the-siege-of-terra",
+    "orderInSeries": 6,
+    "author": "chris-wraight",
+    "pages": 384,
+    "coverImage": "",
+    "setting": { "era": "Horus Heresy", "millennium": "M31" },
+    "factions": [
+      { "name": "White Scars", "slug": "white-scars" },
+      { "name": "Death Guard", "slug": "death-guard" }
+    ],
+    "characters": [
+      { "name": "Jaghatai Khan", "slug": "jaghatai-khan" },
+      { "name": "Mortarion", "slug": "mortarion" }
+    ],
+    "primarchs": ["jaghatai-khan", "mortarion"],
+    "description": "Jaghatai Khan leads the White Scars into the Webway beneath Terra to reclaim a vital passage, while Mortarion works to collapse it forever."
+  },
+  {
+    "title": "Echoes of Eternity",
+    "slug": "echoes-of-eternity",
+    "series": "the-siege-of-terra",
+    "orderInSeries": 7,
+    "author": "aaron-dembski-bowden",
+    "pages": 448,
+    "coverImage": "",
+    "setting": { "era": "Horus Heresy", "millennium": "M31" },
+    "factions": [
+      { "name": "Blood Angels", "slug": "blood-angels" },
+      { "name": "Sons of Horus", "slug": "sons-of-horus" }
+    ],
+    "characters": [
+      { "name": "Sanguinius", "slug": "sanguinius" },
+      { "name": "Horus Lupercal", "slug": "horus-lupercal" },
+      { "name": "Rogal Dorn", "slug": "rogal-dorn" }
+    ],
+    "primarchs": ["sanguinius", "horus-lupercal", "rogal-dorn"],
+    "description": "The final battles rage across the Imperial Palace as Sanguinius walks willingly toward his fate and the Siege approaches its terrible climax."
+  },
+  {
+    "title": "The End and the Death: Volume I",
+    "slug": "the-end-and-the-death-volume-i",
+    "series": "the-siege-of-terra",
+    "orderInSeries": 8,
+    "author": "dan-abnett",
+    "pages": 512,
+    "coverImage": "",
+    "setting": { "era": "Horus Heresy", "millennium": "M31" },
+    "factions": [
+      { "name": "Imperium", "slug": "imperium" },
+      { "name": "Sons of Horus", "slug": "sons-of-horus" }
+    ],
+    "characters": [
+      { "name": "Horus Lupercal", "slug": "horus-lupercal" },
+      { "name": "Rogal Dorn", "slug": "rogal-dorn" },
+      { "name": "Sanguinius", "slug": "sanguinius" }
+    ],
+    "primarchs": ["horus-lupercal", "sanguinius", "rogal-dorn"],
+    "description": "The Warmaster's forces breach the Inner Palace. The last acts of the Horus Heresy begin to unfold as the Emperor prepares for what must come."
+  },
+  {
+    "title": "The End and the Death: Volume II",
+    "slug": "the-end-and-the-death-volume-ii",
+    "series": "the-siege-of-terra",
+    "orderInSeries": 9,
+    "author": "dan-abnett",
+    "pages": 512,
+    "coverImage": "",
+    "setting": { "era": "Horus Heresy", "millennium": "M31" },
+    "factions": [
+      { "name": "Imperium", "slug": "imperium" },
+      { "name": "Sons of Horus", "slug": "sons-of-horus" }
+    ],
+    "characters": [
+      { "name": "Horus Lupercal", "slug": "horus-lupercal" },
+      { "name": "Sanguinius", "slug": "sanguinius" }
+    ],
+    "primarchs": ["horus-lupercal", "sanguinius"],
+    "description": "Sanguinius confronts Horus aboard the Vengeful Spirit in a duel that will echo across ten thousand years of Imperial history."
+  },
+  {
+    "title": "The End and the Death: Volume III",
+    "slug": "the-end-and-the-death-volume-iii",
+    "series": "the-siege-of-terra",
+    "orderInSeries": 10,
+    "author": "dan-abnett",
+    "pages": 512,
+    "coverImage": "",
+    "setting": { "era": "Horus Heresy", "millennium": "M31" },
+    "factions": [
+      { "name": "Imperium", "slug": "imperium" },
+      { "name": "Sons of Horus", "slug": "sons-of-horus" }
+    ],
+    "characters": [
+      { "name": "Horus Lupercal", "slug": "horus-lupercal" },
+      { "name": "Rogal Dorn", "slug": "rogal-dorn" }
+    ],
+    "primarchs": ["horus-lupercal", "rogal-dorn"],
+    "description": "The Emperor faces Horus in the final confrontation that will decide the fate of humanity and shatter the Imperium for ten thousand years."
+  }
+]
