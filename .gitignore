@@ -1,3 +1,6 @@
+# Cover images (uploaded via scripts/uploadCovers.js)
+covers/
+
 # Logs
 logs
 *.log
