@@ -1,4 +1,4 @@
-
+require("dotenv").config({ path: require("path").resolve(__dirname, "../.env") });
 const mongoose = require("mongoose");
 
 const seedAuthors = require("./authorSeeds");
@@ -6,7 +6,7 @@ const seedSeries = require("./seriesSeeds");
 const seedPrimarchs = require("./primarchSeeds");
 const seedBooks = require("./bookSeeds");
 
-mongoose.connect("mongodb://localhost:27017/warhammer-db")    
+mongoose.connect(process.env.MONGO_URI)    
   .then(async () => {
     console.log("MongoDB connected");
 

@@ -20,6 +20,8 @@ const formatSeries = (series) =>
   series ? { name: series.name, url: seriesUrl(series.slug) } : null;
 
 const SLUG_PATTERN = /^[a-z0-9-]+$/;
+const VALID_SORT_FIELDS = ["title", "pages", "orderInSeries"];
+const VALID_SORT_ORDERS = ["asc", "desc"];
 
 const validateSlug = (slug, field, res) => {
   if (!SLUG_PATTERN.test(slug)) {
@@ -68,12 +70,32 @@ exports.getBooks = async (req, res, next) => {
       filter.primarchs = primarch._id;
     }
 
+    // Sorting
+    const sortField = VALID_SORT_FIELDS.includes(req.query.sort)
+      ? req.query.sort
+      : "orderInSeries";
+    const sortOrder = VALID_SORT_ORDERS.includes(req.query.order)
+      ? req.query.order
+      : "asc";
+
+    if (req.query.sort && !VALID_SORT_FIELDS.includes(req.query.sort)) {
+      return res.status(400).json({
+        error: `Invalid sort field. Must be one of: ${VALID_SORT_FIELDS.join(", ")}`,
+      });
+    }
+
+    if (req.query.order && !VALID_SORT_ORDERS.includes(req.query.order)) {
+      return res.status(400).json({
+        error: `Invalid order. Must be one of: ${VALID_SORT_ORDERS.join(", ")}`,
+      });
+    }
+
     const [total, books] = await Promise.all([
       Book.countDocuments(filter),
       Book.find(filter)
         .populate("author", "name slug")
         .populate("series", "name slug")
-        .sort({ orderInSeries: 1 })
+        .sort({ [sortField]: sortOrder === "asc" ? 1 : -1 })
         .skip((page - 1) * limit)
         .limit(limit),
     ]);
@@ -93,10 +115,11 @@ exports.getBooks = async (req, res, next) => {
       url: bookUrl(book.slug),
       series: formatSeries(book.series),
       author: formatAuthor(book.author),
+      pages: book.pages ?? null,
       coverImage: book.coverImage || null,
       setting: book.setting,
-      characters: book.characters ?? [],
-      factions: book.factions ?? [],
+      characters: (book.characters ?? []).map(({ name, slug }) => ({ name, slug })),
+      factions: (book.factions ?? []).map(({ name, slug }) => ({ name, slug })),
     }));
 
     res.json({
@@ -111,6 +134,65 @@ exports.getBooks = async (req, res, next) => {
   }
 };
 
+
+// Get related books for a given book slug
+exports.getRelatedBooks = async (req, res, next) => {
+  try {
+    const book = await Book.findOne({ slug: req.params.slug })
+      .populate("primarchs", "_id");
+
+    if (!book) {
+      return res.status(404).json({ error: "Book not found" });
+    }
+
+    const LIMIT = 5;
+
+    // Same series, excluding the current book, sorted by position
+    const sameSeries = await Book.find({
+      series: book.series,
+      _id: { $ne: book._id },
+    })
+      .populate("author", "name slug")
+      .populate("series", "name slug")
+      .sort({ orderInSeries: 1 })
+      .limit(LIMIT);
+
+    // Books sharing at least one primarch, from a different series
+    const primarchIds = (book.primarchs ?? []).map((p) => p._id);
+    const relatedByPrimarch = primarchIds.length > 0
+      ? await Book.find({
+          primarchs: { $in: primarchIds },
+          series: { $ne: book.series },
+          _id: { $ne: book._id },
+        })
+          .populate("author", "name slug")
+          .populate("series", "name slug")
+          .sort({ orderInSeries: 1 })
+          .limit(LIMIT)
+      : [];
+
+    const formatBook = (b) => ({
+      title: b.title,
+      slug: b.slug,
+      url: bookUrl(b.slug),
+      series: formatSeries(b.series),
+      author: formatAuthor(b.author),
+      pages: b.pages ?? null,
+      coverImage: b.coverImage || null,
+      setting: b.setting,
+      characters: (b.characters ?? []).map(({ name, slug }) => ({ name, slug })),
+      factions: (b.factions ?? []).map(({ name, slug }) => ({ name, slug })),
+    });
+
+    res.json({
+      sameSeries: sameSeries.map(formatBook),
+      relatedByPrimarch: relatedByPrimarch.map(formatBook),
+    });
+
+  } catch (err) {
+    next(err);
+  }
+};
 
 // Get book by slug
 exports.getBookBySlug = async (req, res, next) => {
@@ -138,8 +220,8 @@ exports.getBookBySlug = async (req, res, next) => {
         name: p.name,
         url: primarchUrl(p.slug),
       })),
-      factions: book.factions ?? [],
-      characters: book.characters ?? [],
+      factions: (book.factions ?? []).map(({ name, slug }) => ({ name, slug })),
+      characters: (book.characters ?? []).map(({ name, slug }) => ({ name, slug })),
       createdAt: book.createdAt,
       updatedAt: book.updatedAt,
     });
