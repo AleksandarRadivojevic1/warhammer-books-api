@@ -7,6 +7,7 @@ const errorHandler = require("./middleware/errorHandler")
 const mongoose = require("mongoose");
 const morgan = require('morgan')
 const rateLimit = require("express-rate-limit")
+const cors = require("cors")
 
 
 mongoose.connect(process.env.MONGO_URI);
@@ -21,6 +22,7 @@ db.once("open", () => {
 
 const app = require('express')()
 
+app.use(cors())
 app.use(morgan('tiny'))
 
 const limiter = rateLimit({
