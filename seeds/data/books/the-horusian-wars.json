@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Resurrection",
+    "slug": "resurrection-horusian-wars",
+    "series": "the-horusian-wars",
+    "orderInSeries": 1,
+    "author": "john-french",
+    "pages": 320,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Inquisitor Covenant hunts a dangerous heretical movement known as the Horusian Wars, whose followers seek to resurrect the power of Horus himself to fight Chaos — a goal that makes them as dangerous as any enemy of the Imperium.",
+    "characters": [
+      {
+        "name": "Inquisitor Covenant",
+        "slug": "inquisitor-covenant"
+      }
+    ],
+    "factions": [
+      {
+        "name": "Inquisition",
+        "slug": "inquisition"
+      },
+      {
+        "name": "Chaos",
+        "slug": "chaos"
+      }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Incarnation",
+    "slug": "incarnation-horusian-wars",
+    "series": "the-horusian-wars",
+    "orderInSeries": 2,
+    "author": "john-french",
+    "pages": 320,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Covenant's pursuit of the Horusian heresy leads him deeper into a conspiracy that spans multiple factions of the Inquisition itself, as the possibility of recreating Horus's power draws ever closer to terrifying reality.",
+    "characters": [
+      {
+        "name": "Inquisitor Covenant",
+        "slug": "inquisitor-covenant"
+      }
+    ],
+    "factions": [
+      {
+        "name": "Inquisition",
+        "slug": "inquisition"
+      },
+      {
+        "name": "Chaos",
+        "slug": "chaos"
+      }
+    ],
+    "primarchs": []
+  }
+]

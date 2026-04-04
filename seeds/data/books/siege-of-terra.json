@@ -7,17 +7,38 @@
     "author": "john-french",
     "pages": 352,
     "coverImage": "",
-    "setting": { "era": "Horus Heresy", "millennium": "M31" },
+    "setting": {
+      "era": "Horus Heresy",
+      "millennium": "M31"
+    },
     "factions": [
-      { "name": "Imperial Fists", "slug": "imperial-fists" },
-      { "name": "Sons of Horus", "slug": "sons-of-horus" }
+      {
+        "name": "Imperial Fists",
+        "slug": "imperial-fists"
+      },
+      {
+        "name": "Sons of Horus",
+        "slug": "sons-of-horus"
+      }
     ],
     "characters": [
-      { "name": "Rogal Dorn", "slug": "rogal-dorn" },
-      { "name": "Sigismund", "slug": "sigismund" },
-      { "name": "Mersadie Oliton", "slug": "mersadie-oliton" }
+      {
+        "name": "Rogal Dorn",
+        "slug": "rogal-dorn"
+      },
+      {
+        "name": "Sigismund",
+        "slug": "sigismund"
+      },
+      {
+        "name": "Mersadie Oliton",
+        "slug": "mersadie-oliton"
+      }
     ],
-    "primarchs": ["rogal-dorn", "horus-lupercal"],
+    "primarchs": [
+      "rogal-dorn",
+      "horus-lupercal"
+    ],
     "description": "The Traitor fleet arrives at the edge of the Solar System and the battle for humanity's birthright begins."
   },
   {
@@ -28,17 +49,38 @@
     "author": "guy-haley",
     "pages": 400,
     "coverImage": "",
-    "setting": { "era": "Horus Heresy", "millennium": "M31" },
+    "setting": {
+      "era": "Horus Heresy",
+      "millennium": "M31"
+    },
     "factions": [
-      { "name": "Imperium", "slug": "imperium" },
-      { "name": "Sons of Horus", "slug": "sons-of-horus" }
+      {
+        "name": "Imperium",
+        "slug": "imperium"
+      },
+      {
+        "name": "Sons of Horus",
+        "slug": "sons-of-horus"
+      }
     ],
     "characters": [
-      { "name": "Rogal Dorn", "slug": "rogal-dorn" },
-      { "name": "Sanguinius", "slug": "sanguinius" },
-      { "name": "Keeler", "slug": "keeler" }
+      {
+        "name": "Rogal Dorn",
+        "slug": "rogal-dorn"
+      },
+      {
+        "name": "Sanguinius",
+        "slug": "sanguinius"
+      },
+      {
+        "name": "Keeler",
+        "slug": "keeler"
+      }
     ],
-    "primarchs": ["rogal-dorn", "sanguinius"],
+    "primarchs": [
+      "rogal-dorn",
+      "sanguinius"
+    ],
     "description": "The Traitor forces make landfall on Terra as the outer defences crumble, and the true horror of the Siege begins."
   },
   {
@@ -49,17 +91,37 @@
     "author": "gav-thorpe",
     "pages": 400,
     "coverImage": "",
-    "setting": { "era": "Horus Heresy", "millennium": "M31" },
+    "setting": {
+      "era": "Horus Heresy",
+      "millennium": "M31"
+    },
     "factions": [
-      { "name": "Imperial Fists", "slug": "imperial-fists" },
-      { "name": "Sons of Horus", "slug": "sons-of-horus" }
+      {
+        "name": "Imperial Fists",
+        "slug": "imperial-fists"
+      },
+      {
+        "name": "Sons of Horus",
+        "slug": "sons-of-horus"
+      }
     ],
     "characters": [
-      { "name": "Rogal Dorn", "slug": "rogal-dorn" },
-      { "name": "Keeler", "slug": "keeler" },
-      { "name": "Archamus", "slug": "archamus" }
+      {
+        "name": "Rogal Dorn",
+        "slug": "rogal-dorn"
+      },
+      {
+        "name": "Keeler",
+        "slug": "keeler"
+      },
+      {
+        "name": "Archamus",
+        "slug": "archamus"
+      }
     ],
-    "primarchs": ["rogal-dorn"],
+    "primarchs": [
+      "rogal-dorn"
+    ],
     "description": "The Traitor assault reaches the walls of the Imperial Palace, and the defenders fight a desperate battle to hold the outer fortifications."
   },
   {
@@ -70,17 +132,38 @@
     "author": "dan-abnett",
     "pages": 448,
     "coverImage": "",
-    "setting": { "era": "Horus Heresy", "millennium": "M31" },
+    "setting": {
+      "era": "Horus Heresy",
+      "millennium": "M31"
+    },
     "factions": [
-      { "name": "Imperial Fists", "slug": "imperial-fists" },
-      { "name": "Sons of Horus", "slug": "sons-of-horus" }
+      {
+        "name": "Imperial Fists",
+        "slug": "imperial-fists"
+      },
+      {
+        "name": "Sons of Horus",
+        "slug": "sons-of-horus"
+      }
     ],
     "characters": [
-      { "name": "Rogal Dorn", "slug": "rogal-dorn" },
-      { "name": "Sanguinius", "slug": "sanguinius" },
-      { "name": "Sigismund", "slug": "sigismund" }
+      {
+        "name": "Rogal Dorn",
+        "slug": "rogal-dorn"
+      },
+      {
+        "name": "Sanguinius",
+        "slug": "sanguinius"
+      },
+      {
+        "name": "Sigismund",
+        "slug": "sigismund"
+      }
     ],
-    "primarchs": ["rogal-dorn", "sanguinius"],
+    "primarchs": [
+      "rogal-dorn",
+      "sanguinius"
+    ],
     "description": "The Siege reaches a critical point as both sides pour everything into the battle for the Saturnine gate, and sacrifices are made that cannot be undone."
   },
   {
@@ -91,16 +174,34 @@
     "author": "john-french",
     "pages": 448,
     "coverImage": "",
-    "setting": { "era": "Horus Heresy", "millennium": "M31" },
+    "setting": {
+      "era": "Horus Heresy",
+      "millennium": "M31"
+    },
     "factions": [
-      { "name": "Legio Titanicus", "slug": "legio-titanicus" },
-      { "name": "Sons of Horus", "slug": "sons-of-horus" }
+      {
+        "name": "Legio Titanicus",
+        "slug": "legio-titanicus"
+      },
+      {
+        "name": "Sons of Horus",
+        "slug": "sons-of-horus"
+      }
     ],
     "characters": [
-      { "name": "Rogal Dorn", "slug": "rogal-dorn" },
-      { "name": "Sanguinius", "slug": "sanguinius" }
+      {
+        "name": "Rogal Dorn",
+        "slug": "rogal-dorn"
+      },
+      {
+        "name": "Sanguinius",
+        "slug": "sanguinius"
+      }
     ],
-    "primarchs": ["rogal-dorn", "sanguinius"],
+    "primarchs": [
+      "rogal-dorn",
+      "sanguinius"
+    ],
     "description": "The Titan Legions clash on the plains of Terra as the defenders strain to hold back an endless tide of traitors and the warp grows stronger."
   },
   {
@@ -111,16 +212,34 @@
     "author": "chris-wraight",
     "pages": 384,
     "coverImage": "",
-    "setting": { "era": "Horus Heresy", "millennium": "M31" },
+    "setting": {
+      "era": "Horus Heresy",
+      "millennium": "M31"
+    },
     "factions": [
-      { "name": "White Scars", "slug": "white-scars" },
-      { "name": "Death Guard", "slug": "death-guard" }
+      {
+        "name": "White Scars",
+        "slug": "white-scars"
+      },
+      {
+        "name": "Death Guard",
+        "slug": "death-guard"
+      }
     ],
     "characters": [
-      { "name": "Jaghatai Khan", "slug": "jaghatai-khan" },
-      { "name": "Mortarion", "slug": "mortarion" }
+      {
+        "name": "Jaghatai Khan",
+        "slug": "jaghatai-khan"
+      },
+      {
+        "name": "Mortarion",
+        "slug": "mortarion"
+      }
     ],
-    "primarchs": ["jaghatai-khan", "mortarion"],
+    "primarchs": [
+      "jaghatai-khan",
+      "mortarion"
+    ],
     "description": "Jaghatai Khan leads the White Scars into the Webway beneath Terra to reclaim a vital passage, while Mortarion works to collapse it forever."
   },
   {
@@ -131,17 +250,39 @@
     "author": "aaron-dembski-bowden",
     "pages": 448,
     "coverImage": "",
-    "setting": { "era": "Horus Heresy", "millennium": "M31" },
+    "setting": {
+      "era": "Horus Heresy",
+      "millennium": "M31"
+    },
     "factions": [
-      { "name": "Blood Angels", "slug": "blood-angels" },
-      { "name": "Sons of Horus", "slug": "sons-of-horus" }
+      {
+        "name": "Blood Angels",
+        "slug": "blood-angels"
+      },
+      {
+        "name": "Sons of Horus",
+        "slug": "sons-of-horus"
+      }
     ],
     "characters": [
-      { "name": "Sanguinius", "slug": "sanguinius" },
-      { "name": "Horus Lupercal", "slug": "horus-lupercal" },
-      { "name": "Rogal Dorn", "slug": "rogal-dorn" }
+      {
+        "name": "Sanguinius",
+        "slug": "sanguinius"
+      },
+      {
+        "name": "Horus Lupercal",
+        "slug": "horus-lupercal"
+      },
+      {
+        "name": "Rogal Dorn",
+        "slug": "rogal-dorn"
+      }
     ],
-    "primarchs": ["sanguinius", "horus-lupercal", "rogal-dorn"],
+    "primarchs": [
+      "sanguinius",
+      "horus-lupercal",
+      "rogal-dorn"
+    ],
     "description": "The final battles rage across the Imperial Palace as Sanguinius walks willingly toward his fate and the Siege approaches its terrible climax."
   },
   {
@@ -152,17 +293,39 @@
     "author": "dan-abnett",
     "pages": 512,
     "coverImage": "",
-    "setting": { "era": "Horus Heresy", "millennium": "M31" },
+    "setting": {
+      "era": "Horus Heresy",
+      "millennium": "M31"
+    },
     "factions": [
-      { "name": "Imperium", "slug": "imperium" },
-      { "name": "Sons of Horus", "slug": "sons-of-horus" }
+      {
+        "name": "Imperium",
+        "slug": "imperium"
+      },
+      {
+        "name": "Sons of Horus",
+        "slug": "sons-of-horus"
+      }
     ],
     "characters": [
-      { "name": "Horus Lupercal", "slug": "horus-lupercal" },
-      { "name": "Rogal Dorn", "slug": "rogal-dorn" },
-      { "name": "Sanguinius", "slug": "sanguinius" }
+      {
+        "name": "Horus Lupercal",
+        "slug": "horus-lupercal"
+      },
+      {
+        "name": "Rogal Dorn",
+        "slug": "rogal-dorn"
+      },
+      {
+        "name": "Sanguinius",
+        "slug": "sanguinius"
+      }
     ],
-    "primarchs": ["horus-lupercal", "sanguinius", "rogal-dorn"],
+    "primarchs": [
+      "horus-lupercal",
+      "sanguinius",
+      "rogal-dorn"
+    ],
     "description": "The Warmaster's forces breach the Inner Palace. The last acts of the Horus Heresy begin to unfold as the Emperor prepares for what must come."
   },
   {
@@ -173,16 +336,34 @@
     "author": "dan-abnett",
     "pages": 512,
     "coverImage": "",
-    "setting": { "era": "Horus Heresy", "millennium": "M31" },
+    "setting": {
+      "era": "Horus Heresy",
+      "millennium": "M31"
+    },
     "factions": [
-      { "name": "Imperium", "slug": "imperium" },
-      { "name": "Sons of Horus", "slug": "sons-of-horus" }
+      {
+        "name": "Imperium",
+        "slug": "imperium"
+      },
+      {
+        "name": "Sons of Horus",
+        "slug": "sons-of-horus"
+      }
     ],
     "characters": [
-      { "name": "Horus Lupercal", "slug": "horus-lupercal" },
-      { "name": "Sanguinius", "slug": "sanguinius" }
+      {
+        "name": "Horus Lupercal",
+        "slug": "horus-lupercal"
+      },
+      {
+        "name": "Sanguinius",
+        "slug": "sanguinius"
+      }
     ],
-    "primarchs": ["horus-lupercal", "sanguinius"],
+    "primarchs": [
+      "horus-lupercal",
+      "sanguinius"
+    ],
     "description": "Sanguinius confronts Horus aboard the Vengeful Spirit in a duel that will echo across ten thousand years of Imperial history."
   },
   {
@@ -193,16 +374,34 @@
     "author": "dan-abnett",
     "pages": 512,
     "coverImage": "",
-    "setting": { "era": "Horus Heresy", "millennium": "M31" },
+    "setting": {
+      "era": "Horus Heresy",
+      "millennium": "M31"
+    },
     "factions": [
-      { "name": "Imperium", "slug": "imperium" },
-      { "name": "Sons of Horus", "slug": "sons-of-horus" }
+      {
+        "name": "Imperium",
+        "slug": "imperium"
+      },
+      {
+        "name": "Sons of Horus",
+        "slug": "sons-of-horus"
+      }
     ],
     "characters": [
-      { "name": "Horus Lupercal", "slug": "horus-lupercal" },
-      { "name": "Rogal Dorn", "slug": "rogal-dorn" }
+      {
+        "name": "Horus Lupercal",
+        "slug": "horus-lupercal"
+      },
+      {
+        "name": "Rogal Dorn",
+        "slug": "rogal-dorn"
+      }
     ],
-    "primarchs": ["horus-lupercal", "rogal-dorn"],
+    "primarchs": [
+      "horus-lupercal",
+      "rogal-dorn"
+    ],
     "description": "The Emperor faces Horus in the final confrontation that will decide the fate of humanity and shatter the Imperium for ten thousand years."
   }
 ]

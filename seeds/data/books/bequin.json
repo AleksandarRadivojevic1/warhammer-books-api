@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Pariah",
+    "slug": "pariah-bequin",
+    "series": "bequin",
+    "orderInSeries": 1,
+    "author": "dan-abnett",
+    "pages": 416,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Alizebeth Bequin, a pariah — a blank utterly invisible to the warp — navigates the lethal underworld of Queen Mab while forces from her past and future close in around her.",
+    "characters": [
+      {
+        "name": "Alizebeth Bequin",
+        "slug": "alizebeth-bequin"
+      },
+      {
+        "name": "Gregor Eisenhorn",
+        "slug": "gregor-eisenhorn"
+      }
+    ],
+    "factions": [
+      {
+        "name": "Inquisition",
+        "slug": "inquisition"
+      },
+      {
+        "name": "Chaos",
+        "slug": "chaos"
+      }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Penitent",
+    "slug": "penitent-bequin",
+    "series": "bequin",
+    "orderInSeries": 2,
+    "author": "dan-abnett",
+    "pages": 304,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Bequin finds herself caught between the warring factions of Eisenhorn and Ravenor on Queen Mab, forced to choose sides in a conflict that will determine the fate of countless souls.",
+    "characters": [
+      {
+        "name": "Alizebeth Bequin",
+        "slug": "alizebeth-bequin"
+      },
+      {
+        "name": "Gregor Eisenhorn",
+        "slug": "gregor-eisenhorn"
+      },
+      {
+        "name": "Gideon Ravenor",
+        "slug": "gideon-ravenor"
+      }
+    ],
+    "factions": [
+      {
+        "name": "Inquisition",
+        "slug": "inquisition"
+      },
+      {
+        "name": "Chaos",
+        "slug": "chaos"
+      }
+    ],
+    "primarchs": []
+  }
+]

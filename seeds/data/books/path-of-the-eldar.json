@@ -1,0 +1,120 @@
+[
+  {
+    "title": "Path of the Warrior",
+    "slug": "path-of-the-warrior",
+    "series": "path-of-the-eldar",
+    "orderInSeries": 1,
+    "author": "gav-thorpe",
+    "pages": 416,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Korlandril abandons the Path of the Artist and walks the deadly Path of the Warrior, becoming an Aspect Warrior of the Striking Scorpions — but the further he walks this path, the more he risks losing himself to the spirit of war forever.",
+    "characters": [
+      {
+        "name": "Korlandril",
+        "slug": "korlandril"
+      },
+      {
+        "name": "Thirianna",
+        "slug": "thirianna"
+      },
+      {
+        "name": "Aradryan",
+        "slug": "aradryan"
+      }
+    ],
+    "factions": [
+      {
+        "name": "Eldar",
+        "slug": "eldar"
+      },
+      {
+        "name": "Imperium",
+        "slug": "imperium"
+      }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Path of the Seer",
+    "slug": "path-of-the-seer",
+    "series": "path-of-the-eldar",
+    "orderInSeries": 2,
+    "author": "gav-thorpe",
+    "pages": 416,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Thirianna leaves behind her comfortable life to walk the dangerous Path of the Seer, but as her powers grow she glimpses a terrible fate threatening Craftworld Alaitoc and must decide how far she will go to prevent it.",
+    "characters": [
+      {
+        "name": "Thirianna",
+        "slug": "thirianna"
+      },
+      {
+        "name": "Korlandril",
+        "slug": "korlandril"
+      },
+      {
+        "name": "Aradryan",
+        "slug": "aradryan"
+      }
+    ],
+    "factions": [
+      {
+        "name": "Eldar",
+        "slug": "eldar"
+      },
+      {
+        "name": "Chaos",
+        "slug": "chaos"
+      }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Path of the Outcast",
+    "slug": "path-of-the-outcast",
+    "series": "path-of-the-eldar",
+    "orderInSeries": 3,
+    "author": "gav-thorpe",
+    "pages": 416,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Aradryan has long walked the Path of the Outcast among the stars as a ranger, but when he falls in with a band of corsairs, his choices begin to drag Craftworld Alaitoc toward a war that could destroy it.",
+    "characters": [
+      {
+        "name": "Aradryan",
+        "slug": "aradryan"
+      },
+      {
+        "name": "Thirianna",
+        "slug": "thirianna"
+      },
+      {
+        "name": "Korlandril",
+        "slug": "korlandril"
+      }
+    ],
+    "factions": [
+      {
+        "name": "Eldar",
+        "slug": "eldar"
+      },
+      {
+        "name": "Dark Eldar",
+        "slug": "dark-eldar"
+      },
+      {
+        "name": "Imperium",
+        "slug": "imperium"
+      }
+    ],
+    "primarchs": []
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "title": "The Rose at War",
+    "slug": "the-rose-at-war",
+    "series": "adepta-sororitas",
+    "orderInSeries": 1,
+    "author": "danie-ware",
+    "pages": 408,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Sister Superior Augusta of the Order of the Bloody Rose leads her sisters through a series of brutal campaigns, testing their faith and resolve against the enemies of the Emperor.",
+    "characters": [
+      { "name": "Augusta", "slug": "augusta" }
+    ],
+    "factions": [
+      { "name": "Adepta Sororitas", "slug": "adepta-sororitas" },
+      { "name": "Chaos", "slug": "chaos" },
+      { "name": "Imperium", "slug": "imperium" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Pilgrims of Fire",
+    "slug": "pilgrims-of-fire",
+    "series": "adepta-sororitas",
+    "orderInSeries": 2,
+    "author": "justin-d-hill",
+    "pages": 366,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Sister Helewise embarks on a perilous pilgrimage to rediscover the lost shrine world of Cion, fighting through heresy, alien threats, and her own crumbling faith to reach her holy destination.",
+    "characters": [
+      { "name": "Sister Helewise", "slug": "sister-helewise" }
+    ],
+    "factions": [
+      { "name": "Adepta Sororitas", "slug": "adepta-sororitas" },
+      { "name": "Chaos", "slug": "chaos" },
+      { "name": "Imperium", "slug": "imperium" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "The Rose in Darkness",
+    "slug": "the-rose-in-darkness",
+    "series": "adepta-sororitas",
+    "orderInSeries": 3,
+    "author": "danie-ware",
+    "pages": 365,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Sister Superior Augusta returns to face a darkness that threatens to corrupt the very faith that sustains her Order, as a sinister enemy works from within to undermine the Adepta Sororitas.",
+    "characters": [
+      { "name": "Augusta", "slug": "augusta" }
+    ],
+    "factions": [
+      { "name": "Adepta Sororitas", "slug": "adepta-sororitas" },
+      { "name": "Chaos", "slug": "chaos" },
+      { "name": "Imperium", "slug": "imperium" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Daemonbreaker",
+    "slug": "daemonbreaker",
+    "series": "adepta-sororitas",
+    "orderInSeries": 4,
+    "author": "jude-reid",
+    "pages": 223,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Celestian Sacresant Aveline of the Order of the Sacred Rose fights on the front lines of Abaddon's 13th Black Crusade, her unbreakable faith the only weapon capable of standing against the daemonic tide.",
+    "characters": [
+      { "name": "Aveline", "slug": "aveline" }
+    ],
+    "factions": [
+      { "name": "Adepta Sororitas", "slug": "adepta-sororitas" },
+      { "name": "Chaos", "slug": "chaos" },
+      { "name": "Black Legion", "slug": "black-legion" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Morvenn Vahl: Spear of Faith",
+    "slug": "morvenn-vahl-spear-of-faith",
+    "series": "adepta-sororitas",
+    "orderInSeries": 5,
+    "author": "jude-reid",
+    "pages": 300,
+    "setting": {
+      "era": "42nd Millennium",
+      "millennium": "M42"
+    },
+    "description": "Morvenn Vahl, Abbess Sanctorum and High Lord of Terra, leads the defence of the holy world of Ophelia VII against a devastating invasion that threatens one of the Imperium's most sacred sites.",
+    "characters": [
+      { "name": "Morvenn Vahl", "slug": "morvenn-vahl" }
+    ],
+    "factions": [
+      { "name": "Adepta Sororitas", "slug": "adepta-sororitas" },
+      { "name": "Chaos", "slug": "chaos" },
+      { "name": "Imperium", "slug": "imperium" }
+    ],
+    "primarchs": []
+  }
+]

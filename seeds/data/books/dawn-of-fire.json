@@ -1,0 +1,201 @@
+[
+  {
+    "title": "Avenging Son",
+    "slug": "avenging-son",
+    "series": "dawn-of-fire",
+    "orderInSeries": 1,
+    "author": "guy-haley",
+    "pages": 432,
+    "setting": {
+      "era": "42nd Millennium",
+      "millennium": "M42"
+    },
+    "description": "The Indomitus Crusade begins as Primarch Roboute Guilliman leads the Imperium's great counterattack against the forces of Chaos that flooded through the Cicatrix Maledictum.",
+    "characters": [
+      { "name": "Roboute Guilliman", "slug": "roboute-guilliman" }
+    ],
+    "factions": [
+      { "name": "Adeptus Astartes", "slug": "adeptus-astartes" },
+      { "name": "Chaos", "slug": "chaos" },
+      { "name": "Imperium", "slug": "imperium" }
+    ],
+    "primarchs": ["roboute-guilliman"]
+  },
+  {
+    "title": "The Gate of Bones",
+    "slug": "the-gate-of-bones",
+    "series": "dawn-of-fire",
+    "orderInSeries": 2,
+    "author": "andy-clark",
+    "pages": 320,
+    "setting": {
+      "era": "42nd Millennium",
+      "millennium": "M42"
+    },
+    "description": "The Indomitus Crusade fights to liberate a world where Chaos forces have built a monstrous ossuary fortress, and the cost of victory may be higher than anyone anticipated.",
+    "characters": [
+      { "name": "Roboute Guilliman", "slug": "roboute-guilliman" }
+    ],
+    "factions": [
+      { "name": "Adeptus Astartes", "slug": "adeptus-astartes" },
+      { "name": "Chaos", "slug": "chaos" },
+      { "name": "Imperium", "slug": "imperium" }
+    ],
+    "primarchs": ["roboute-guilliman"]
+  },
+  {
+    "title": "The Wolftime",
+    "slug": "the-wolftime",
+    "series": "dawn-of-fire",
+    "orderInSeries": 3,
+    "author": "gav-thorpe",
+    "pages": 320,
+    "setting": {
+      "era": "42nd Millennium",
+      "millennium": "M42"
+    },
+    "description": "Leman Russ returns from the Eye of Terror and joins Guilliman's crusade, bringing the Space Wolves to bear against the enemies of the Imperium in a war unlike any the Wolf King has faced before.",
+    "characters": [
+      { "name": "Roboute Guilliman", "slug": "roboute-guilliman" },
+      { "name": "Leman Russ", "slug": "leman-russ" }
+    ],
+    "factions": [
+      { "name": "Space Wolves", "slug": "space-wolves" },
+      { "name": "Chaos", "slug": "chaos" },
+      { "name": "Imperium", "slug": "imperium" }
+    ],
+    "primarchs": ["roboute-guilliman", "leman-russ"]
+  },
+  {
+    "title": "Throne of Light",
+    "slug": "throne-of-light",
+    "series": "dawn-of-fire",
+    "orderInSeries": 4,
+    "author": "guy-haley",
+    "pages": 352,
+    "setting": {
+      "era": "42nd Millennium",
+      "millennium": "M42"
+    },
+    "description": "As the Indomitus Crusade reaches a critical juncture, Guilliman must balance the demands of war with the political machinations of Terra while pressing deeper into Chaos-held space.",
+    "characters": [
+      { "name": "Roboute Guilliman", "slug": "roboute-guilliman" }
+    ],
+    "factions": [
+      { "name": "Adeptus Astartes", "slug": "adeptus-astartes" },
+      { "name": "Chaos", "slug": "chaos" },
+      { "name": "Imperium", "slug": "imperium" }
+    ],
+    "primarchs": ["roboute-guilliman"]
+  },
+  {
+    "title": "The Iron Kingdom",
+    "slug": "the-iron-kingdom",
+    "series": "dawn-of-fire",
+    "orderInSeries": 5,
+    "author": "nick-kyme",
+    "pages": 320,
+    "setting": {
+      "era": "42nd Millennium",
+      "millennium": "M42"
+    },
+    "description": "The Iron Hands fight to reclaim a forge world of vital strategic importance from Chaos forces, their cold logic and mechanical resolve tested to the limit by an enemy that turns their own weapons against them.",
+    "characters": [
+      { "name": "Roboute Guilliman", "slug": "roboute-guilliman" }
+    ],
+    "factions": [
+      { "name": "Iron Hands", "slug": "iron-hands" },
+      { "name": "Adeptus Mechanicus", "slug": "adeptus-mechanicus" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "primarchs": ["roboute-guilliman"]
+  },
+  {
+    "title": "The Martyr's Tomb",
+    "slug": "the-martyrs-tomb",
+    "series": "dawn-of-fire",
+    "orderInSeries": 6,
+    "author": "marc-collins",
+    "pages": 368,
+    "setting": {
+      "era": "42nd Millennium",
+      "millennium": "M42"
+    },
+    "description": "A shrine world of immense spiritual significance becomes a battleground as the Indomitus Crusade fights to protect its sacred relics from forces that would desecrate everything the Imperium holds holy.",
+    "characters": [
+      { "name": "Roboute Guilliman", "slug": "roboute-guilliman" }
+    ],
+    "factions": [
+      { "name": "Adeptus Astartes", "slug": "adeptus-astartes" },
+      { "name": "Chaos", "slug": "chaos" },
+      { "name": "Imperium", "slug": "imperium" }
+    ],
+    "primarchs": ["roboute-guilliman"]
+  },
+  {
+    "title": "Sea of Souls",
+    "slug": "sea-of-souls",
+    "series": "dawn-of-fire",
+    "orderInSeries": 7,
+    "author": "chris-wraight",
+    "pages": 400,
+    "setting": {
+      "era": "42nd Millennium",
+      "millennium": "M42"
+    },
+    "description": "The crusade plunges into a region of space where the warp bleeds through reality, and the warriors of the Imperium must fight not only for their lives but for their very souls.",
+    "characters": [
+      { "name": "Roboute Guilliman", "slug": "roboute-guilliman" }
+    ],
+    "factions": [
+      { "name": "Adeptus Astartes", "slug": "adeptus-astartes" },
+      { "name": "Chaos", "slug": "chaos" },
+      { "name": "Imperium", "slug": "imperium" }
+    ],
+    "primarchs": ["roboute-guilliman"]
+  },
+  {
+    "title": "Hand of Abaddon",
+    "slug": "hand-of-abaddon",
+    "series": "dawn-of-fire",
+    "orderInSeries": 8,
+    "author": "nick-kyme",
+    "pages": 480,
+    "setting": {
+      "era": "42nd Millennium",
+      "millennium": "M42"
+    },
+    "description": "The shadow of Abaddon the Despoiler falls across the Indomitus Crusade as his forces strike at the heart of the Imperial advance, threatening to unravel everything Guilliman has fought to achieve.",
+    "characters": [
+      { "name": "Roboute Guilliman", "slug": "roboute-guilliman" }
+    ],
+    "factions": [
+      { "name": "Adeptus Astartes", "slug": "adeptus-astartes" },
+      { "name": "Chaos", "slug": "chaos" },
+      { "name": "Black Legion", "slug": "black-legion" }
+    ],
+    "primarchs": ["roboute-guilliman"]
+  },
+  {
+    "title": "The Silent King",
+    "slug": "the-silent-king",
+    "series": "dawn-of-fire",
+    "orderInSeries": 9,
+    "author": "guy-haley",
+    "pages": 560,
+    "setting": {
+      "era": "42nd Millennium",
+      "millennium": "M42"
+    },
+    "description": "Guilliman must forge an uneasy alliance with Szarekh, the Silent King of the Necrons, as a threat emerges that could doom both their civilisations — forcing ancient enemies to stand together or fall apart.",
+    "characters": [
+      { "name": "Roboute Guilliman", "slug": "roboute-guilliman" }
+    ],
+    "factions": [
+      { "name": "Adeptus Astartes", "slug": "adeptus-astartes" },
+      { "name": "Necrons", "slug": "necrons" },
+      { "name": "Imperium", "slug": "imperium" }
+    ],
+    "primarchs": ["roboute-guilliman"]
+  }
+]

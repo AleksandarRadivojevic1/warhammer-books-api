@@ -10,7 +10,7 @@ const rateLimit = require("express-rate-limit")
 const cors = require("cors")
 
 
-mongoose.connect(process.env.MONGO_URI);
+mongoose.connect(process.env.MONGO_URI || "mongodb://localhost:27017/warhammer-db");
 
 const db = mongoose.connection;
 db.on("error", console.error.bind(console, "connection error"));

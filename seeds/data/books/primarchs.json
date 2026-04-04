@@ -1,0 +1,567 @@
+[
+  {
+    "title": "Roboute Guilliman: Lord of Ultramar",
+    "slug": "roboute-guilliman-lord-of-ultramar",
+    "series": "primarchs",
+    "orderInSeries": 1,
+    "author": "david-annandale",
+    "pages": 181,
+    "setting": {
+      "era": "Great Crusade",
+      "millennium": "M30"
+    },
+    "description": "During the Great Crusade, Guilliman leads his Ultramarines against Orks on the world of Thoas, but the campaign exposes deep tensions within his Legion about the nature of war and the direction of the Imperium.",
+    "characters": [
+      {
+        "name": "Roboute Guilliman",
+        "slug": "roboute-guilliman"
+      }
+    ],
+    "factions": [
+      {
+        "name": "Ultramarines",
+        "slug": "ultramarines"
+      },
+      {
+        "name": "Imperium",
+        "slug": "imperium"
+      },
+      {
+        "name": "Orks",
+        "slug": "orks"
+      }
+    ],
+    "primarchs": [
+      "roboute-guilliman"
+    ]
+  },
+  {
+    "title": "Leman Russ: The Great Wolf",
+    "slug": "leman-russ-the-great-wolf",
+    "series": "primarchs",
+    "orderInSeries": 2,
+    "author": "chris-wraight",
+    "pages": 176,
+    "setting": {
+      "era": "Great Crusade",
+      "millennium": "M30"
+    },
+    "description": "Russ and Lion El'Jonson find themselves commanding two Legions against the tyrant Durath, but old rivalries and clashing philosophies between the Wolf and the Lion threaten to tear the campaign apart.",
+    "characters": [
+      {
+        "name": "Leman Russ",
+        "slug": "leman-russ"
+      },
+      {
+        "name": "Lion El'Jonson",
+        "slug": "lion-el-jonson"
+      }
+    ],
+    "factions": [
+      {
+        "name": "Space Wolves",
+        "slug": "space-wolves"
+      },
+      {
+        "name": "Dark Angels",
+        "slug": "dark-angels"
+      },
+      {
+        "name": "Imperium",
+        "slug": "imperium"
+      }
+    ],
+    "primarchs": [
+      "leman-russ",
+      "lion-el-jonson"
+    ]
+  },
+  {
+    "title": "Magnus the Red: Master of Prospero",
+    "slug": "magnus-the-red-master-of-prospero",
+    "series": "primarchs",
+    "orderInSeries": 3,
+    "author": "graham-mcneill",
+    "pages": 201,
+    "setting": {
+      "era": "Great Crusade",
+      "millennium": "M30"
+    },
+    "description": "Magnus leads the Thousand Sons in the Great Crusade while obsessively pursuing lost arcane knowledge, his unchecked use of sorcery drawing the wary eyes of his brother Primarchs and sowing the seeds of his Legion's eventual doom.",
+    "characters": [
+      {
+        "name": "Magnus the Red",
+        "slug": "magnus-the-red"
+      }
+    ],
+    "factions": [
+      {
+        "name": "Thousand Sons",
+        "slug": "thousand-sons"
+      },
+      {
+        "name": "Imperium",
+        "slug": "imperium"
+      }
+    ],
+    "primarchs": [
+      "magnus-the-red"
+    ]
+  },
+  {
+    "title": "Perturabo: The Hammer of Olympia",
+    "slug": "perturabo-the-hammer-of-olympia",
+    "series": "primarchs",
+    "orderInSeries": 4,
+    "author": "guy-haley",
+    "pages": 221,
+    "setting": {
+      "era": "Great Crusade",
+      "millennium": "M30"
+    },
+    "description": "Perturabo chafes under the Emperor's constant use of the Iron Warriors as siege troops while his brothers win glory, and when his homeworld Olympia revolts he enacts a catastrophic act that will haunt him forever.",
+    "characters": [
+      {
+        "name": "Perturabo",
+        "slug": "perturabo"
+      }
+    ],
+    "factions": [
+      {
+        "name": "Iron Warriors",
+        "slug": "iron-warriors"
+      },
+      {
+        "name": "Imperium",
+        "slug": "imperium"
+      }
+    ],
+    "primarchs": [
+      "perturabo"
+    ]
+  },
+  {
+    "title": "Lorgar: Bearer of the Word",
+    "slug": "lorgar-bearer-of-the-word",
+    "series": "primarchs",
+    "orderInSeries": 5,
+    "author": "gav-thorpe",
+    "pages": 248,
+    "setting": {
+      "era": "Great Crusade",
+      "millennium": "M30"
+    },
+    "description": "On the war-torn world of Colchis, the young Lorgar is raised by the priest Kor Phaeron as a religious weapon, his prophetic visions of the Emperor drawing him toward a destiny that will shape his faith and his Legion's dark future.",
+    "characters": [
+      {
+        "name": "Lorgar Aurelian",
+        "slug": "lorgar-aurelian"
+      },
+      {
+        "name": "Kor Phaeron",
+        "slug": "kor-phaeron"
+      }
+    ],
+    "factions": [
+      {
+        "name": "Word Bearers",
+        "slug": "word-bearers"
+      },
+      {
+        "name": "Imperium",
+        "slug": "imperium"
+      }
+    ],
+    "primarchs": [
+      "lorgar-aurelian"
+    ]
+  },
+  {
+    "title": "Fulgrim: The Palatine Phoenix",
+    "slug": "fulgrim-the-palatine-phoenix",
+    "series": "primarchs",
+    "orderInSeries": 6,
+    "author": "josh-reynolds",
+    "pages": 208,
+    "setting": {
+      "era": "Great Crusade",
+      "millennium": "M30"
+    },
+    "description": "Accompanied by only seven of his finest warriors, the perfectionist Fulgrim undertakes a personal mission to bring a rebellious world to compliance, learning that no victory comes without a steep and corrupting price.",
+    "characters": [
+      {
+        "name": "Fulgrim",
+        "slug": "fulgrim"
+      }
+    ],
+    "factions": [
+      {
+        "name": "Emperor's Children",
+        "slug": "emperors-children"
+      },
+      {
+        "name": "Imperium",
+        "slug": "imperium"
+      }
+    ],
+    "primarchs": [
+      "fulgrim"
+    ]
+  },
+  {
+    "title": "Ferrus Manus: The Gorgon of Medusa",
+    "slug": "ferrus-manus-the-gorgon-of-medusa",
+    "series": "primarchs",
+    "orderInSeries": 7,
+    "author": "david-guymer",
+    "pages": 215,
+    "setting": {
+      "era": "Great Crusade",
+      "millennium": "M30"
+    },
+    "description": "Ferrus Manus wages a brutal compliance campaign on the world of Caldera, his relentless mechanical perfectionism and contempt for weakness colliding with the moral complexities of conquest.",
+    "characters": [
+      {
+        "name": "Ferrus Manus",
+        "slug": "ferrus-manus"
+      }
+    ],
+    "factions": [
+      {
+        "name": "Iron Hands",
+        "slug": "iron-hands"
+      },
+      {
+        "name": "Imperium",
+        "slug": "imperium"
+      }
+    ],
+    "primarchs": [
+      "ferrus-manus"
+    ]
+  },
+  {
+    "title": "Jaghatai Khan: Warhawk of Chogoris",
+    "slug": "jaghatai-khan-warhawk-of-chogoris",
+    "series": "primarchs",
+    "orderInSeries": 8,
+    "author": "chris-wraight",
+    "pages": 204,
+    "setting": {
+      "era": "Great Crusade",
+      "millennium": "M30"
+    },
+    "description": "As other Primarchs pressure the Khan to take sides in the growing ideological war over psychic power in the Legions, Jaghatai Khan fights to preserve his Legion's warrior mysticism and self-determination.",
+    "characters": [
+      {
+        "name": "Jaghatai Khan",
+        "slug": "jaghatai-khan"
+      }
+    ],
+    "factions": [
+      {
+        "name": "White Scars",
+        "slug": "white-scars"
+      },
+      {
+        "name": "Imperium",
+        "slug": "imperium"
+      }
+    ],
+    "primarchs": [
+      "jaghatai-khan"
+    ]
+  },
+  {
+    "title": "Vulkan: Lord of Drakes",
+    "slug": "vulkan-lord-of-drakes",
+    "series": "primarchs",
+    "orderInSeries": 9,
+    "author": "david-annandale",
+    "pages": 161,
+    "setting": {
+      "era": "Great Crusade",
+      "millennium": "M30"
+    },
+    "description": "The XVIII Legion fights for survival against an Ork invasion while their newly discovered Primarch Vulkan descends from Nocturne with warriors he has personally trained, uniting his sons in fire for the first time.",
+    "characters": [
+      {
+        "name": "Vulkan",
+        "slug": "vulkan"
+      }
+    ],
+    "factions": [
+      {
+        "name": "Salamanders",
+        "slug": "salamanders"
+      },
+      {
+        "name": "Imperium",
+        "slug": "imperium"
+      },
+      {
+        "name": "Orks",
+        "slug": "orks"
+      }
+    ],
+    "primarchs": [
+      "vulkan"
+    ]
+  },
+  {
+    "title": "Corax: Lord of Shadows",
+    "slug": "corax-lord-of-shadows",
+    "series": "primarchs",
+    "orderInSeries": 10,
+    "author": "guy-haley",
+    "pages": 218,
+    "setting": {
+      "era": "Great Crusade",
+      "millennium": "M30"
+    },
+    "description": "Corax leads the Raven Guard against the void-cities of the Carinae, but when an ancient biological weapon turns Imperial forces against each other he must balance his desire for vengeance against the need for swift resolution.",
+    "characters": [
+      {
+        "name": "Corvus Corax",
+        "slug": "corvus-corax"
+      }
+    ],
+    "factions": [
+      {
+        "name": "Raven Guard",
+        "slug": "raven-guard"
+      },
+      {
+        "name": "Imperium",
+        "slug": "imperium"
+      }
+    ],
+    "primarchs": [
+      "corvus-corax"
+    ]
+  },
+  {
+    "title": "Angron: Slave of Nuceria",
+    "slug": "angron-slave-of-nuceria",
+    "series": "primarchs",
+    "orderInSeries": 11,
+    "author": "ian-st-martin",
+    "pages": 233,
+    "setting": {
+      "era": "Great Crusade",
+      "millennium": "M30"
+    },
+    "description": "In command of a Legion he despises, Angron gives his sons a brutal ultimatum — undergo the Butcher's Nails neural implants or die — setting the World Eaters on an irreversible path toward savagery.",
+    "characters": [
+      {
+        "name": "Angron",
+        "slug": "angron"
+      }
+    ],
+    "factions": [
+      {
+        "name": "World Eaters",
+        "slug": "world-eaters"
+      },
+      {
+        "name": "Imperium",
+        "slug": "imperium"
+      }
+    ],
+    "primarchs": [
+      "angron"
+    ]
+  },
+  {
+    "title": "Konrad Curze: The Night Haunter",
+    "slug": "konrad-curze-the-night-haunter",
+    "series": "primarchs",
+    "orderInSeries": 12,
+    "author": "guy-haley",
+    "pages": 196,
+    "setting": {
+      "era": "Great Crusade",
+      "millennium": "M30"
+    },
+    "description": "Tracing Konrad Curze from his childhood in the darkness of Nostramo through his violent rule, the novel charts how he saw the hypocrisy of the Emperor's justice and accepted that only darkness makes sense.",
+    "characters": [
+      {
+        "name": "Konrad Curze",
+        "slug": "konrad-curze"
+      }
+    ],
+    "factions": [
+      {
+        "name": "Night Lords",
+        "slug": "night-lords"
+      },
+      {
+        "name": "Imperium",
+        "slug": "imperium"
+      }
+    ],
+    "primarchs": [
+      "konrad-curze"
+    ]
+  },
+  {
+    "title": "Lion El'Jonson: Lord of the First",
+    "slug": "lion-el-jonson-lord-of-the-first",
+    "series": "primarchs",
+    "orderInSeries": 13,
+    "author": "david-guymer",
+    "pages": 193,
+    "setting": {
+      "era": "Great Crusade",
+      "millennium": "M30"
+    },
+    "description": "While his brothers mass for the assault on Ullanor, the Lion leads his Legion to the remote Ghoul Stars to subjugate a single rebellious world, raising questions about whether this is pride, secrecy, or something strategically calculated.",
+    "characters": [
+      {
+        "name": "Lion El'Jonson",
+        "slug": "lion-el-jonson"
+      }
+    ],
+    "factions": [
+      {
+        "name": "Dark Angels",
+        "slug": "dark-angels"
+      },
+      {
+        "name": "Imperium",
+        "slug": "imperium"
+      }
+    ],
+    "primarchs": [
+      "lion-el-jonson"
+    ]
+  },
+  {
+    "title": "Alpharius: Head of the Hydra",
+    "slug": "alpharius-head-of-the-hydra",
+    "series": "primarchs",
+    "orderInSeries": 14,
+    "author": "mike-brooks",
+    "pages": 202,
+    "setting": {
+      "era": "Great Crusade",
+      "millennium": "M30"
+    },
+    "description": "Told in unreliable first-person by Alpharius himself, the novel claims to reveal the truth of his discovery and his years spent secretly infiltrating his brothers' Legions — but as the serpent's own account, nothing in it can be trusted.",
+    "characters": [
+      {
+        "name": "Alpharius",
+        "slug": "alpharius"
+      }
+    ],
+    "factions": [
+      {
+        "name": "Alpha Legion",
+        "slug": "alpha-legion"
+      },
+      {
+        "name": "Imperium",
+        "slug": "imperium"
+      }
+    ],
+    "primarchs": [
+      "alpharius"
+    ]
+  },
+  {
+    "title": "Mortarion: The Pale King",
+    "slug": "mortarion-the-pale-king",
+    "series": "primarchs",
+    "orderInSeries": 15,
+    "author": "david-annandale",
+    "pages": 176,
+    "setting": {
+      "era": "Great Crusade",
+      "millennium": "M30"
+    },
+    "description": "After Mortarion's Death Guard annihilates a cruel ruling order with appalling brutality, two fellow Primarchs arrive to demand he account for his methods — but the Pale King refuses to apologise for a scythe that reaps as it must.",
+    "characters": [
+      {
+        "name": "Mortarion",
+        "slug": "mortarion"
+      }
+    ],
+    "factions": [
+      {
+        "name": "Death Guard",
+        "slug": "death-guard"
+      },
+      {
+        "name": "Imperium",
+        "slug": "imperium"
+      }
+    ],
+    "primarchs": [
+      "mortarion"
+    ]
+  },
+  {
+    "title": "Rogal Dorn: The Emperor's Crusader",
+    "slug": "rogal-dorn-the-emperors-crusader",
+    "series": "primarchs",
+    "orderInSeries": 16,
+    "author": "gav-thorpe",
+    "pages": 201,
+    "setting": {
+      "era": "Great Crusade",
+      "millennium": "M30"
+    },
+    "description": "Tasked with securing hundreds of star systems behind a massive warp storm, Rogal Dorn leads the Imperial Fists into a cosmic twilight where the Astronomican cannot reach, forcing him to rely on pure strategic genius.",
+    "characters": [
+      {
+        "name": "Rogal Dorn",
+        "slug": "rogal-dorn"
+      }
+    ],
+    "factions": [
+      {
+        "name": "Imperial Fists",
+        "slug": "imperial-fists"
+      },
+      {
+        "name": "Imperium",
+        "slug": "imperium"
+      }
+    ],
+    "primarchs": [
+      "rogal-dorn"
+    ]
+  },
+  {
+    "title": "Sanguinius: The Great Angel",
+    "slug": "sanguinius-the-great-angel",
+    "series": "primarchs",
+    "orderInSeries": 17,
+    "author": "chris-wraight",
+    "pages": 184,
+    "setting": {
+      "era": "Great Crusade",
+      "millennium": "M30"
+    },
+    "description": "A disgraced remembrancer joins the Blood Angels' fleet to chronicle Sanguinius and gradually uncovers the secrets behind the Legion's mysterious origins and the dark truths the Imperium would prefer buried.",
+    "characters": [
+      {
+        "name": "Sanguinius",
+        "slug": "sanguinius"
+      }
+    ],
+    "factions": [
+      {
+        "name": "Blood Angels",
+        "slug": "blood-angels"
+      },
+      {
+        "name": "Imperium",
+        "slug": "imperium"
+      }
+    ],
+    "primarchs": [
+      "sanguinius"
+    ]
+  }
+]

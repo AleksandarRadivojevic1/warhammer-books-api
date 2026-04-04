@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Mephiston: Lord of Death",
+    "slug": "mephiston-lord-of-death",
+    "series": "mephiston",
+    "orderInSeries": 1,
+    "author": "david-annandale",
+    "pages": 128,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Chief Librarian Mephiston faces a daemonic incursion that tests the limits of his power and his ongoing battle against the Black Rage — the curse that haunts all sons of Sanguinius.",
+    "characters": [
+      {
+        "name": "Mephiston",
+        "slug": "mephiston"
+      }
+    ],
+    "factions": [
+      {
+        "name": "Blood Angels",
+        "slug": "blood-angels"
+      },
+      {
+        "name": "Chaos",
+        "slug": "chaos"
+      }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Mephiston: Blood of Sanguinius",
+    "slug": "mephiston-blood-of-sanguinius",
+    "series": "mephiston",
+    "orderInSeries": 2,
+    "author": "darius-hinks",
+    "pages": 320,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Chief Librarian Mephiston of the Blood Angels ventures to a plague-ravaged world to uncover the source of a mysterious affliction, confronting the darkness within his own soul as much as the enemy without.",
+    "characters": [
+      {
+        "name": "Mephiston",
+        "slug": "mephiston"
+      }
+    ],
+    "factions": [
+      {
+        "name": "Blood Angels",
+        "slug": "blood-angels"
+      },
+      {
+        "name": "Chaos",
+        "slug": "chaos"
+      }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Mephiston: Revenant Crusade",
+    "slug": "mephiston-revenant-crusade",
+    "series": "mephiston",
+    "orderInSeries": 3,
+    "author": "darius-hinks",
+    "pages": 320,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Mephiston leads a doomed crusade into a region of space where the laws of reality have broken down, hunting a threat that may be connected to the curse of the Black Rage that haunts the Blood Angels.",
+    "characters": [
+      {
+        "name": "Mephiston",
+        "slug": "mephiston"
+      }
+    ],
+    "factions": [
+      {
+        "name": "Blood Angels",
+        "slug": "blood-angels"
+      },
+      {
+        "name": "Chaos",
+        "slug": "chaos"
+      }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Mephiston: City of Light",
+    "slug": "mephiston-city-of-light",
+    "series": "mephiston",
+    "orderInSeries": 4,
+    "author": "darius-hinks",
+    "pages": 240,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Mephiston is drawn to a city bathed in inexplicable light on a world at the edge of the Great Rift, where the boundary between the warp and reality has become dangerously thin and something ancient stirs.",
+    "characters": [
+      {
+        "name": "Mephiston",
+        "slug": "mephiston"
+      }
+    ],
+    "factions": [
+      {
+        "name": "Blood Angels",
+        "slug": "blood-angels"
+      },
+      {
+        "name": "Chaos",
+        "slug": "chaos"
+      }
+    ],
+    "primarchs": []
+  }
+]

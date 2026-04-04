@@ -258,6 +258,26 @@ module.exports = async () => {
       name: "Mitchel Scanlon",
       slug: "mitchel-scanlon",
       bio: "Mitchel Scanlon is the author of the Horus Heresy novel ‘Descent of Angels’, exploring the history of the Dark Angels Legion and their primarch Lion El’Jonson. He has also written Warhammer Fantasy fiction for Black Library."
+    },
+    {
+      name: "Mike Brooks",
+      slug: "mike-brooks",
+      bio: "Mike Brooks is a British author of science fiction and fantasy. For Black Library he has written ‘Ork Hunters’, the Warhammer Crime novel ‘No Good Men’, and the Primarchs novel ‘Alpharius: Head of the Hydra’. Outside of Black Library he is the author of the Keiko series of science fiction novels."
+    },
+    {
+      name: "Marc Collins",
+      slug: "marc-collins",
+      bio: "Marc Collins is a Black Library author whose work includes the Dawn of Fire novel ‘The Martyr’s Tomb’ and various Warhammer 40,000 short stories. He lives and works in Scotland."
+    },
+    {
+      name: "Danie Ware",
+      slug: "danie-ware",
+      bio: "Danie Ware is the author of the Adepta Sororitas novels ‘The Rose at War’ and ‘The Rose in Darkness’, following Sister Superior Augusta of the Order of the Bloody Rose. She has also written the Ecko science fiction series and lives in London."
+    },
+    {
+      name: "Jude Reid",
+      slug: "jude-reid",
+      bio: "Jude Reid is a Black Library author known for her Adepta Sororitas fiction, including the novels ‘Daemonbreaker’ and ‘Morvenn Vahl: Spear of Faith’. She is a doctor and lives in Scotland."
     }
 
   ]);

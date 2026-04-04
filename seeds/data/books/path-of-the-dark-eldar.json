@@ -1,0 +1,100 @@
+[
+  {
+    "title": "Path of the Renegade",
+    "slug": "path-of-the-renegade",
+    "series": "path-of-the-dark-eldar",
+    "orderInSeries": 1,
+    "author": "andy-chambers",
+    "pages": 416,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Archon Yllithian seeks to restore his dwindling power within the dark city of Commorragh by resurrecting a long-dead champion, setting in motion a chain of treachery and violence that could tear the city apart.",
+    "characters": [
+      {
+        "name": "Yllithian",
+        "slug": "yllithian"
+      },
+      {
+        "name": "Morr",
+        "slug": "morr"
+      }
+    ],
+    "factions": [
+      {
+        "name": "Dark Eldar",
+        "slug": "dark-eldar"
+      }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Path of the Incubus",
+    "slug": "path-of-the-incubus",
+    "series": "path-of-the-dark-eldar",
+    "orderInSeries": 2,
+    "author": "andy-chambers",
+    "pages": 416,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "As Yllithian's desperate plan to resurrect the ancient champion El'uriaq accelerates, the politics of Commorragh grow ever more lethal and the consequences of meddling with forbidden power become increasingly clear.",
+    "characters": [
+      {
+        "name": "Yllithian",
+        "slug": "yllithian"
+      },
+      {
+        "name": "Morr",
+        "slug": "morr"
+      }
+    ],
+    "factions": [
+      {
+        "name": "Dark Eldar",
+        "slug": "dark-eldar"
+      },
+      {
+        "name": "Chaos",
+        "slug": "chaos"
+      }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Path of the Archon",
+    "slug": "path-of-the-archon",
+    "series": "path-of-the-dark-eldar",
+    "orderInSeries": 3,
+    "author": "andy-chambers",
+    "pages": 416,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "The resurrection of El'uriaq is complete but the ancient champion's return threatens to consume Commorragh itself, and Yllithian must face the full consequences of his ruthless ambition in a final battle for the dark city's survival.",
+    "characters": [
+      {
+        "name": "Yllithian",
+        "slug": "yllithian"
+      },
+      {
+        "name": "Morr",
+        "slug": "morr"
+      }
+    ],
+    "factions": [
+      {
+        "name": "Dark Eldar",
+        "slug": "dark-eldar"
+      },
+      {
+        "name": "Chaos",
+        "slug": "chaos"
+      }
+    ],
+    "primarchs": []
+  }
+]

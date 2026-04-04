@@ -1,0 +1,454 @@
+[
+  {
+    "title": "I Am Slaughter",
+    "slug": "i-am-slaughter",
+    "series": "the-beast-arises",
+    "orderInSeries": 1,
+    "author": "dan-abnett",
+    "pages": 224,
+    "setting": {
+      "era": "32nd Millennium",
+      "millennium": "M32"
+    },
+    "description": "A massive and unprecedented Ork invasion strikes the Imperium without warning, and the Space Marines sent to repel it find themselves overwhelmed by an enemy unlike any encountered before.",
+    "characters": [
+      {
+        "name": "Koorland",
+        "slug": "koorland"
+      },
+      {
+        "name": "Drakan Vangorich",
+        "slug": "drakan-vangorich"
+      }
+    ],
+    "factions": [
+      {
+        "name": "Adeptus Astartes",
+        "slug": "adeptus-astartes"
+      },
+      {
+        "name": "Orks",
+        "slug": "orks"
+      },
+      {
+        "name": "Imperium",
+        "slug": "imperium"
+      }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Predator, Prey",
+    "slug": "predator-prey",
+    "series": "the-beast-arises",
+    "orderInSeries": 2,
+    "author": "rob-sanders",
+    "pages": 224,
+    "setting": {
+      "era": "32nd Millennium",
+      "millennium": "M32"
+    },
+    "description": "As the Ork invasion spreads across hundreds of worlds simultaneously, survivors scramble to warn Terra while the High Lords debate a response to a threat they cannot yet comprehend.",
+    "characters": [
+      {
+        "name": "Koorland",
+        "slug": "koorland"
+      },
+      {
+        "name": "Drakan Vangorich",
+        "slug": "drakan-vangorich"
+      }
+    ],
+    "factions": [
+      {
+        "name": "Adeptus Astartes",
+        "slug": "adeptus-astartes"
+      },
+      {
+        "name": "Orks",
+        "slug": "orks"
+      },
+      {
+        "name": "Imperium",
+        "slug": "imperium"
+      }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "The Emperor Expects",
+    "slug": "the-emperor-expects",
+    "series": "the-beast-arises",
+    "orderInSeries": 3,
+    "author": "gav-thorpe",
+    "pages": 224,
+    "setting": {
+      "era": "32nd Millennium",
+      "millennium": "M32"
+    },
+    "description": "The Imperial Fists make their last stand against the Ork onslaught, and Koorland — the last surviving Imperial Fist — vows vengeance and begins to forge a new weapon against the greenskin tide.",
+    "characters": [
+      {
+        "name": "Koorland",
+        "slug": "koorland"
+      },
+      {
+        "name": "Drakan Vangorich",
+        "slug": "drakan-vangorich"
+      }
+    ],
+    "factions": [
+      {
+        "name": "Imperial Fists",
+        "slug": "imperial-fists"
+      },
+      {
+        "name": "Orks",
+        "slug": "orks"
+      },
+      {
+        "name": "Imperium",
+        "slug": "imperium"
+      }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "The Last Wall",
+    "slug": "the-last-wall",
+    "series": "the-beast-arises",
+    "orderInSeries": 4,
+    "author": "david-annandale",
+    "pages": 224,
+    "setting": {
+      "era": "32nd Millennium",
+      "millennium": "M32"
+    },
+    "description": "Koorland invokes the Last Wall Protocol, reuniting the successor Chapters of the Imperial Fists to form a combined force capable of striking back at the Ork Attack Moons threatening Terra itself.",
+    "characters": [
+      {
+        "name": "Koorland",
+        "slug": "koorland"
+      },
+      {
+        "name": "Drakan Vangorich",
+        "slug": "drakan-vangorich"
+      }
+    ],
+    "factions": [
+      {
+        "name": "Imperial Fists",
+        "slug": "imperial-fists"
+      },
+      {
+        "name": "Orks",
+        "slug": "orks"
+      },
+      {
+        "name": "Imperium",
+        "slug": "imperium"
+      }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Throneworld",
+    "slug": "throneworld",
+    "series": "the-beast-arises",
+    "orderInSeries": 5,
+    "author": "guy-haley",
+    "pages": 224,
+    "setting": {
+      "era": "32nd Millennium",
+      "millennium": "M32"
+    },
+    "description": "An Ork Attack Moon arrives above Terra itself and the High Lords must reckon with the unthinkable possibility that the Imperium's heartworld might fall, while desperate plans to fight back take shape.",
+    "characters": [
+      {
+        "name": "Koorland",
+        "slug": "koorland"
+      },
+      {
+        "name": "Drakan Vangorich",
+        "slug": "drakan-vangorich"
+      }
+    ],
+    "factions": [
+      {
+        "name": "Adeptus Astartes",
+        "slug": "adeptus-astartes"
+      },
+      {
+        "name": "Orks",
+        "slug": "orks"
+      },
+      {
+        "name": "Imperium",
+        "slug": "imperium"
+      }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Echoes of the Long War",
+    "slug": "echoes-of-the-long-war",
+    "series": "the-beast-arises",
+    "orderInSeries": 6,
+    "author": "david-guymer",
+    "pages": 224,
+    "setting": {
+      "era": "32nd Millennium",
+      "millennium": "M32"
+    },
+    "description": "The newly-formed Deathwatch is dispatched to infiltrate Ork-held space and find a weakness in the Attack Moons, while political intrigue among the High Lords threatens to undermine the war effort.",
+    "characters": [
+      {
+        "name": "Koorland",
+        "slug": "koorland"
+      },
+      {
+        "name": "Drakan Vangorich",
+        "slug": "drakan-vangorich"
+      }
+    ],
+    "factions": [
+      {
+        "name": "Deathwatch",
+        "slug": "deathwatch"
+      },
+      {
+        "name": "Orks",
+        "slug": "orks"
+      },
+      {
+        "name": "Imperium",
+        "slug": "imperium"
+      }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "The Hunt for Vulkan",
+    "slug": "the-hunt-for-vulkan",
+    "series": "the-beast-arises",
+    "orderInSeries": 7,
+    "author": "david-annandale",
+    "pages": 224,
+    "setting": {
+      "era": "32nd Millennium",
+      "millennium": "M32"
+    },
+    "description": "Koorland leads a daring quest to find the missing primarch Vulkan, believing only a living primarch can turn the tide against the Beast's seemingly unstoppable invasion.",
+    "characters": [
+      {
+        "name": "Koorland",
+        "slug": "koorland"
+      },
+      {
+        "name": "Vulkan",
+        "slug": "vulkan"
+      }
+    ],
+    "factions": [
+      {
+        "name": "Adeptus Astartes",
+        "slug": "adeptus-astartes"
+      },
+      {
+        "name": "Salamanders",
+        "slug": "salamanders"
+      },
+      {
+        "name": "Imperium",
+        "slug": "imperium"
+      }
+    ],
+    "primarchs": [
+      "vulkan"
+    ]
+  },
+  {
+    "title": "The Beast Must Die",
+    "slug": "the-beast-must-die",
+    "series": "the-beast-arises",
+    "orderInSeries": 8,
+    "author": "gav-thorpe",
+    "pages": 224,
+    "setting": {
+      "era": "32nd Millennium",
+      "millennium": "M32"
+    },
+    "description": "With Vulkan at their side, the combined Imperial forces launch a massive assault on Ullanor Prime, the heartworld of the Beast's empire, in a desperate bid to end the Ork threat once and for all.",
+    "characters": [
+      {
+        "name": "Koorland",
+        "slug": "koorland"
+      },
+      {
+        "name": "Vulkan",
+        "slug": "vulkan"
+      }
+    ],
+    "factions": [
+      {
+        "name": "Adeptus Astartes",
+        "slug": "adeptus-astartes"
+      },
+      {
+        "name": "Orks",
+        "slug": "orks"
+      },
+      {
+        "name": "Imperium",
+        "slug": "imperium"
+      }
+    ],
+    "primarchs": [
+      "vulkan"
+    ]
+  },
+  {
+    "title": "Watchers in Death",
+    "slug": "watchers-in-death",
+    "series": "the-beast-arises",
+    "orderInSeries": 9,
+    "author": "david-annandale",
+    "pages": 224,
+    "setting": {
+      "era": "32nd Millennium",
+      "millennium": "M32"
+    },
+    "description": "In the aftermath of the Ullanor assault, the Deathwatch and Officio Assassinorum pursue new strategies to hunt down the Beast's lieutenants before the greenskin empire can recover.",
+    "characters": [
+      {
+        "name": "Koorland",
+        "slug": "koorland"
+      },
+      {
+        "name": "Drakan Vangorich",
+        "slug": "drakan-vangorich"
+      }
+    ],
+    "factions": [
+      {
+        "name": "Deathwatch",
+        "slug": "deathwatch"
+      },
+      {
+        "name": "Officio Assassinorum",
+        "slug": "officio-assassinorum"
+      },
+      {
+        "name": "Orks",
+        "slug": "orks"
+      }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "The Last Son of Dorn",
+    "slug": "the-last-son-of-dorn",
+    "series": "the-beast-arises",
+    "orderInSeries": 10,
+    "author": "david-guymer",
+    "pages": 224,
+    "setting": {
+      "era": "32nd Millennium",
+      "millennium": "M32"
+    },
+    "description": "As the war reaches a critical juncture, Koorland must make the ultimate sacrifice and the Imperial Fists face the possibility of final extinction, while political machinations on Terra grow ever more dangerous.",
+    "characters": [
+      {
+        "name": "Koorland",
+        "slug": "koorland"
+      },
+      {
+        "name": "Drakan Vangorich",
+        "slug": "drakan-vangorich"
+      }
+    ],
+    "factions": [
+      {
+        "name": "Imperial Fists",
+        "slug": "imperial-fists"
+      },
+      {
+        "name": "Orks",
+        "slug": "orks"
+      },
+      {
+        "name": "Imperium",
+        "slug": "imperium"
+      }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Shadow of Ullanor",
+    "slug": "shadow-of-ullanor",
+    "series": "the-beast-arises",
+    "orderInSeries": 11,
+    "author": "rob-sanders",
+    "pages": 224,
+    "setting": {
+      "era": "32nd Millennium",
+      "millennium": "M32"
+    },
+    "description": "The final campaign against the Beast's realm reaches its conclusion as the combined Imperial forces press their advantage, but victory may come at a price that will reshape the Imperium forever.",
+    "characters": [
+      {
+        "name": "Koorland",
+        "slug": "koorland"
+      },
+      {
+        "name": "Drakan Vangorich",
+        "slug": "drakan-vangorich"
+      }
+    ],
+    "factions": [
+      {
+        "name": "Adeptus Astartes",
+        "slug": "adeptus-astartes"
+      },
+      {
+        "name": "Orks",
+        "slug": "orks"
+      },
+      {
+        "name": "Imperium",
+        "slug": "imperium"
+      }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "The Beheading",
+    "slug": "the-beheading",
+    "series": "the-beast-arises",
+    "orderInSeries": 12,
+    "author": "guy-haley",
+    "pages": 224,
+    "setting": {
+      "era": "32nd Millennium",
+      "millennium": "M32"
+    },
+    "description": "Grand Master of Assassins Drakan Vangorich takes drastic action against the corrupt High Lords of Terra in an event remembered as one of the darkest chapters in Imperial history.",
+    "characters": [
+      {
+        "name": "Drakan Vangorich",
+        "slug": "drakan-vangorich"
+      }
+    ],
+    "factions": [
+      {
+        "name": "Officio Assassinorum",
+        "slug": "officio-assassinorum"
+      },
+      {
+        "name": "Imperium",
+        "slug": "imperium"
+      }
+    ],
+    "primarchs": []
+  }
+]

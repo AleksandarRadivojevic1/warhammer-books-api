@@ -1,0 +1,660 @@
+[
+  {
+    "title": "Trollslayer",
+    "slug": "trollslayer",
+    "series": "gotrek-and-felix",
+    "orderInSeries": 1,
+    "author": "william-king",
+    "pages": 320,
+    "setting": {
+      "era": "Old World",
+      "millennium": "IC"
+    },
+    "description": "A collection of linked stories introducing dwarf Slayer Gotrek Gurnisson and his human oath-companion Felix Jaeger as they wander the Empire seeking Gotrek's glorious doom.",
+    "characters": [
+      {
+        "name": "Gotrek Gurnisson",
+        "slug": "gotrek-gurnisson"
+      },
+      {
+        "name": "Felix Jaeger",
+        "slug": "felix-jaeger"
+      }
+    ],
+    "factions": [
+      {
+        "name": "Dwarfs",
+        "slug": "dwarfs"
+      },
+      {
+        "name": "Empire",
+        "slug": "empire"
+      },
+      {
+        "name": "Chaos",
+        "slug": "chaos"
+      }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Skavenslayer",
+    "slug": "skavenslayer",
+    "series": "gotrek-and-felix",
+    "orderInSeries": 2,
+    "author": "william-king",
+    "pages": 280,
+    "setting": {
+      "era": "Old World",
+      "millennium": "IC"
+    },
+    "description": "Gotrek and Felix arrive in the city of Nuln only to find it threatened by a massive Skaven conspiracy led by the scheming Grey Seer Thanquol.",
+    "characters": [
+      {
+        "name": "Gotrek Gurnisson",
+        "slug": "gotrek-gurnisson"
+      },
+      {
+        "name": "Felix Jaeger",
+        "slug": "felix-jaeger"
+      },
+      {
+        "name": "Grey Seer Thanquol",
+        "slug": "grey-seer-thanquol"
+      }
+    ],
+    "factions": [
+      {
+        "name": "Dwarfs",
+        "slug": "dwarfs"
+      },
+      {
+        "name": "Empire",
+        "slug": "empire"
+      },
+      {
+        "name": "Skaven",
+        "slug": "skaven"
+      }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Daemonslayer",
+    "slug": "daemonslayer",
+    "series": "gotrek-and-felix",
+    "orderInSeries": 3,
+    "author": "william-king",
+    "pages": 320,
+    "setting": {
+      "era": "Old World",
+      "millennium": "IC"
+    },
+    "description": "An old dwarven friend sends Gotrek and Felix aboard an experimental airship on a doomed expedition into the Chaos Wastes to find the long-lost hold of Karag Dum.",
+    "characters": [
+      {
+        "name": "Gotrek Gurnisson",
+        "slug": "gotrek-gurnisson"
+      },
+      {
+        "name": "Felix Jaeger",
+        "slug": "felix-jaeger"
+      },
+      {
+        "name": "Snorri Nosebiter",
+        "slug": "snorri-nosebiter"
+      },
+      {
+        "name": "Ulrika Magdova",
+        "slug": "ulrika-magdova"
+      }
+    ],
+    "factions": [
+      {
+        "name": "Dwarfs",
+        "slug": "dwarfs"
+      },
+      {
+        "name": "Chaos",
+        "slug": "chaos"
+      }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Dragonslayer",
+    "slug": "dragonslayer",
+    "series": "gotrek-and-felix",
+    "orderInSeries": 4,
+    "author": "william-king",
+    "pages": 288,
+    "setting": {
+      "era": "Old World",
+      "millennium": "IC"
+    },
+    "description": "Returning from the Chaos Wastes, the group is driven into the World's Edge Mountains where they face a legendary dragon — and the return of the vengeful Grey Seer Thanquol.",
+    "characters": [
+      {
+        "name": "Gotrek Gurnisson",
+        "slug": "gotrek-gurnisson"
+      },
+      {
+        "name": "Felix Jaeger",
+        "slug": "felix-jaeger"
+      },
+      {
+        "name": "Grey Seer Thanquol",
+        "slug": "grey-seer-thanquol"
+      }
+    ],
+    "factions": [
+      {
+        "name": "Dwarfs",
+        "slug": "dwarfs"
+      },
+      {
+        "name": "Skaven",
+        "slug": "skaven"
+      }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Beastslayer",
+    "slug": "beastslayer",
+    "series": "gotrek-and-felix",
+    "orderInSeries": 5,
+    "author": "william-king",
+    "pages": 273,
+    "setting": {
+      "era": "Old World",
+      "millennium": "IC"
+    },
+    "description": "The armies of Chaos lay siege to the frozen city of Praag and Gotrek and Felix find themselves defending its walls against an overwhelming horde.",
+    "characters": [
+      {
+        "name": "Gotrek Gurnisson",
+        "slug": "gotrek-gurnisson"
+      },
+      {
+        "name": "Felix Jaeger",
+        "slug": "felix-jaeger"
+      }
+    ],
+    "factions": [
+      {
+        "name": "Dwarfs",
+        "slug": "dwarfs"
+      },
+      {
+        "name": "Empire",
+        "slug": "empire"
+      },
+      {
+        "name": "Chaos",
+        "slug": "chaos"
+      }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Vampireslayer",
+    "slug": "vampireslayer",
+    "series": "gotrek-and-felix",
+    "orderInSeries": 6,
+    "author": "william-king",
+    "pages": 320,
+    "setting": {
+      "era": "Old World",
+      "millennium": "IC"
+    },
+    "description": "Gotrek and his companions venture into vampire-haunted Sylvania to hunt down Vampire Lord Adolphus Krieger, with lasting consequences for the group's bond with Ulrika.",
+    "characters": [
+      {
+        "name": "Gotrek Gurnisson",
+        "slug": "gotrek-gurnisson"
+      },
+      {
+        "name": "Felix Jaeger",
+        "slug": "felix-jaeger"
+      },
+      {
+        "name": "Ulrika Magdova",
+        "slug": "ulrika-magdova"
+      }
+    ],
+    "factions": [
+      {
+        "name": "Dwarfs",
+        "slug": "dwarfs"
+      },
+      {
+        "name": "Vampire Counts",
+        "slug": "vampire-counts"
+      }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Giantslayer",
+    "slug": "giantslayer",
+    "series": "gotrek-and-felix",
+    "orderInSeries": 7,
+    "author": "william-king",
+    "pages": 320,
+    "setting": {
+      "era": "Old World",
+      "millennium": "IC"
+    },
+    "description": "A magical mishap strands Gotrek and Felix on the mysterious island of Albion, where they must aid the High Elf mage Teclis against ancient Chaos forces threatening the wider world.",
+    "characters": [
+      {
+        "name": "Gotrek Gurnisson",
+        "slug": "gotrek-gurnisson"
+      },
+      {
+        "name": "Felix Jaeger",
+        "slug": "felix-jaeger"
+      },
+      {
+        "name": "Teclis",
+        "slug": "teclis"
+      }
+    ],
+    "factions": [
+      {
+        "name": "Dwarfs",
+        "slug": "dwarfs"
+      },
+      {
+        "name": "High Elves",
+        "slug": "high-elves"
+      },
+      {
+        "name": "Chaos",
+        "slug": "chaos"
+      }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Orcslayer",
+    "slug": "orcslayer",
+    "series": "gotrek-and-felix",
+    "orderInSeries": 8,
+    "author": "nathan-long",
+    "pages": 414,
+    "setting": {
+      "era": "Old World",
+      "millennium": "IC"
+    },
+    "description": "Gotrek and Felix return to the Old World and take an oath to help a dwarf prince reclaim his hold from an orc warband, only to find something sinister controlling the greenskins.",
+    "characters": [
+      {
+        "name": "Gotrek Gurnisson",
+        "slug": "gotrek-gurnisson"
+      },
+      {
+        "name": "Felix Jaeger",
+        "slug": "felix-jaeger"
+      }
+    ],
+    "factions": [
+      {
+        "name": "Dwarfs",
+        "slug": "dwarfs"
+      },
+      {
+        "name": "Orcs and Goblins",
+        "slug": "orcs-and-goblins"
+      }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Manslayer",
+    "slug": "manslayer",
+    "series": "gotrek-and-felix",
+    "orderInSeries": 9,
+    "author": "nathan-long",
+    "pages": 416,
+    "setting": {
+      "era": "Old World",
+      "millennium": "IC"
+    },
+    "description": "Reuniting with engineer Malakai Makaisson aboard his airship, the duo heads north against Chaos invaders while sabotage and old enemies threaten from within.",
+    "characters": [
+      {
+        "name": "Gotrek Gurnisson",
+        "slug": "gotrek-gurnisson"
+      },
+      {
+        "name": "Felix Jaeger",
+        "slug": "felix-jaeger"
+      },
+      {
+        "name": "Malakai Makaisson",
+        "slug": "malakai-makaisson"
+      }
+    ],
+    "factions": [
+      {
+        "name": "Dwarfs",
+        "slug": "dwarfs"
+      },
+      {
+        "name": "Chaos",
+        "slug": "chaos"
+      }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Elfslayer",
+    "slug": "elfslayer",
+    "series": "gotrek-and-felix",
+    "orderInSeries": 10,
+    "author": "nathan-long",
+    "pages": 412,
+    "setting": {
+      "era": "Old World",
+      "millennium": "IC"
+    },
+    "description": "Felix's dying father sends him to Marienburg, where he and Gotrek are drawn into a mission against Dark Elf slavers seeking a devastating weapon hidden on the northern coast.",
+    "characters": [
+      {
+        "name": "Gotrek Gurnisson",
+        "slug": "gotrek-gurnisson"
+      },
+      {
+        "name": "Felix Jaeger",
+        "slug": "felix-jaeger"
+      }
+    ],
+    "factions": [
+      {
+        "name": "Dwarfs",
+        "slug": "dwarfs"
+      },
+      {
+        "name": "Dark Elves",
+        "slug": "dark-elves"
+      }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Shamanslayer",
+    "slug": "shamanslayer",
+    "series": "gotrek-and-felix",
+    "orderInSeries": 11,
+    "author": "nathan-long",
+    "pages": 416,
+    "setting": {
+      "era": "Old World",
+      "millennium": "IC"
+    },
+    "description": "A massive Beastman horde threatens the Empire and Felix must prove his right to carry his magical sword as they confront Chaos forces connected to their earliest adventures.",
+    "characters": [
+      {
+        "name": "Gotrek Gurnisson",
+        "slug": "gotrek-gurnisson"
+      },
+      {
+        "name": "Felix Jaeger",
+        "slug": "felix-jaeger"
+      }
+    ],
+    "factions": [
+      {
+        "name": "Dwarfs",
+        "slug": "dwarfs"
+      },
+      {
+        "name": "Beastmen",
+        "slug": "beastmen"
+      },
+      {
+        "name": "Chaos",
+        "slug": "chaos"
+      }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Zombieslayer",
+    "slug": "zombieslayer",
+    "series": "gotrek-and-felix",
+    "orderInSeries": 12,
+    "author": "nathan-long",
+    "pages": 416,
+    "setting": {
+      "era": "Old World",
+      "millennium": "IC"
+    },
+    "description": "Pursued by the undead, Gotrek and Felix take refuge in an ancient mountain castle and must hold out against a siege by necromancer Heinrich Kemmler's zombie hordes.",
+    "characters": [
+      {
+        "name": "Gotrek Gurnisson",
+        "slug": "gotrek-gurnisson"
+      },
+      {
+        "name": "Felix Jaeger",
+        "slug": "felix-jaeger"
+      },
+      {
+        "name": "Heinrich Kemmler",
+        "slug": "heinrich-kemmler"
+      }
+    ],
+    "factions": [
+      {
+        "name": "Dwarfs",
+        "slug": "dwarfs"
+      },
+      {
+        "name": "Undead",
+        "slug": "undead"
+      }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Road of Skulls",
+    "slug": "road-of-skulls",
+    "series": "gotrek-and-felix",
+    "orderInSeries": 13,
+    "author": "josh-reynolds",
+    "pages": 416,
+    "setting": {
+      "era": "Old World",
+      "millennium": "IC"
+    },
+    "description": "Gotrek and Felix race to Karak Kadrin, besieged by Chaos Warlord Garmr, where the Slayer King's ancient prophecy and the legendary Road of Skulls may finally lead Gotrek to his doom.",
+    "characters": [
+      {
+        "name": "Gotrek Gurnisson",
+        "slug": "gotrek-gurnisson"
+      },
+      {
+        "name": "Felix Jaeger",
+        "slug": "felix-jaeger"
+      }
+    ],
+    "factions": [
+      {
+        "name": "Dwarfs",
+        "slug": "dwarfs"
+      },
+      {
+        "name": "Chaos",
+        "slug": "chaos"
+      }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "City of the Damned",
+    "slug": "city-of-the-damned",
+    "series": "gotrek-and-felix",
+    "orderInSeries": 14,
+    "author": "david-guymer",
+    "pages": 413,
+    "setting": {
+      "era": "Old World",
+      "millennium": "IC"
+    },
+    "description": "A cursed, time-fractured ruin in Ostermark has stirred again and Gotrek and Felix face the horrors of an entire destroyed city pulled out of time itself.",
+    "characters": [
+      {
+        "name": "Gotrek Gurnisson",
+        "slug": "gotrek-gurnisson"
+      },
+      {
+        "name": "Felix Jaeger",
+        "slug": "felix-jaeger"
+      }
+    ],
+    "factions": [
+      {
+        "name": "Dwarfs",
+        "slug": "dwarfs"
+      },
+      {
+        "name": "Undead",
+        "slug": "undead"
+      },
+      {
+        "name": "Chaos",
+        "slug": "chaos"
+      }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "The Serpent Queen",
+    "slug": "the-serpent-queen",
+    "series": "gotrek-and-felix",
+    "orderInSeries": 15,
+    "author": "josh-reynolds",
+    "pages": 416,
+    "setting": {
+      "era": "Old World",
+      "millennium": "IC"
+    },
+    "description": "Captured in the desert realm of Nehekhara, Gotrek and Felix are forced to serve the ancient undead queen Khalida in her war against vampire enemies, venturing deep into the Land of the Dead.",
+    "characters": [
+      {
+        "name": "Gotrek Gurnisson",
+        "slug": "gotrek-gurnisson"
+      },
+      {
+        "name": "Felix Jaeger",
+        "slug": "felix-jaeger"
+      },
+      {
+        "name": "Queen Khalida",
+        "slug": "queen-khalida"
+      }
+    ],
+    "factions": [
+      {
+        "name": "Dwarfs",
+        "slug": "dwarfs"
+      },
+      {
+        "name": "Tomb Kings",
+        "slug": "tomb-kings"
+      },
+      {
+        "name": "Vampire Counts",
+        "slug": "vampire-counts"
+      }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Kinslayer",
+    "slug": "kinslayer",
+    "series": "gotrek-and-felix",
+    "orderInSeries": 16,
+    "author": "david-guymer",
+    "pages": 416,
+    "setting": {
+      "era": "Old World",
+      "millennium": "IC"
+    },
+    "description": "Set during the End Times, the long-separated Gotrek and Felix are reunited in Kislev to battle Chaos and the Troll King alongside Ulrika and Snorri, but hidden betrayals will tear old friendships apart forever.",
+    "characters": [
+      {
+        "name": "Gotrek Gurnisson",
+        "slug": "gotrek-gurnisson"
+      },
+      {
+        "name": "Felix Jaeger",
+        "slug": "felix-jaeger"
+      },
+      {
+        "name": "Ulrika Magdova",
+        "slug": "ulrika-magdova"
+      },
+      {
+        "name": "Snorri Nosebiter",
+        "slug": "snorri-nosebiter"
+      }
+    ],
+    "factions": [
+      {
+        "name": "Dwarfs",
+        "slug": "dwarfs"
+      },
+      {
+        "name": "Chaos",
+        "slug": "chaos"
+      },
+      {
+        "name": "Vampire Counts",
+        "slug": "vampire-counts"
+      }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Slayer",
+    "slug": "slayer-gotrek",
+    "series": "gotrek-and-felix",
+    "orderInSeries": 17,
+    "author": "david-guymer",
+    "pages": 368,
+    "setting": {
+      "era": "Old World",
+      "millennium": "IC"
+    },
+    "description": "The final novel of the Warhammer Fantasy continuity: Gotrek and Felix march together one last time as the End Times overwhelm the Empire, culminating in a confrontation with the Daemon Prince Be'lakor.",
+    "characters": [
+      {
+        "name": "Gotrek Gurnisson",
+        "slug": "gotrek-gurnisson"
+      },
+      {
+        "name": "Felix Jaeger",
+        "slug": "felix-jaeger"
+      }
+    ],
+    "factions": [
+      {
+        "name": "Dwarfs",
+        "slug": "dwarfs"
+      },
+      {
+        "name": "Empire",
+        "slug": "empire"
+      },
+      {
+        "name": "Chaos",
+        "slug": "chaos"
+      }
+    ],
+    "primarchs": []
+  }
+]

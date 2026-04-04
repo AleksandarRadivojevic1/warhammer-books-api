@@ -1,0 +1,420 @@
+[
+  {
+    "title": "For the Emperor",
+    "slug": "for-the-emperor",
+    "series": "ciaphas-cain",
+    "orderInSeries": 1,
+    "author": "sandy-mitchell",
+    "pages": 416,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Commissar Ciaphas Cain is sent to a frontier world on the edge of Tau space to maintain order, but the murder of an alien ambassador spirals into full-scale civil war with far more sinister forces pulling the strings.",
+    "characters": [
+      {
+        "name": "Ciaphas Cain",
+        "slug": "ciaphas-cain"
+      },
+      {
+        "name": "Jurgen",
+        "slug": "jurgen"
+      },
+      {
+        "name": "Amberley Vail",
+        "slug": "amberley-vail"
+      }
+    ],
+    "factions": [
+      {
+        "name": "Astra Militarum",
+        "slug": "astra-militarum"
+      },
+      {
+        "name": "Tau",
+        "slug": "tau"
+      },
+      {
+        "name": "Chaos",
+        "slug": "chaos"
+      }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Caves of Ice",
+    "slug": "caves-of-ice",
+    "series": "ciaphas-cain",
+    "orderInSeries": 2,
+    "author": "sandy-mitchell",
+    "pages": 256,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Assigned to investigate mysterious disappearances at a mining facility on a frozen world, Cain finds himself caught between a massive ork invasion and a far more ancient evil stirring deep beneath the ice.",
+    "characters": [
+      {
+        "name": "Ciaphas Cain",
+        "slug": "ciaphas-cain"
+      },
+      {
+        "name": "Jurgen",
+        "slug": "jurgen"
+      }
+    ],
+    "factions": [
+      {
+        "name": "Astra Militarum",
+        "slug": "astra-militarum"
+      },
+      {
+        "name": "Orks",
+        "slug": "orks"
+      },
+      {
+        "name": "Necrons",
+        "slug": "necrons"
+      }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "The Traitor's Hand",
+    "slug": "the-traitors-hand",
+    "series": "ciaphas-cain",
+    "orderInSeries": 3,
+    "author": "sandy-mitchell",
+    "pages": 416,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Cain and the Valhallans are sent to defend a world from Chaos raiders, only to discover Slaaneshi cultists have already infiltrated the population and are working to summon something unspeakable.",
+    "characters": [
+      {
+        "name": "Ciaphas Cain",
+        "slug": "ciaphas-cain"
+      },
+      {
+        "name": "Jurgen",
+        "slug": "jurgen"
+      }
+    ],
+    "factions": [
+      {
+        "name": "Astra Militarum",
+        "slug": "astra-militarum"
+      },
+      {
+        "name": "Chaos",
+        "slug": "chaos"
+      }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Death or Glory",
+    "slug": "death-or-glory",
+    "series": "ciaphas-cain",
+    "orderInSeries": 4,
+    "author": "sandy-mitchell",
+    "pages": 414,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "After a catastrophic space battle, Cain and Jurgen crash-land behind enemy lines on an ork-occupied world and must rally scattered Imperial troops to fight their way through hundreds of thousands of greenskins back to safety.",
+    "characters": [
+      {
+        "name": "Ciaphas Cain",
+        "slug": "ciaphas-cain"
+      },
+      {
+        "name": "Jurgen",
+        "slug": "jurgen"
+      }
+    ],
+    "factions": [
+      {
+        "name": "Astra Militarum",
+        "slug": "astra-militarum"
+      },
+      {
+        "name": "Orks",
+        "slug": "orks"
+      }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Duty Calls",
+    "slug": "duty-calls",
+    "series": "ciaphas-cain",
+    "orderInSeries": 5,
+    "author": "sandy-mitchell",
+    "pages": 415,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Called to put down widespread civil unrest, Cain suspects darker forces behind the riots and reunites with Inquisitor Amberley Vail to uncover a deadly conspiracy that threatens far more than one planet.",
+    "characters": [
+      {
+        "name": "Ciaphas Cain",
+        "slug": "ciaphas-cain"
+      },
+      {
+        "name": "Jurgen",
+        "slug": "jurgen"
+      },
+      {
+        "name": "Amberley Vail",
+        "slug": "amberley-vail"
+      }
+    ],
+    "factions": [
+      {
+        "name": "Astra Militarum",
+        "slug": "astra-militarum"
+      },
+      {
+        "name": "Inquisition",
+        "slug": "inquisition"
+      },
+      {
+        "name": "Chaos",
+        "slug": "chaos"
+      }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Cain's Last Stand",
+    "slug": "cains-last-stand",
+    "series": "ciaphas-cain",
+    "orderInSeries": 6,
+    "author": "sandy-mitchell",
+    "pages": 416,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Now supposedly retired as a teacher at the Schola Progenium, Cain is thrust back into action when a splinter of Abaddon's 13th Black Crusade targets his planet, leaving him with only cadets and Jurgen to mount a desperate defence.",
+    "characters": [
+      {
+        "name": "Ciaphas Cain",
+        "slug": "ciaphas-cain"
+      },
+      {
+        "name": "Jurgen",
+        "slug": "jurgen"
+      }
+    ],
+    "factions": [
+      {
+        "name": "Astra Militarum",
+        "slug": "astra-militarum"
+      },
+      {
+        "name": "Chaos",
+        "slug": "chaos"
+      }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "The Emperor's Finest",
+    "slug": "the-emperors-finest",
+    "series": "ciaphas-cain",
+    "orderInSeries": 7,
+    "author": "sandy-mitchell",
+    "pages": 416,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Investigating a tyranid infestation leads Cain onto a drifting space hulk alongside Space Marines, but when the marines suffer catastrophic losses he and Jurgen are left alone to deal with awakening tyranids and rampaging orks.",
+    "characters": [
+      {
+        "name": "Ciaphas Cain",
+        "slug": "ciaphas-cain"
+      },
+      {
+        "name": "Jurgen",
+        "slug": "jurgen"
+      }
+    ],
+    "factions": [
+      {
+        "name": "Astra Militarum",
+        "slug": "astra-militarum"
+      },
+      {
+        "name": "Tyranids",
+        "slug": "tyranids"
+      },
+      {
+        "name": "Orks",
+        "slug": "orks"
+      }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "The Last Ditch",
+    "slug": "the-last-ditch",
+    "series": "ciaphas-cain",
+    "orderInSeries": 8,
+    "author": "sandy-mitchell",
+    "pages": 320,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Returning to a frozen world to deal with an ork incursion, Cain's crashing shuttle disturbs something far worse that has lain dormant beneath the permafrost for millennia, threatening the entire sector.",
+    "characters": [
+      {
+        "name": "Ciaphas Cain",
+        "slug": "ciaphas-cain"
+      },
+      {
+        "name": "Jurgen",
+        "slug": "jurgen"
+      }
+    ],
+    "factions": [
+      {
+        "name": "Astra Militarum",
+        "slug": "astra-militarum"
+      },
+      {
+        "name": "Orks",
+        "slug": "orks"
+      },
+      {
+        "name": "Necrons",
+        "slug": "necrons"
+      }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "The Greater Good",
+    "slug": "the-greater-good",
+    "series": "ciaphas-cain",
+    "orderInSeries": 9,
+    "author": "sandy-mitchell",
+    "pages": 416,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "When the tau launch an assault and then propose a ceasefire, Cain realises why — a tyranid hive fleet is closing in, and he must forge a fragile alliance between bitter enemies to survive.",
+    "characters": [
+      {
+        "name": "Ciaphas Cain",
+        "slug": "ciaphas-cain"
+      },
+      {
+        "name": "Jurgen",
+        "slug": "jurgen"
+      },
+      {
+        "name": "Amberley Vail",
+        "slug": "amberley-vail"
+      }
+    ],
+    "factions": [
+      {
+        "name": "Astra Militarum",
+        "slug": "astra-militarum"
+      },
+      {
+        "name": "Tau",
+        "slug": "tau"
+      },
+      {
+        "name": "Tyranids",
+        "slug": "tyranids"
+      }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Choose Your Enemies",
+    "slug": "choose-your-enemies",
+    "series": "ciaphas-cain",
+    "orderInSeries": 10,
+    "author": "sandy-mitchell",
+    "pages": 394,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "After crushing a Chaos cult uprising, Cain discovers the corruption has spread to a vital forge world and must race to secure it against both heresy and old enemies.",
+    "characters": [
+      {
+        "name": "Ciaphas Cain",
+        "slug": "ciaphas-cain"
+      },
+      {
+        "name": "Jurgen",
+        "slug": "jurgen"
+      }
+    ],
+    "factions": [
+      {
+        "name": "Astra Militarum",
+        "slug": "astra-militarum"
+      },
+      {
+        "name": "Adeptus Mechanicus",
+        "slug": "adeptus-mechanicus"
+      },
+      {
+        "name": "Chaos",
+        "slug": "chaos"
+      }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Vainglorious",
+    "slug": "vainglorious",
+    "series": "ciaphas-cain",
+    "orderInSeries": 11,
+    "author": "sandy-mitchell",
+    "pages": 282,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "With retirement tantalizingly close, Cain is sent to investigate stalled weapons production on a newly founded forge world and finds himself navigating assassination attempts, mutinous skitarii, and heresy within the Adeptus Mechanicus itself.",
+    "characters": [
+      {
+        "name": "Ciaphas Cain",
+        "slug": "ciaphas-cain"
+      },
+      {
+        "name": "Jurgen",
+        "slug": "jurgen"
+      }
+    ],
+    "factions": [
+      {
+        "name": "Astra Militarum",
+        "slug": "astra-militarum"
+      },
+      {
+        "name": "Adeptus Mechanicus",
+        "slug": "adeptus-mechanicus"
+      },
+      {
+        "name": "Chaos",
+        "slug": "chaos"
+      }
+    ],
+    "primarchs": []
+  }
+]
