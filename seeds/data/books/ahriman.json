@@ -1,0 +1,152 @@
+[
+  {
+    "title": "Ahriman: Exile",
+    "slug": "ahriman-exile",
+    "series": "ahriman",
+    "orderInSeries": 1,
+    "author": "john-french",
+    "pages": 416,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "All is dust... Spurned by his former brothers and his father Magnus the Red, Ahriman is a wanderer, a sorcerer of Tzeentch whose actions condemned an entire Legion to an eternity of damnation. Once a vaunted servant of the Thousand Sons, he is now an outcast, a renegade who resides in the Eye of Terror. Ever scheming, he plots his return to power and the destruction of his enemies, an architect of fate and master of the warp.",
+    "characters": [
+      {
+        "name": "Ahriman",
+        "slug": "ahriman"
+      }
+    ],
+    "factions": [
+      {
+        "name": "Thousand Sons",
+        "slug": "thousand-sons"
+      },
+      {
+        "name": "Chaos",
+        "slug": "chaos"
+      }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Ahriman: Sorcerer",
+    "slug": "ahriman-sorcerer",
+    "series": "ahriman",
+    "orderInSeries": 2,
+    "author": "john-french",
+    "pages": 384,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Ahriman, greatest sorcerer of the Thousand Sons and architect of the Rubric that laid his Legion low, continues to walk the path towards salvation, or damnation. Searching for a cure for his Legion, he is forced to consider – was the great ritual somehow flawed from the very beginning? The answer may lie within the mysterious artefact known as the Athenaeum of Kallimakus, a grimoire of forgotten lore which is reputed to contain the exact words of the lost Book of Magnus... or, perhaps, even a transcription of the primarch's deepest and most secret thoughts.",
+    "characters": [
+      {
+        "name": "Ahriman",
+        "slug": "ahriman"
+      }
+    ],
+    "factions": [
+      {
+        "name": "Thousand Sons",
+        "slug": "thousand-sons"
+      },
+      {
+        "name": "Chaos",
+        "slug": "chaos"
+      }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Ahriman: Unchanged",
+    "slug": "ahriman-unchanged",
+    "series": "ahriman",
+    "orderInSeries": 3,
+    "author": "john-french",
+    "pages": 416,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "It has taken many long years and countless sacrifices, but finally Ahriman, former Chief Librarian of the Thousand Sons, now exile and sorcerer, is ready to attempt the most audacious and daring feat of his long life. His quest for knowledge and power has all been for one purpose, and he would now see that purpose fulfilled. His goal? Nothing less than undoing his greatest failure and reversing the Rubric that damned his Legion...",
+    "characters": [
+      {
+        "name": "Ahriman",
+        "slug": "ahriman"
+      }
+    ],
+    "factions": [
+      {
+        "name": "Thousand Sons",
+        "slug": "thousand-sons"
+      },
+      {
+        "name": "Chaos",
+        "slug": "chaos"
+      }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Ahriman: Eternal",
+    "slug": "ahriman-eternal",
+    "series": "ahriman",
+    "orderInSeries": 4,
+    "author": "john-french",
+    "pages": 336,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Doom has come upon the Thousand Sons. Born from the Rubric, a curse of fire and dust stalks them across time and space. The spirits of the Rubricae are vanishing from the prisons of their armour, while living sorcerers take their place one by one. Driven by the need to save his Legion and find redemption, Ahzek Ahriman seeks the time-altering technology of the forgotten Necrons to overwrite the past. Shadowed by aeldari harlequins and with secrets and division spreading through his forces, he must find a new path to salvation before all becomes dust.",
+    "characters": [
+      {
+        "name": "Ahriman",
+        "slug": "ahriman"
+      }
+    ],
+    "factions": [
+      {
+        "name": "Thousand Sons",
+        "slug": "thousand-sons"
+      },
+      {
+        "name": "Chaos",
+        "slug": "chaos"
+      }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Ahriman: Undying",
+    "slug": "ahriman-undying",
+    "series": "ahriman",
+    "orderInSeries": 5,
+    "author": "john-french",
+    "pages": 368,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Ahriman languishes on the threshold of space and time, adrift in a sub-realm of unknowable dimension and aspect. He has found it at long last: the ancient device known to the necrons as the Key of Infinity. This should be his moment of triumph—but he is not the Ahriman he used to be. Betrayed and lost, he is a solitary sorcerer, bereft of allies, standing amongst the smashed and ruined ephemera of his grand designs. With his dreams as dust and his Legion consumed by the fires of the Pyrodomon, Ahriman must fight his way across the shattered remnants of his past if he is to have any hope of saving his future.",
+    "characters": [
+      {
+        "name": "Ahriman",
+        "slug": "ahriman"
+      }
+    ],
+    "factions": [
+      {
+        "name": "Thousand Sons",
+        "slug": "thousand-sons"
+      },
+      {
+        "name": "Chaos",
+        "slug": "chaos"
+      }
+    ],
+    "primarchs": []
+  }
+]

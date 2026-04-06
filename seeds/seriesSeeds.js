@@ -103,13 +103,6 @@ module.exports = async () => {
       description: "The Space Marine Battles series by Black Library focuses on high-action, pivotal conflicts featuring various Space Marine Chapters within the Warhammer 40,000 universe"
     },
     {
-      name: "Warhammer Chronicles",
-      slug: "warhammer-chronicles",
-      era: "Old World",
-      order: 2,
-      description: "Sigmar is the greatest leader of men the world has ever known. By saving the high king of the dwarfs, he earned the eternal friendship of the mountain folk. When a mighty horde of orcs threatened his lands, he united the tribes of men to stand against them at Black Fire Pass. He broke the siege of Middenheim and pushed back the forces of Chaos. In defeating the great necromancer Nagash, he saved mankind and secured the future of his empire. His deeds are legend. This is his story."
-    },
-    {
       name: "Gotrek & Felix",
       slug: "gotrek-and-felix",
       era: "Old World",
@@ -138,13 +131,6 @@ module.exports = async () => {
       description: "Mephiston is a novel series by Darius Hinks focusing on Mephiston of the Blood Angels."
     },
     {
-      name: "Inferno!",
-      slug: "inferno",
-      era: "Various",
-      order: 31,
-      description: "Tales from the worlds of Warhammer"
-    },
-    {
       name: "Space Marine Conquests",
       slug: "space-marine-conquests",
       era: "41st Millennium",
@@ -171,13 +157,6 @@ module.exports = async () => {
       era: "Old World",
       order: 1,
       description: "The Time of Legends prequel novels all recount legendary events from the history of the world of Mallus. The canonicity of the events depicted in these books is always questionable and often conflicts with prior established lore."
-    },
-    {
-      name: "Hammer and Bolter",
-      slug: "hammer-and-bolter",
-      era: "Various",
-      order: 32,
-      description: "Hammer & Bolter is Black Library’s monthly fiction magazine. Each issue is packed with all-new short stories, serialised novels, interviews, previews and more."
     },
     {
       name: "Necromunda",
@@ -241,6 +220,62 @@ module.exports = async () => {
       era: "41st Millennium",
       order: 28,
       description: "Horusian Wars is a novel and short series by John French. The series focuses on the factional conflicts within the Inquisition."
+    },
+    {
+      name: "Night Lords",
+      slug: "night-lords",
+      era: "41st Millennium",
+      order: 35,
+      description: "The Night Lords trilogy by Aaron Dembski-Bowden follows the warband of the Night Lords Chaos Space Marines — former servants of the Emperor turned to darkness. Led by the prophet Talos, they hunt across the galaxy, feared for their terror tactics and merciless cruelty."
+    },
+    {
+      name: "Black Legion",
+      slug: "black-legion",
+      era: "41st Millennium",
+      order: 36,
+      description: "The Black Legion series by Aaron Dembski-Bowden chronicles the rise of Abaddon the Despoiler and the forging of the Black Legion — the greatest of all the Chaos Space Marine warbands — from the ruins of the Sons of Horus after the Horus Heresy."
+    },
+    {
+      name: "Ahriman",
+      slug: "ahriman",
+      era: "41st Millennium",
+      order: 37,
+      description: "The Ahriman trilogy by John French follows Ahriman, Chief Librarian of the Thousand Sons, as he seeks to undo the Rubric — the catastrophic spell that turned most of his Legion into dust-filled automatons — and grapples with whether his sorcerous power is a gift or a curse."
+    },
+    {
+      name: "Word Bearers",
+      slug: "word-bearers",
+      era: "41st Millennium",
+      order: 38,
+      description: "The Word Bearers trilogy by Anthony Reynolds follows the Dark Apostle Jarulek and his host as they prosecute the will of the Dark Gods across the galaxy, bringing the word of Chaos to those who would resist and death to all who stand in their way."
+    },
+    {
+      name: "Fabius Bile",
+      slug: "fabius-bile",
+      era: "41st Millennium",
+      order: 39,
+      description: "The Fabius Bile trilogy by Josh Reynolds follows the infamous Clonelord — former Chief Apothecary of the Emperor's Children — as he pursues his obsessive quest to create the perfect human being, conducting horrific experiments across the galaxy in defiance of gods, men and his own monstrous creations."
+    },
+    {
+      name: "Legend of Sigmar",
+      slug: "legend-of-sigmar",
+      era: "Old World",
+      order: 40,
+      description: "The Legend of Sigmar trilogy by Graham McNeill tells the epic story of Sigmar Heldenhammer — the man who would become the God-King of the Empire. From his rise among the tribes of men to his legendary battles against Chaos and his ultimate ascension to godhood."
+    },
+    {
+      name: "The Sundering",
+      slug: "the-sundering",
+      era: "Old World",
+      order: 41,
+      description: "The Sundering trilogy by Gav Thorpe tells the tale of the ancient schism that split the elven race in two — the bitter war between Malekith, the Witch King of Naggaroth, and the high elves of Ulthuan — told from both sides of the conflict."
+    },
+    {
+      name: "Rise of Nagash",
+      slug: "rise-of-nagash",
+      era: "Old World",
+      order: 42,
+      description: "The Rise of Nagash trilogy by Mike Lee chronicles the origins of the Great Necromancer — from his birth as a Nehekharan prince to his monstrous transformation into the world's most powerful undead sorcerer and his relentless war to conquer the known world."
     },
   ]);
 

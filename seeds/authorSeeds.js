@@ -278,6 +278,86 @@ module.exports = async () => {
       name: "Jude Reid",
       slug: "jude-reid",
       bio: "Jude Reid is a Black Library author known for her Adepta Sororitas fiction, including the novels ‘Daemonbreaker’ and ‘Morvenn Vahl: Spear of Faith’. She is a doctor and lives in Scotland."
+    },
+    {
+      name: "Justin Woolley",
+      slug: "justin-woolley",
+      bio: "Justin Woolley is an Australian author whose Black Library work includes the Astra Militarum novel ‘Catachan Devil’, featuring the infamous jungle fighters of Catachan. He is also known for his Australasian science fiction and fantasy writing."
+    },
+    {
+      name: "Steven B Fischer",
+      slug: "steven-b-fischer",
+      bio: "Steven B Fischer is a Black Library author who has written the Astra Militarum novel ‘Witchbringer’, following an Imperial Guard regiment’s brutal confrontation with psyker-related threats."
+    },
+    {
+      name: "Rob Young",
+      slug: "rob-young",
+      bio: "Rob Young is a Black Library author whose work includes the Astra Militarum novel ‘Longshot’, featuring a regiment of Imperial Guard snipers on a deadly warzone."
+    },
+    {
+      name: "Victoria Hayward",
+      slug: "victoria-hayward",
+      bio: "Victoria Hayward is a Black Library author known for the Astra Militarum novel ‘Deathworlder’, exploring the brutal world of Imperial Guard soldiers fighting in the most hostile environments of the 41st Millennium."
+    },
+    {
+      name: "RS Wilt",
+      slug: "rs-wilt",
+      bio: "RS Wilt is a Black Library author whose work includes the Astra Militarum novel ‘Final Deployment’, the latest entry in the Astra Militarum series."
+    },
+    {
+      name: "Steve Parker",
+      slug: "steve-parker",
+      bio: "Steve Parker is a Black Library author best known for ‘Rynn’s World’, the story of the Crimson Fists Space Marines’ desperate stand against an overwhelming Ork invasion. He has also written several other Warhammer 40,000 novels and short stories."
+    },
+    {
+      name: "Sarah Cawkwell",
+      slug: "sarah-cawkwell",
+      bio: "Sarah Cawkwell is a Black Library author whose Warhammer 40,000 work includes ‘The Gildar Rift’, featuring the Silver Skulls Space Marines, and the Heirs of the Laughing God series. She lives and works in the north-east of England."
+    },
+    {
+      name: "Cavan Scott",
+      slug: "cavan-scott",
+      bio: "Cavan Scott is a British author and comic writer known for his wide range of work across licensed fiction, including the Warhammer Adventures: Warped Galaxies series for Black Library. He has also written extensively for Star Wars, Doctor Who, and other major franchises."
+    },
+    {
+      name: "Tom Huddleston",
+      slug: "tom-huddleston",
+      bio: "Tom Huddleston is a British author known for his work on the Warhammer Adventures: Realm Quest series for Black Library, aimed at younger readers. He has also written the FlintFang and Agora series of adventure novels."
+    },
+    {
+      name: "Gary Kloster",
+      slug: "gary-kloster",
+      bio: "Gary Kloster is a Black Library author whose work includes the novella 'Spark of Revolution' from Novella Series 3. He has also written fantasy fiction outside of the Warhammer universe."
+    },
+    {
+      name: "Denny Flowers",
+      slug: "denny-flowers",
+      bio: "Denny Flowers is a Black Library author known for his Necromunda fiction, including the novel 'Fire Made Flesh'. His work captures the brutal gang warfare and desperate survival of the underhive with dark humour and gritty realism."
+    },
+    {
+      name: "Will McDermott",
+      slug: "will-mcdermott",
+      bio: "Will McDermott is an American author and game designer who has written several novels and short stories for Black Library, including the Necromunda novels 'Cardinal Crimson', 'Lasgun Wedding' and 'Soulless Fury', and co-authored 'Blood Royal' with Gordon Rennie."
+    },
+    {
+      name: "Gordon Rennie",
+      slug: "gordon-rennie",
+      bio: "Gordon Rennie is a Scottish comic book writer and novelist best known for his work on 2000 AD and for co-creating the Kal Jerico character for the Necromunda setting. He co-authored the Necromunda novel 'Blood Royal' with Will McDermott."
+    },
+    {
+      name: "Cassern S Goto",
+      slug: "cassern-s-goto",
+      bio: "Cassern S. Goto is the author of several Black Library novels including the Necromunda novel 'Salvation' and books in the Dawn of War series. He is known for his gritty, pulp-noir approach to Warhammer 40,000 fiction."
+    },
+    {
+      name: "Lucien Soulban",
+      slug: "lucien-soulban",
+      bio: "Lucien Soulban is a Canadian author and game designer who has written for Black Library, including the Necromunda novel 'Fleshworks'. He has also written for Dungeons & Dragons and various other tabletop game lines."
+    },
+    {
+      name: "Matt Keefe",
+      slug: "matt-keefe",
+      bio: "Matt Keefe is a Black Library author who wrote the Necromunda novel 'Outlander', exploring the harsh wasteland territories outside the great hives of Necromunda."
     }
 
   ]);

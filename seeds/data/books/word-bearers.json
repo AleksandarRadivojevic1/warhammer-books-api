@@ -1,0 +1,65 @@
+[
+  {
+    "title": "Dark Apostle",
+    "slug": "dark-apostle",
+    "series": "word-bearers",
+    "orderInSeries": 1,
+    "author": "anthony-reynolds",
+    "pages": 288,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Dark Apostle Jarulek of the Word Bearers leads his host in the name of the Dark Gods, conquering worlds in a crusade of faith and fire. As they descend upon a world of the Imperium, their brutal theology of Chaos demands nothing less than the complete annihilation of everything that does not bow before the gods.",
+    "characters": [
+      { "name": "Jarulek", "slug": "jarulek" }
+    ],
+    "factions": [
+      { "name": "Word Bearers", "slug": "word-bearers" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Dark Disciple",
+    "slug": "dark-disciple",
+    "series": "word-bearers",
+    "orderInSeries": 2,
+    "author": "anthony-reynolds",
+    "pages": 288,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "The Word Bearers continue their dark crusade. Marduk, First Acolyte of the Dark Apostle, rises in power and ambition as the host wages war across a world whose resistance has become an unexpected test of the Legion's absolute faith in Chaos Undivided.",
+    "characters": [
+      { "name": "Marduk", "slug": "marduk" }
+    ],
+    "factions": [
+      { "name": "Word Bearers", "slug": "word-bearers" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Dark Creed",
+    "slug": "dark-creed",
+    "series": "word-bearers",
+    "orderInSeries": 3,
+    "author": "anthony-reynolds",
+    "pages": 288,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "The conclusion of the Word Bearers trilogy. Marduk leads the Legion's host in its most ambitious campaign yet, but rivalry, betrayal and the inscrutable demands of the Dark Gods threaten to tear the warband apart before it can claim the ultimate victory promised by their dark faith.",
+    "characters": [
+      { "name": "Marduk", "slug": "marduk" }
+    ],
+    "factions": [
+      { "name": "Word Bearers", "slug": "word-bearers" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "primarchs": []
+  }
+]

@@ -1,0 +1,94 @@
+[
+  {
+    "title": "The Rose in Anger",
+    "slug": "the-rose-in-anger",
+    "series": "novella-series-3",
+    "orderInSeries": 1,
+    "author": "danie-ware",
+    "pages": 128,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "A novella following the Sisters of Battle as their faith is tested in fire and blood. When rage threatens to consume all reason, it falls to one Sister to decide whether anger is a weapon or a weakness — and whether the Emperor's justice can survive intact.",
+    "characters": [],
+    "factions": [
+      { "name": "Adepta Sororitas", "slug": "adepta-sororitas" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Prisoners of Waaagh!",
+    "slug": "prisoners-of-waaagh",
+    "series": "novella-series-3",
+    "orderInSeries": 2,
+    "author": "justin-woolley",
+    "pages": 128,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Imperial soldiers find themselves captured by Orks and dragged into the chaotic heart of a Waaagh! To survive long enough for rescue — or escape — they must understand the brutal logic of greenskin culture, where only strength commands respect.",
+    "characters": [],
+    "factions": [
+      { "name": "Astra Militarum", "slug": "astra-militarum" },
+      { "name": "Orks", "slug": "orks" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Traitor by Deed",
+    "slug": "traitor-by-deed",
+    "series": "novella-series-3",
+    "orderInSeries": 3,
+    "author": "ben-counter",
+    "pages": 128,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "A Space Marine must confront the ultimate accusation — that his deeds, however well-intentioned, have made him a traitor in the eyes of the Imperium. Loyalty and honour are tested when the line between heroism and heresy blurs beyond recognition.",
+    "characters": [],
+    "factions": [
+      { "name": "Adeptus Astartes", "slug": "adeptus-astartes" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Bonereapers",
+    "slug": "bonereapers",
+    "series": "novella-series-3",
+    "orderInSeries": 4,
+    "author": "david-guymer",
+    "pages": 128,
+    "setting": {
+      "era": "Age of Sigmar",
+      "millennium": "Age of Sigmar"
+    },
+    "description": "The Ossiarch Bonereapers march to harvest the bones of the living, their tithe of death demanded by Nagash himself. A tale of unstoppable undead legions and the desperate resistance of those who stand in their path across the Mortal Realms.",
+    "characters": [],
+    "factions": [
+      { "name": "Ossiarch Bonereapers", "slug": "ossiarch-bonereapers" },
+      { "name": "Nighthaunt", "slug": "nighthaunt" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Spark of Revolution",
+    "slug": "spark-of-revolution",
+    "series": "novella-series-3",
+    "orderInSeries": 5,
+    "author": "gary-kloster",
+    "pages": 128,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "A single act of defiance ignites into open revolt in the depths of a Necromunda hive. As rebellion spreads through the underhive, the question becomes whether the spark of revolution can survive long enough to become a flame — or whether the ruling guilds will extinguish it before it ever burns bright.",
+    "characters": [],
+    "factions": [
+      { "name": "Imperium", "slug": "imperium" }
+    ],
+    "primarchs": []
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "title": "Soul Hunter",
+    "slug": "soul-hunter",
+    "series": "night-lords",
+    "orderInSeries": 1,
+    "author": "aaron-dembski-bowden",
+    "pages": 416,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Talos, prophet of the Night Lords, leads his warband of Chaos Space Marines in a war of terror and survival. Hunted by loyalist forces and distrusted by their own allies, the Night Lords fight not for the glory of the gods but for their own dark purpose — and for the memory of the primarch who made them monsters.",
+    "characters": [
+      { "name": "Talos", "slug": "talos" }
+    ],
+    "factions": [
+      { "name": "Night Lords", "slug": "night-lords" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Blood Reaver",
+    "slug": "blood-reaver",
+    "series": "night-lords",
+    "orderInSeries": 2,
+    "author": "aaron-dembski-bowden",
+    "pages": 416,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Talos and the First Claw continue their bloody crusade as the Night Lords forge an uneasy alliance with the Red Corsairs, raiding and pillaging across the galaxy. But trust is a rare commodity among Chaos Space Marines, and betrayal lurks behind every pact.",
+    "characters": [
+      { "name": "Talos", "slug": "talos" }
+    ],
+    "factions": [
+      { "name": "Night Lords", "slug": "night-lords" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Void Stalker",
+    "slug": "void-stalker",
+    "series": "night-lords",
+    "orderInSeries": 3,
+    "author": "aaron-dembski-bowden",
+    "pages": 416,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "The final chapter of Talos's saga. The prophet of the Night Lords faces his destiny as the Eldar of Craftworld Ulthwé close in, determined to end the warband's rampage. His visions have always shown him how it ends — now that ending has come.",
+    "characters": [
+      { "name": "Talos", "slug": "talos" }
+    ],
+    "factions": [
+      { "name": "Night Lords", "slug": "night-lords" },
+      { "name": "Chaos", "slug": "chaos" },
+      { "name": "Aeldari", "slug": "aeldari" }
+    ],
+    "primarchs": []
+  }
+]

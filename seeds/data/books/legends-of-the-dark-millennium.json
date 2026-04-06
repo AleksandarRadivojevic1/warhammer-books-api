@@ -1,0 +1,61 @@
+[
+  {
+    "title": "Legends of the Dark Millennium: Deathwatch",
+    "slug": "legends-of-the-dark-millennium-deathwatch",
+    "series": "legends-of-the-dark-millennium",
+    "orderInSeries": 1,
+    "author": "ian-st-martin",
+    "pages": 320,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "The Deathwatch — the Chamber Militant of the Ordo Xenos — are the Imperium's last line of defence against alien threats. Kill-teams of the finest warriors from across the Space Marine Chapters are assembled to face horrors that no single Chapter could defeat alone, armed with specialist knowledge and weapons forged for xenos slaying.",
+    "characters": [],
+    "factions": [
+      { "name": "Deathwatch", "slug": "deathwatch" },
+      { "name": "Aeldari", "slug": "aeldari" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Legends of the Dark Millennium: Farsight",
+    "slug": "legends-of-the-dark-millennium-farsight",
+    "series": "legends-of-the-dark-millennium",
+    "orderInSeries": 2,
+    "author": "phil-kelly",
+    "pages": 320,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Commander Farsight is a living legend of the Tau Empire — and its greatest heretic. His break from the Ethereals and his self-imposed exile beyond the Damocles Gulf have made him both a hero and a mystery. This is the story of the warrior who dared to question the Greater Good and what he found when he did.",
+    "characters": [
+      { "name": "Commander Farsight", "slug": "commander-farsight" }
+    ],
+    "factions": [
+      { "name": "Tau Empire", "slug": "tau-empire" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Shas'o",
+    "slug": "shaso",
+    "series": "legends-of-the-dark-millennium",
+    "orderInSeries": 3,
+    "author": "phil-kelly",
+    "pages": 128,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "A companion piece to the Farsight story, told from within the Tau Empire and exploring the culture, philosophy and martial tradition of the Fire Caste. A portrait of the warrior ethos that shaped Commander Farsight — and the society he ultimately turned his back on.",
+    "characters": [
+      { "name": "Commander Farsight", "slug": "commander-farsight" }
+    ],
+    "factions": [
+      { "name": "Tau Empire", "slug": "tau-empire" }
+    ],
+    "primarchs": []
+  }
+]

@@ -1,0 +1,104 @@
+[
+  {
+    "title": "The Return of Nagash",
+    "slug": "the-return-of-nagash",
+    "series": "the-end-times",
+    "orderInSeries": 1,
+    "author": "josh-reynolds",
+    "pages": 400,
+    "setting": {
+      "era": "Old World",
+      "millennium": "Old World"
+    },
+    "description": "The End Times begin. Nagash, the Great Necromancer, stirs in the Land of the Dead and reaches out to reclaim the power stripped from him centuries ago. As armies of the undead march across the Old World, the forces of the Imperium of Man scramble to respond — but it may already be too late.",
+    "characters": [
+      { "name": "Nagash", "slug": "nagash" }
+    ],
+    "factions": [
+      { "name": "Undead", "slug": "undead" },
+      { "name": "Empire", "slug": "empire" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "The Fall of Altdorf",
+    "slug": "the-fall-of-altdorf",
+    "series": "the-end-times",
+    "orderInSeries": 2,
+    "author": "chris-wraight",
+    "pages": 368,
+    "setting": {
+      "era": "Old World",
+      "millennium": "Old World"
+    },
+    "description": "The forces of Chaos pour through the northern passes and descend upon Altdorf, the greatest city of the Empire. As the walls burn and the defenders falter, the fate of humanity hangs on those with the courage to stand against the tide.",
+    "characters": [],
+    "factions": [
+      { "name": "Empire", "slug": "empire" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "The Curse of Khaine",
+    "slug": "the-curse-of-khaine",
+    "series": "the-end-times",
+    "orderInSeries": 3,
+    "author": "gav-thorpe",
+    "pages": 368,
+    "setting": {
+      "era": "Old World",
+      "millennium": "Old World"
+    },
+    "description": "As the End Times consume the world, the elven kingdoms of Ulthuan and Naggaroth are caught up in their own apocalypse. Malekith and Tyrion clash in the final act of a rivalry stretching back millennia, as the Curse of Khaine claims its ultimate victims.",
+    "characters": [
+      { "name": "Malekith", "slug": "malekith" },
+      { "name": "Tyrion", "slug": "tyrion" }
+    ],
+    "factions": [
+      { "name": "High Elves", "slug": "high-elves" },
+      { "name": "Dark Elves", "slug": "dark-elves" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "The Rise of the Horned Rat",
+    "slug": "the-rise-of-the-horned-rat",
+    "series": "the-end-times",
+    "orderInSeries": 4,
+    "author": "guy-haley",
+    "pages": 368,
+    "setting": {
+      "era": "Old World",
+      "millennium": "Old World"
+    },
+    "description": "The skaven emerge from their underground warrens in unprecedented numbers, seizing on the chaos of the End Times to launch their long-planned conquest of the surface world. The Horned Rat's time has come at last, and the Under-Empire rises to swallow the world from below.",
+    "characters": [],
+    "factions": [
+      { "name": "Skaven", "slug": "skaven" },
+      { "name": "Dwarfs", "slug": "dwarfs" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Lord of the End Times",
+    "slug": "lord-of-the-end-times",
+    "series": "the-end-times",
+    "orderInSeries": 5,
+    "author": "josh-reynolds",
+    "pages": 400,
+    "setting": {
+      "era": "Old World",
+      "millennium": "Old World"
+    },
+    "description": "The final act. Archaon the Everchosen, Exalted Grand Marshal of the Apocalypse, leads the united forces of Chaos in the last battle for the world. Heroes fall, gods walk the earth, and the world of men, elves and dwarfs faces its ultimate reckoning.",
+    "characters": [
+      { "name": "Archaon", "slug": "archaon" }
+    ],
+    "factions": [
+      { "name": "Chaos", "slug": "chaos" },
+      { "name": "Empire", "slug": "empire" }
+    ],
+    "primarchs": []
+  }
+]

@@ -1,0 +1,250 @@
+[
+  {
+    "title": "Attack of the Necron",
+    "slug": "attack-of-the-necron",
+    "series": "warhammer-adventures",
+    "orderInSeries": 1,
+    "author": "cavan-scott",
+    "pages": 240,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Zelia Lor is thrust into the horrors of the 41st Millennium when the mining world she calls home is attacked by Necrons. With her mother taken and everything she knew destroyed, she must survive alongside a ragtag group of unlikely companions in a galaxy where nothing is safe.",
+    "characters": [
+      { "name": "Zelia Lor", "slug": "zelia-lor" }
+    ],
+    "factions": [
+      { "name": "Necrons", "slug": "necrons" },
+      { "name": "Imperium", "slug": "imperium" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Claws of the Genestealer",
+    "slug": "claws-of-the-genestealer",
+    "series": "warhammer-adventures",
+    "orderInSeries": 2,
+    "author": "cavan-scott",
+    "pages": 240,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Zelia and her companions face a new terror as Genestealer Cults emerge from the shadows of a hive world. The alien infection spreads through the population unseen, and the children must root out the cult before it destroys everything — and everyone — around them.",
+    "characters": [
+      { "name": "Zelia Lor", "slug": "zelia-lor" }
+    ],
+    "factions": [
+      { "name": "Genestealer Cults", "slug": "genestealer-cults" },
+      { "name": "Imperium", "slug": "imperium" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Secrets of the Tau",
+    "slug": "secrets-of-the-tau",
+    "series": "warhammer-adventures",
+    "orderInSeries": 3,
+    "author": "cavan-scott",
+    "pages": 240,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Zelia's quest to find her mother leads her to the realm of the Tau — a xenos empire built on a philosophy of the Greater Good. But the Tau are not as welcoming as they seem, and secrets lurk beneath their advanced civilisation that could change everything.",
+    "characters": [
+      { "name": "Zelia Lor", "slug": "zelia-lor" }
+    ],
+    "factions": [
+      { "name": "Tau Empire", "slug": "tau-empire" },
+      { "name": "Imperium", "slug": "imperium" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "War of the Orks",
+    "slug": "war-of-the-orks",
+    "series": "warhammer-adventures",
+    "orderInSeries": 4,
+    "author": "cavan-scott",
+    "pages": 240,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "An Ork Waaagh! descends on an Imperial world and Zelia's group is caught in the middle of a brutal greenskin invasion. Surviving an Ork warzone means thinking fast and running faster — but the children are beginning to discover they are more resourceful than even they knew.",
+    "characters": [
+      { "name": "Zelia Lor", "slug": "zelia-lor" }
+    ],
+    "factions": [
+      { "name": "Orks", "slug": "orks" },
+      { "name": "Imperium", "slug": "imperium" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Plague of the Nurglings",
+    "slug": "plague-of-the-nurglings",
+    "series": "warhammer-adventures",
+    "orderInSeries": 5,
+    "author": "cavan-scott",
+    "pages": 240,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "A daemonic plague sweeps through an Imperial world, unleashing swarms of Nurglings and worse. Zelia and her companions must find a way to stop the outbreak before the infection spreads beyond control — and before it claims them too.",
+    "characters": [
+      { "name": "Zelia Lor", "slug": "zelia-lor" }
+    ],
+    "factions": [
+      { "name": "Chaos", "slug": "chaos" },
+      { "name": "Imperium", "slug": "imperium" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Tomb of the Necron",
+    "slug": "tomb-of-the-necron",
+    "series": "warhammer-adventures",
+    "orderInSeries": 6,
+    "author": "cavan-scott",
+    "pages": 240,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "The Warped Galaxies series reaches its climax as Zelia and her friends discover the truth behind everything that has happened to them. Their journey leads them to an ancient Necron tomb — and a confrontation that will change their lives forever.",
+    "characters": [
+      { "name": "Zelia Lor", "slug": "zelia-lor" }
+    ],
+    "factions": [
+      { "name": "Necrons", "slug": "necrons" },
+      { "name": "Imperium", "slug": "imperium" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "City of Lifestone",
+    "slug": "city-of-lifestone",
+    "series": "warhammer-adventures",
+    "orderInSeries": 7,
+    "author": "tom-huddleston",
+    "pages": 160,
+    "setting": {
+      "era": "Age of Sigmar",
+      "millennium": "Age of Sigmar"
+    },
+    "description": "Young Elio and his companions arrive in Lifestone, a city teetering on the edge of chaos in the Mortal Realms, and are immediately swept up in an adventure far bigger than they imagined. Their Realm Quest has begun.",
+    "characters": [
+      { "name": "Elio", "slug": "elio" }
+    ],
+    "factions": [
+      { "name": "Stormcast Eternals", "slug": "stormcast-eternals" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Lair of the Skaven",
+    "slug": "lair-of-the-skaven",
+    "series": "warhammer-adventures",
+    "orderInSeries": 8,
+    "author": "tom-huddleston",
+    "pages": 160,
+    "setting": {
+      "era": "Age of Sigmar",
+      "millennium": "Age of Sigmar"
+    },
+    "description": "Elio and his friends venture into the tunnels beneath a city to confront the skaven gnawing at its foundations. The rat-men are crafty and numerous, and surviving their lair will require every ounce of courage the young heroes can muster.",
+    "characters": [
+      { "name": "Elio", "slug": "elio" }
+    ],
+    "factions": [
+      { "name": "Skaven", "slug": "skaven" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Forest of the Ancients",
+    "slug": "forest-of-the-ancients",
+    "series": "warhammer-adventures",
+    "orderInSeries": 9,
+    "author": "tom-huddleston",
+    "pages": 160,
+    "setting": {
+      "era": "Age of Sigmar",
+      "millennium": "Age of Sigmar"
+    },
+    "description": "The Realm Quest takes the young heroes into the vast, ancient forests of Ghyran — a realm of life where the trees are older than memory and the spirits within them are not always friendly. Something lurks among the roots and branches, and it has been waiting for them.",
+    "characters": [
+      { "name": "Elio", "slug": "elio" }
+    ],
+    "factions": [
+      { "name": "Sylvaneth", "slug": "sylvaneth" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Flight of the Kharadron",
+    "slug": "flight-of-the-kharadron",
+    "series": "warhammer-adventures",
+    "orderInSeries": 10,
+    "author": "tom-huddleston",
+    "pages": 160,
+    "setting": {
+      "era": "Age of Sigmar",
+      "millennium": "Age of Sigmar"
+    },
+    "description": "Elio and companions take to the skies aboard a Kharadron Overlords airship, soaring above the Mortal Realms on a mission that could reshape the quest ahead. Among the sky-faring duardin, they discover a world of aether-gold, steam-powered marvels and sky-pirates.",
+    "characters": [
+      { "name": "Elio", "slug": "elio" }
+    ],
+    "factions": [
+      { "name": "Kharadron Overlords", "slug": "kharadron-overlords" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Fortress of Ghosts",
+    "slug": "fortress-of-ghosts",
+    "series": "warhammer-adventures",
+    "orderInSeries": 11,
+    "author": "tom-huddleston",
+    "pages": 160,
+    "setting": {
+      "era": "Age of Sigmar",
+      "millennium": "Age of Sigmar"
+    },
+    "description": "A fortress haunted by the spirits of the dead bars the path forward on the Realm Quest. Elio and his friends must navigate the ghostly stronghold, finding allies and facing horrors as they press closer to their goal.",
+    "characters": [
+      { "name": "Elio", "slug": "elio" }
+    ],
+    "factions": [
+      { "name": "Nighthaunt", "slug": "nighthaunt" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Battle for the Soulspring",
+    "slug": "battle-for-the-soulspring",
+    "series": "warhammer-adventures",
+    "orderInSeries": 12,
+    "author": "tom-huddleston",
+    "pages": 160,
+    "setting": {
+      "era": "Age of Sigmar",
+      "millennium": "Age of Sigmar"
+    },
+    "description": "The Realm Quest reaches its climax at the Soulspring — a magical wellspring of life energy coveted by the forces of Chaos. Elio and his companions must fight to protect it, drawing on everything they have learned across their incredible journey through the Mortal Realms.",
+    "characters": [
+      { "name": "Elio", "slug": "elio" }
+    ],
+    "factions": [
+      { "name": "Stormcast Eternals", "slug": "stormcast-eternals" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "primarchs": []
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "title": "Heldenhammer",
+    "slug": "heldenhammer",
+    "series": "legend-of-sigmar",
+    "orderInSeries": 1,
+    "author": "graham-mcneill",
+    "pages": 416,
+    "setting": {
+      "era": "Old World",
+      "millennium": "Old World"
+    },
+    "description": "Before he became a god, Sigmar Heldenhammer was a man — a warrior-king of the tribes of men who forged an empire from blood and iron. This is the story of his rise: the battles he fought, the alliances he made, and the legendary deeds that would see him worshipped for millennia to come.",
+    "characters": [
+      { "name": "Sigmar", "slug": "sigmar" }
+    ],
+    "factions": [
+      { "name": "Empire", "slug": "empire" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Empire",
+    "slug": "empire-legend-of-sigmar",
+    "series": "legend-of-sigmar",
+    "orderInSeries": 2,
+    "author": "graham-mcneill",
+    "pages": 416,
+    "setting": {
+      "era": "Old World",
+      "millennium": "Old World"
+    },
+    "description": "Sigmar's Empire grows in power as he consolidates his rule over the human tribes of the Old World. But with power comes new enemies — from within and without — and the Emperor must prove himself not just as a warrior but as a ruler and a statesman.",
+    "characters": [
+      { "name": "Sigmar", "slug": "sigmar" }
+    ],
+    "factions": [
+      { "name": "Empire", "slug": "empire" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "God King",
+    "slug": "god-king",
+    "series": "legend-of-sigmar",
+    "orderInSeries": 3,
+    "author": "graham-mcneill",
+    "pages": 512,
+    "setting": {
+      "era": "Old World",
+      "millennium": "Old World"
+    },
+    "description": "The final chapter of Sigmar's mortal life. The greatest threat the Empire has ever faced descends from the north, and Sigmar must call upon every ally, every warrior, and every last measure of courage he possesses to survive. The legend ends here — and the god begins.",
+    "characters": [
+      { "name": "Sigmar", "slug": "sigmar" }
+    ],
+    "factions": [
+      { "name": "Empire", "slug": "empire" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "primarchs": []
+  }
+]

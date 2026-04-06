@@ -1,0 +1,65 @@
+[
+  {
+    "title": "Malekith",
+    "slug": "malekith",
+    "series": "the-sundering",
+    "orderInSeries": 1,
+    "author": "gav-thorpe",
+    "pages": 416,
+    "setting": {
+      "era": "Old World",
+      "millennium": "Old World"
+    },
+    "description": "The story of Malekith — prince of Ulthuan, son of the Phoenix King Aenarion, and the elf who would become the Witch King of Naggaroth. His tale of ambition, betrayal and transformation from hero to monster is the origin of the greatest schism in elven history.",
+    "characters": [
+      { "name": "Malekith", "slug": "malekith" }
+    ],
+    "factions": [
+      { "name": "High Elves", "slug": "high-elves" },
+      { "name": "Dark Elves", "slug": "dark-elves" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Shadow King",
+    "slug": "shadow-king",
+    "series": "the-sundering",
+    "orderInSeries": 2,
+    "author": "gav-thorpe",
+    "pages": 416,
+    "setting": {
+      "era": "Old World",
+      "millennium": "Old World"
+    },
+    "description": "Alith Anar, the Shadow King of the Nagarythe, wages a bitter guerrilla war against the dark elves who have corrupted his homeland. His story is one of loss, vengeance, and the terrible price of an eternal war fought from the shadows.",
+    "characters": [
+      { "name": "Alith Anar", "slug": "alith-anar" }
+    ],
+    "factions": [
+      { "name": "High Elves", "slug": "high-elves" },
+      { "name": "Dark Elves", "slug": "dark-elves" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Caledor",
+    "slug": "caledor",
+    "series": "the-sundering",
+    "orderInSeries": 3,
+    "author": "gav-thorpe",
+    "pages": 416,
+    "setting": {
+      "era": "Old World",
+      "millennium": "Old World"
+    },
+    "description": "The dragon princes of Caledor have long been the sword arm of the high elves, but their power is waning as the dragons sleep and the great mages are no more. Prince Imrik must find the strength to lead his people in the final age of elven greatness before the Sundering changes everything forever.",
+    "characters": [
+      { "name": "Imrik", "slug": "imrik" }
+    ],
+    "factions": [
+      { "name": "High Elves", "slug": "high-elves" },
+      { "name": "Dark Elves", "slug": "dark-elves" }
+    ],
+    "primarchs": []
+  }
+]

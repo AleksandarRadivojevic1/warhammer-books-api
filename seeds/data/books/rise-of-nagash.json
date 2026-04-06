@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Nagash the Sorcerer",
+    "slug": "nagash-the-sorcerer",
+    "series": "rise-of-nagash",
+    "orderInSeries": 1,
+    "author": "mike-lee",
+    "pages": 416,
+    "setting": {
+      "era": "Old World",
+      "millennium": "Old World"
+    },
+    "description": "In the ancient land of Nehekhara, a twisted prince named Nagash is denied the throne he craves. Driven by insatiable ambition, he steals the dark secrets of the mortuary cult and begins his transformation into something no longer truly human — the first and greatest necromancer the world will ever know.",
+    "characters": [
+      { "name": "Nagash", "slug": "nagash" }
+    ],
+    "factions": [
+      { "name": "Undead", "slug": "undead" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Nagash the Unbroken",
+    "slug": "nagash-the-unbroken",
+    "series": "rise-of-nagash",
+    "orderInSeries": 2,
+    "author": "mike-lee",
+    "pages": 416,
+    "setting": {
+      "era": "Old World",
+      "millennium": "Old World"
+    },
+    "description": "Defeated but not destroyed, Nagash rebuilds his power in the darkness. His hunger for immortality and dominion is undimmed by his setbacks, and as centuries pass he weaves his schemes anew — learning from his failures and growing ever more terrible in his sorcerous might.",
+    "characters": [
+      { "name": "Nagash", "slug": "nagash" }
+    ],
+    "factions": [
+      { "name": "Undead", "slug": "undead" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Nagash Immortal",
+    "slug": "nagash-immortal",
+    "series": "rise-of-nagash",
+    "orderInSeries": 3,
+    "author": "mike-lee",
+    "pages": 416,
+    "setting": {
+      "era": "Old World",
+      "millennium": "Old World"
+    },
+    "description": "The Great Necromancer's power reaches its terrifying apex. Nagash marshals an army of the undead unlike anything the world has seen and marches to claim the dominion he has schemed for centuries to achieve. The living world faces an enemy that cannot be bargained with, cannot be reasoned with, and will never stop.",
+    "characters": [
+      { "name": "Nagash", "slug": "nagash" }
+    ],
+    "factions": [
+      { "name": "Undead", "slug": "undead" }
+    ],
+    "primarchs": []
+  }
+]

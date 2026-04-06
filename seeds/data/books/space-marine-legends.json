@@ -1,0 +1,103 @@
+[
+  {
+    "title": "Ragnar Blackmane",
+    "slug": "ragnar-blackmane",
+    "series": "space-marine-legends",
+    "orderInSeries": 1,
+    "author": "aaron-dembski-bowden",
+    "pages": 218,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Ragnar Blackmane of the Space Wolves is one of the Imperium's most celebrated warriors. A fierce fighter with a turbulent past, his legend is told here — from his rise among the Fenrisian tribes to his deeds as one of the Chapter's greatest heroes.",
+    "characters": [
+      { "name": "Ragnar Blackmane", "slug": "ragnar-blackmane" }
+    ],
+    "factions": [
+      { "name": "Space Wolves", "slug": "space-wolves" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Cassius",
+    "slug": "cassius-space-marine-legends",
+    "series": "space-marine-legends",
+    "orderInSeries": 2,
+    "author": "ben-counter",
+    "pages": 240,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Chaplain Cassius of the Ultramarines is ancient, scarred and utterly devoted to the destruction of the Tyranid menace. His hatred of the xenos is legendary — forged in the fires of the First Tyrannic War — and now he leads his warriors into battle against a new swarm.",
+    "characters": [
+      { "name": "Cassius", "slug": "cassius" }
+    ],
+    "factions": [
+      { "name": "Ultramarines", "slug": "ultramarines" },
+      { "name": "Tyranids", "slug": "tyranids" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Shrike",
+    "slug": "shrike-space-marine-legends",
+    "series": "space-marine-legends",
+    "orderInSeries": 3,
+    "author": "george-mann",
+    "pages": 208,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Shadow Captain Shrike of the Raven Guard is a ghost on the battlefield — unseen until the killing blow falls. His legend is one of shadow warfare, lightning strikes and the cold precision of a warrior who has mastered the arts of stealth and sudden death.",
+    "characters": [
+      { "name": "Shrike", "slug": "shrike" }
+    ],
+    "factions": [
+      { "name": "Raven Guard", "slug": "raven-guard" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Azrael",
+    "slug": "azrael-space-marine-legends",
+    "series": "space-marine-legends",
+    "orderInSeries": 4,
+    "author": "gav-thorpe",
+    "pages": 192,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Supreme Grand Master Azrael leads the Dark Angels, carrying the weight of the Chapter's darkest secret. His tale is one of duty, sacrifice and the burden of command — a leader who must balance the honour of the Chapter with the unending hunt for the Fallen.",
+    "characters": [
+      { "name": "Azrael", "slug": "azrael" }
+    ],
+    "factions": [
+      { "name": "Dark Angels", "slug": "dark-angels" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Lemartes: Guardian of the Lost",
+    "slug": "lemartes-guardian-of-the-lost",
+    "series": "space-marine-legends",
+    "orderInSeries": 5,
+    "author": "david-annandale",
+    "pages": 173,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Lemartes, Guardian of the Lost, is master of the Death Company — those Blood Angels who have fully succumbed to the Black Rage. He fights alongside his lost brothers, himself hovering on the edge of madness, channelling their berserk fury into a weapon against the enemies of the Imperium.",
+    "characters": [
+      { "name": "Lemartes", "slug": "lemartes" }
+    ],
+    "factions": [
+      { "name": "Blood Angels", "slug": "blood-angels" }
+    ],
+    "primarchs": []
+  }
+]

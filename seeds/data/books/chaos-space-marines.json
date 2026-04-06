@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Khârn: Eater of Worlds",
+    "slug": "kharn-eater-of-worlds",
+    "series": "chaos-space-marines",
+    "orderInSeries": 1,
+    "author": "anthony-reynolds",
+    "pages": 208,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Khârn the Betrayer is the most feared warrior of Chaos — the chosen of Khorne, driven by an insatiable bloodlust that spares neither friend nor foe. This is his story: a World Eater consumed by the Butcher's Nails, a berserker whose legend is written in the blood of uncountable millions.",
+    "characters": [
+      { "name": "Khârn the Betrayer", "slug": "kharn-the-betrayer" }
+    ],
+    "factions": [
+      { "name": "World Eaters", "slug": "world-eaters" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Lucius: The Faultless Blade",
+    "slug": "lucius-the-faultless-blade",
+    "series": "chaos-space-marines",
+    "orderInSeries": 2,
+    "author": "ian-st-martin",
+    "pages": 320,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Lucius the Eternal is the greatest swordsman in the galaxy — and the most damned. Blessed and cursed by Slaanesh, he cannot die while those who kill him carry a spark of pride in their victory, for they are doomed to become him. His story is one of perfection pursued to its most monstrous extreme.",
+    "characters": [
+      { "name": "Lucius the Eternal", "slug": "lucius-the-eternal" }
+    ],
+    "factions": [
+      { "name": "Emperor's Children", "slug": "emperors-children" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "primarchs": []
+  }
+]

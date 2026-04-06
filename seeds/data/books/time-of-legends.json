@@ -1,0 +1,67 @@
+[
+  {
+    "title": "Blood of Aenarion",
+    "slug": "blood-of-aenarion",
+    "series": "time-of-legends",
+    "orderInSeries": 1,
+    "author": "william-king",
+    "pages": 400,
+    "setting": {
+      "era": "Old World",
+      "millennium": "Old World"
+    },
+    "description": "Tyrion and Teclis — twin sons of an elven noble, heirs to the blood of the mightiest warrior-king their race has ever known — are drawn into a web of ancient prophecy, dark sorcery and political intrigue. Their destiny will shape the future of the elven people, but first they must survive those who fear what they might become.",
+    "characters": [
+      { "name": "Tyrion", "slug": "tyrion" },
+      { "name": "Teclis", "slug": "teclis" }
+    ],
+    "factions": [
+      { "name": "High Elves", "slug": "high-elves" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Sword of Caledor",
+    "slug": "sword-of-caledor",
+    "series": "time-of-legends",
+    "orderInSeries": 2,
+    "author": "william-king",
+    "pages": 400,
+    "setting": {
+      "era": "Old World",
+      "millennium": "Old World"
+    },
+    "description": "Tyrion and Teclis come into their power as champions of the high elves, but their paths begin to diverge. Tyrion is a warrior without equal, Teclis a mage of devastating ability — together they are a force of nature, but the darkness in their blood grows stronger the more they embrace their gifts.",
+    "characters": [
+      { "name": "Tyrion", "slug": "tyrion" },
+      { "name": "Teclis", "slug": "teclis" }
+    ],
+    "factions": [
+      { "name": "High Elves", "slug": "high-elves" },
+      { "name": "Dark Elves", "slug": "dark-elves" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Bane of Malekith",
+    "slug": "bane-of-malekith",
+    "series": "time-of-legends",
+    "orderInSeries": 3,
+    "author": "william-king",
+    "pages": 400,
+    "setting": {
+      "era": "Old World",
+      "millennium": "Old World"
+    },
+    "description": "The Tyrion and Teclis trilogy reaches its climax as the twins face their greatest trial. Malekith and the forces of Naggaroth close in, and the ancient curse in their blood threatens to consume them utterly. Only by embracing everything they are — light and shadow, warrior and mage — can they hope to prevail.",
+    "characters": [
+      { "name": "Tyrion", "slug": "tyrion" },
+      { "name": "Teclis", "slug": "teclis" }
+    ],
+    "factions": [
+      { "name": "High Elves", "slug": "high-elves" },
+      { "name": "Dark Elves", "slug": "dark-elves" }
+    ],
+    "primarchs": []
+  }
+]

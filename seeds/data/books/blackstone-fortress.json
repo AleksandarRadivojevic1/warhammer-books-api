@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Blackstone Fortress",
+    "slug": "blackstone-fortress-novel",
+    "series": "blackstone-fortress",
+    "orderInSeries": 1,
+    "author": "darius-hinks",
+    "pages": 368,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "A motley band of explorers venture into the depths of the Blackstone Fortress — an ancient and impossibly vast space station that drifts through the Segmentum Obscurus, filled with deadly traps, alien horrors and the promise of unimaginable power. Among them is Janus Draik, a rogue trader with ambitions as dangerous as the fortress itself.",
+    "characters": [
+      { "name": "Janus Draik", "slug": "janus-draik" }
+    ],
+    "factions": [
+      { "name": "Imperium", "slug": "imperium" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Blackstone Fortress: Ascension",
+    "slug": "blackstone-fortress-ascension",
+    "series": "blackstone-fortress",
+    "orderInSeries": 2,
+    "author": "darius-hinks",
+    "pages": 409,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "The secrets at the heart of the Blackstone Fortress are finally within reach, but the price of discovery may be catastrophic. Janus Draik and his companions press deeper into the ancient structure as the fortress itself seems to awaken, and the true purpose of this vast weapon is revealed.",
+    "characters": [
+      { "name": "Janus Draik", "slug": "janus-draik" }
+    ],
+    "factions": [
+      { "name": "Imperium", "slug": "imperium" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "primarchs": []
+  }
+]

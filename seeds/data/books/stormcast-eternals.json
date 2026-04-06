@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Plague Garden",
+    "slug": "plague-garden",
+    "series": "stormcast-eternals",
+    "orderInSeries": 1,
+    "author": "josh-reynolds",
+    "pages": 320,
+    "setting": {
+      "era": "Age of Sigmar",
+      "millennium": "Age of Sigmar"
+    },
+    "description": "Lord-Castellant Gardus Steel Soul leads a Stormcast Eternal chamber into the Garden of Nurgle itself, plunging into the heart of the Realm of Death to rescue a captured comrade. What they find in that festering paradise will test the limits of even immortal warriors.",
+    "characters": [
+      { "name": "Gardus Steel Soul", "slug": "gardus-steel-soul" }
+    ],
+    "factions": [
+      { "name": "Stormcast Eternals", "slug": "stormcast-eternals" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Soul Wars",
+    "slug": "soul-wars",
+    "series": "stormcast-eternals",
+    "orderInSeries": 2,
+    "author": "josh-reynolds",
+    "pages": 395,
+    "setting": {
+      "era": "Age of Sigmar",
+      "millennium": "Age of Sigmar"
+    },
+    "description": "A new era dawns for the Mortal Realms as Nagash unleashes the Necroquake — a cataclysmic wave of death magic that reshapes reality. The Stormcast Eternals must face a resurgent undead threat unlike any before, while the God of Death pursues his grand design to claim every soul in existence.",
+    "characters": [],
+    "factions": [
+      { "name": "Stormcast Eternals", "slug": "stormcast-eternals" },
+      { "name": "Nighthaunt", "slug": "nighthaunt" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Black Pyramid",
+    "slug": "black-pyramid",
+    "series": "stormcast-eternals",
+    "orderInSeries": 3,
+    "author": "josh-reynolds",
+    "pages": 409,
+    "setting": {
+      "era": "Age of Sigmar",
+      "millennium": "Age of Sigmar"
+    },
+    "description": "The aftermath of the Soul Wars. A Stormcast Eternal warband ventures into Shyish in search of a mysterious black pyramid that may hold the key to understanding Nagash's plan — and the cost of standing against the supreme lord of undeath.",
+    "characters": [],
+    "factions": [
+      { "name": "Stormcast Eternals", "slug": "stormcast-eternals" },
+      { "name": "Nighthaunt", "slug": "nighthaunt" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Hamilcar: Champion of the Gods",
+    "slug": "hamilcar-champion-of-the-gods",
+    "series": "stormcast-eternals",
+    "orderInSeries": 4,
+    "author": "david-guymer",
+    "pages": 368,
+    "setting": {
+      "era": "Age of Sigmar",
+      "millennium": "Age of Sigmar"
+    },
+    "description": "Hamilcar Bear-Eater is the most boastful, swaggering, and gloriously over-confident Stormcast Eternal ever to stride the Mortal Realms. His stories of heroism — told in his own inimitable style — conceal a warrior of genuine brilliance and a champion blessed by Sigmar himself.",
+    "characters": [
+      { "name": "Hamilcar Bear-Eater", "slug": "hamilcar-bear-eater" }
+    ],
+    "factions": [
+      { "name": "Stormcast Eternals", "slug": "stormcast-eternals" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Blacktalon: First Mark",
+    "slug": "blacktalon-first-mark",
+    "series": "stormcast-eternals",
+    "orderInSeries": 5,
+    "author": "andy-clark",
+    "pages": 400,
+    "setting": {
+      "era": "Age of Sigmar",
+      "millennium": "Age of Sigmar"
+    },
+    "description": "Neave Blacktalon is Sigmar's assassin — a Stormcast Eternal of the Knight-Zephyros, chosen to hunt and destroy the champions of Chaos across the Mortal Realms. Her first mark leads her into a conspiracy that goes deeper than any single target, and the prey may be more dangerous than even she anticipates.",
+    "characters": [
+      { "name": "Neave Blacktalon", "slug": "neave-blacktalon" }
+    ],
+    "factions": [
+      { "name": "Stormcast Eternals", "slug": "stormcast-eternals" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "primarchs": []
+  }
+]

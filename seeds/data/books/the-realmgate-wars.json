@@ -1,0 +1,100 @@
+[
+  {
+    "title": "The Gates of Azyr",
+    "slug": "the-gates-of-azyr",
+    "series": "the-realmgate-wars",
+    "orderInSeries": 1,
+    "author": "chris-wraight",
+    "pages": 125,
+    "setting": {
+      "era": "Age of Sigmar",
+      "millennium": "Age of Sigmar"
+    },
+    "description": "The first Stormcast Eternals descend upon the Mortal Realms as Sigmar's war of reconquest begins. Lord-Celestant Vandus Hammerhand leads the Hammers of Sigmar through the Gates of Azyr in the opening salvo of the Age of Sigmar — a war to reclaim a world lost to Chaos.",
+    "characters": [
+      { "name": "Vandus Hammerhand", "slug": "vandus-hammerhand" }
+    ],
+    "factions": [
+      { "name": "Stormcast Eternals", "slug": "stormcast-eternals" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "War Storm",
+    "slug": "war-storm",
+    "series": "the-realmgate-wars",
+    "orderInSeries": 2,
+    "author": "nick-kyme",
+    "pages": 352,
+    "setting": {
+      "era": "Age of Sigmar",
+      "millennium": "Age of Sigmar"
+    },
+    "description": "The Realmgate Wars continue as the Stormcast Eternals wage war across multiple fronts in the Mortal Realms. The forces of Order fight to secure the realmgates — the magical portals that link the eight Mortal Realms — before Chaos can use them to pour reinforcements into battle.",
+    "characters": [],
+    "factions": [
+      { "name": "Stormcast Eternals", "slug": "stormcast-eternals" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Ghal Maraz",
+    "slug": "ghal-maraz",
+    "series": "the-realmgate-wars",
+    "orderInSeries": 3,
+    "author": "guy-haley",
+    "pages": 352,
+    "setting": {
+      "era": "Age of Sigmar",
+      "millennium": "Age of Sigmar"
+    },
+    "description": "Sigmar's legendary hammer Ghal Maraz was lost when the world drowned in Chaos. Now its location has been discovered in the Realm of Metal — but retrieving it will require fighting through armies of daemons and the most powerful servants of Chaos in existence.",
+    "characters": [],
+    "factions": [
+      { "name": "Stormcast Eternals", "slug": "stormcast-eternals" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Wardens of the Everqueen",
+    "slug": "wardens-of-the-everqueen",
+    "series": "the-realmgate-wars",
+    "orderInSeries": 4,
+    "author": "c-l-werner",
+    "pages": 416,
+    "setting": {
+      "era": "Age of Sigmar",
+      "millennium": "Age of Sigmar"
+    },
+    "description": "The Everqueen Alarielle, goddess of life, remains hidden and broken in the deepest forests of Ghyran while her realm is consumed by Nurgle's rot. The Stormcast Eternals sent to find her must first win her trust — and survive the wrath of nature itself — before they can bring her back to the war.",
+    "characters": [],
+    "factions": [
+      { "name": "Stormcast Eternals", "slug": "stormcast-eternals" },
+      { "name": "Sylvaneth", "slug": "sylvaneth" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Lord of Undeath",
+    "slug": "lord-of-undeath",
+    "series": "the-realmgate-wars",
+    "orderInSeries": 5,
+    "author": "c-l-werner",
+    "pages": 416,
+    "setting": {
+      "era": "Age of Sigmar",
+      "millennium": "Age of Sigmar"
+    },
+    "description": "Nagash, Supreme Lord of the Undead, is a god whose agenda is his own — and not necessarily aligned with the forces of Order. As the Realmgate Wars reach a critical juncture, the God of Death makes his move, and the Stormcast Eternals must navigate a deadly alliance with a power that may be as dangerous as Chaos itself.",
+    "characters": [],
+    "factions": [
+      { "name": "Nighthaunt", "slug": "nighthaunt" },
+      { "name": "Stormcast Eternals", "slug": "stormcast-eternals" }
+    ],
+    "primarchs": []
+  }
+]

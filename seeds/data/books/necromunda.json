@@ -1,0 +1,280 @@
+[
+  {
+    "title": "Survival Instinct",
+    "slug": "survival-instinct",
+    "series": "necromunda",
+    "orderInSeries": 1,
+    "author": "andy-chambers",
+    "pages": 256,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "In the lethal underhive of Necromunda, survival is never guaranteed. A tale of gangers, bounty hunters and the desperate people who scrape a living in the dark tunnels beneath the great hive, where every day is a battle and mercy is a luxury no one can afford.",
+    "characters": [],
+    "factions": [
+      { "name": "Imperium", "slug": "imperium" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Salvation",
+    "slug": "salvation-necromunda",
+    "series": "necromunda",
+    "orderInSeries": 2,
+    "author": "cassern-s-goto",
+    "pages": 256,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "The underhive of Necromunda is a place where salvation seems impossible — yet some still seek it. A story of faith, survival and the meaning of redemption in the harshest environment humanity has ever created, where even hope must be fought for with blood and steel.",
+    "characters": [],
+    "factions": [
+      { "name": "Imperium", "slug": "imperium" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Blood Royal",
+    "slug": "blood-royal",
+    "series": "necromunda",
+    "orderInSeries": 3,
+    "author": "gordon-rennie",
+    "pages": 256,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Kal Jerico — the most notorious bounty hunter in Necromunda — is drawn into a conspiracy involving the noble houses who rule from the upper spire. Blood Royal is the first of three novels following Kal Jerico through the political treacheries and violent back-alleys of the hive.",
+    "characters": [
+      { "name": "Kal Jerico", "slug": "kal-jerico" }
+    ],
+    "factions": [
+      { "name": "Imperium", "slug": "imperium" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Junktion",
+    "slug": "junktion",
+    "series": "necromunda",
+    "orderInSeries": 4,
+    "author": "matthew-farrer",
+    "pages": 256,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Junktion is a crossroads deep in the underhive — a lawless place where gangs, traders and outcasts meet. When a new faction moves to control it, the fragile balance of power collapses and every side is drawn into a brutal war for dominance over a few tunnels of darkness.",
+    "characters": [],
+    "factions": [
+      { "name": "Imperium", "slug": "imperium" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Fleshworks",
+    "slug": "fleshworks",
+    "series": "necromunda",
+    "orderInSeries": 5,
+    "author": "lucien-soulban",
+    "pages": 256,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "The Fleshworks are the body-modification parlours of the underhive, where flesh is bought and sold and the line between human and monster grows blurred. A dark story of identity, corruption and the lengths people go to in their search for power in the pit of Necromunda.",
+    "characters": [],
+    "factions": [
+      { "name": "Imperium", "slug": "imperium" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Cardinal Crimson",
+    "slug": "cardinal-crimson",
+    "series": "necromunda",
+    "orderInSeries": 6,
+    "author": "will-mcdermott",
+    "pages": 256,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Kal Jerico returns for a second adventure through the labyrinthine streets of Necromunda, this time tangling with a dangerous religious figure whose influence stretches from the underhive depths to the upper spire. Cardinal Crimson is everything a crime thriller in the far future should be.",
+    "characters": [
+      { "name": "Kal Jerico", "slug": "kal-jerico" }
+    ],
+    "factions": [
+      { "name": "Imperium", "slug": "imperium" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Back from the Dead",
+    "slug": "back-from-the-dead",
+    "series": "necromunda",
+    "orderInSeries": 7,
+    "author": "nick-kyme",
+    "pages": 256,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Some deaths in the underhive don't take. A warrior presumed dead claws their way back to the living, only to find that the world moved on without them and old enemies are waiting. A story of vengeance, resurrection and the stubborn refusal to stay buried in Necromunda's depths.",
+    "characters": [],
+    "factions": [
+      { "name": "Imperium", "slug": "imperium" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Outlander",
+    "slug": "outlander-necromunda",
+    "series": "necromunda",
+    "orderInSeries": 8,
+    "author": "matt-keefe",
+    "pages": 256,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Beyond the walls of the hive cities lies the ash wastes — a lethal wilderness of toxic storms, radiation and outlaw settlements that survive beyond the reach of the great gangs. An outlander's journey into this lawless fringe reveals that even outside the hive, human nature remains just as brutal.",
+    "characters": [],
+    "factions": [
+      { "name": "Imperium", "slug": "imperium" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Lasgun Wedding",
+    "slug": "lasgun-wedding",
+    "series": "necromunda",
+    "orderInSeries": 9,
+    "author": "will-mcdermott",
+    "pages": 256,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "The final chapter of the Kal Jerico trilogy sends the notorious bounty hunter to a wedding — in Necromunda, that means guns, politics and the very real possibility that nobody makes it out alive. Kal Jerico ends his trilogy in the only way it ever could: with chaos, betrayal and a lot of gunfire.",
+    "characters": [
+      { "name": "Kal Jerico", "slug": "kal-jerico" }
+    ],
+    "factions": [
+      { "name": "Imperium", "slug": "imperium" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Terminal Overkill",
+    "slug": "terminal-overkill",
+    "series": "necromunda",
+    "orderInSeries": 10,
+    "author": "justin-d-hill",
+    "pages": 352,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "The new era of Necromunda fiction begins with a brutal tale of gang warfare in the underhive. When a powerful gang moves to dominate a sector of the underhive, those caught in their path must fight back with everything they have — or be crushed beneath the boot of Necromunda's endless violence.",
+    "characters": [],
+    "factions": [
+      { "name": "Imperium", "slug": "imperium" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Kal Jerico: Sinner's Bounty",
+    "slug": "kal-jerico-sinners-bounty",
+    "series": "necromunda",
+    "orderInSeries": 11,
+    "author": "josh-reynolds",
+    "pages": 352,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Kal Jerico, the most notorious bounty hunter in Necromunda, returns in a brand new novel. A job that seems routine quickly spirals into something far more dangerous as Kal is drawn into a web of competing factions, each with their own agenda — and all of them willing to kill to keep their secrets.",
+    "characters": [
+      { "name": "Kal Jerico", "slug": "kal-jerico" }
+    ],
+    "factions": [
+      { "name": "Imperium", "slug": "imperium" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Road to Redemption",
+    "slug": "road-to-redemption",
+    "series": "necromunda",
+    "orderInSeries": 12,
+    "author": "mike-brooks",
+    "pages": 352,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "A Redemptionist preacher and his fanatical followers wage a crusade of fire and faith through the underhive, purging the unclean in the Emperor's name. But the road to redemption in Necromunda is paved with moral compromises, and the line between holy warrior and tyrant has never been thinner.",
+    "characters": [],
+    "factions": [
+      { "name": "Imperium", "slug": "imperium" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Soulless Fury",
+    "slug": "soulless-fury",
+    "series": "necromunda",
+    "orderInSeries": 13,
+    "author": "will-mcdermott",
+    "pages": 352,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "In the depths of Necromunda's underhive, a fury without soul or conscience stalks the tunnels — something that kills not for territory or profit but out of pure, unstoppable violence. Those who seek to stop it must confront not just the killer but the darkness within themselves.",
+    "characters": [],
+    "factions": [
+      { "name": "Imperium", "slug": "imperium" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Fire Made Flesh",
+    "slug": "fire-made-flesh",
+    "series": "necromunda",
+    "orderInSeries": 14,
+    "author": "denny-flowers",
+    "pages": 352,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "In the underhive of Necromunda, a gang war erupts over a substance that grants extraordinary power at terrible cost. A young woman caught between the warring factions must navigate the brutal politics of the hive bottom, where law is enforced by whoever has the biggest gun.",
+    "characters": [],
+    "factions": [
+      { "name": "Imperium", "slug": "imperium" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "The Hand of Harrow",
+    "slug": "the-hand-of-harrow",
+    "series": "necromunda",
+    "orderInSeries": 15,
+    "author": "denny-flowers",
+    "pages": 352,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "A powerful figure known only as the Hand of Harrow moves through the underhive's criminal underworld, pulling strings from the shadows. When their schemes threaten to destabilise entire sectors of the hive, those with enough to lose must risk everything to expose them.",
+    "characters": [],
+    "factions": [
+      { "name": "Imperium", "slug": "imperium" }
+    ],
+    "primarchs": []
+  }
+]

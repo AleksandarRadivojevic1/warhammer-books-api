@@ -13,7 +13,7 @@ const VALID_STATUSES = ["Alive", "Dead", "Missing", "Unknown"];
 exports.getPrimarchs = async (req, res, next) => {
   try {
     const page = Math.max(1, parseInt(req.query.page) || 1);
-    const limit = 20;
+    const limit = 10;
     const filter = {};
 
     if (req.query.alignment) {

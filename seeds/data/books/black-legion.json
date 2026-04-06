@@ -1,0 +1,46 @@
+[
+  {
+    "title": "The Talon of Horus",
+    "slug": "the-talon-of-horus",
+    "series": "black-legion",
+    "orderInSeries": 1,
+    "author": "aaron-dembski-bowden",
+    "pages": 416,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "In the wake of the Horus Heresy, the Sons of Horus are a Legion in ruins. Khayon, a sorcerer of the Thousand Sons, tells the story of how Abaddon the Despoiler rose from the ashes of defeat to forge the Black Legion — and the terrible price paid to build the instrument of Chaos's greatest champion.",
+    "characters": [
+      { "name": "Abaddon the Despoiler", "slug": "abaddon-the-despoiler" },
+      { "name": "Khayon", "slug": "khayon" }
+    ],
+    "factions": [
+      { "name": "Black Legion", "slug": "black-legion" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Black Legion",
+    "slug": "black-legion-novel",
+    "series": "black-legion",
+    "orderInSeries": 2,
+    "author": "aaron-dembski-bowden",
+    "pages": 448,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Abaddon's Black Legion has become the mightiest warhost in the Eye of Terror, but to launch his Black Crusades against the Imperium he must unite the fractious warlords of Chaos under his banner. Khayon continues his account of his master's unstoppable rise to dominance.",
+    "characters": [
+      { "name": "Abaddon the Despoiler", "slug": "abaddon-the-despoiler" },
+      { "name": "Khayon", "slug": "khayon" }
+    ],
+    "factions": [
+      { "name": "Black Legion", "slug": "black-legion" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "primarchs": []
+  }
+]

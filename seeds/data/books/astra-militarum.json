@@ -1,0 +1,112 @@
+[
+  {
+    "title": "Steel Tread",
+    "slug": "steel-tread",
+    "series": "astra-militarum",
+    "orderInSeries": 1,
+    "author": "andy-clark",
+    "pages": 368,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "The armoured regiment of the Astra Militarum rolls to war aboard mighty battle tanks, their steel treads crushing all before them. When a vital world is threatened by a xenos incursion, the tankers of the regiment must hold the line in a brutal war of armoured attrition.",
+    "characters": [],
+    "factions": [
+      { "name": "Astra Militarum", "slug": "astra-militarum" },
+      { "name": "Orks", "slug": "orks" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Catachan Devil",
+    "slug": "catachan-devil",
+    "series": "astra-militarum",
+    "orderInSeries": 2,
+    "author": "justin-woolley",
+    "pages": 336,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "The Catachan Jungle Fighters are among the deadliest soldiers in the Imperium — hardened by a death world that kills everything weak. When a squad of Catachans is sent into an alien jungle to eliminate a guerrilla threat, they must use every brutal survival skill they possess to come out alive.",
+    "characters": [],
+    "factions": [
+      { "name": "Astra Militarum", "slug": "astra-militarum" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Witchbringer",
+    "slug": "witchbringer",
+    "series": "astra-militarum",
+    "orderInSeries": 3,
+    "author": "steven-b-fischer",
+    "pages": 293,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "When a regiment of the Astra Militarum is tasked with transporting a dangerous sanctioned psyker across a war-torn world, their mission becomes a desperate fight for survival as Chaos forces close in from every direction, drawn to the witch in their midst.",
+    "characters": [],
+    "factions": [
+      { "name": "Astra Militarum", "slug": "astra-militarum" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Longshot",
+    "slug": "longshot-astra-militarum",
+    "series": "astra-militarum",
+    "orderInSeries": 4,
+    "author": "rob-young",
+    "pages": 320,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "A regiment of Imperial Guard snipers is deployed behind enemy lines with a single objective: eliminate a high-value target before they can turn the tide of the war. Their mission demands patience, precision and nerves of steel as they stalk through a warzone crawling with enemy soldiers.",
+    "characters": [],
+    "factions": [
+      { "name": "Astra Militarum", "slug": "astra-militarum" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Deathworlder",
+    "slug": "deathworlder",
+    "series": "astra-militarum",
+    "orderInSeries": 5,
+    "author": "victoria-hayward",
+    "pages": 368,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Soldiers drawn from the most hostile and lethal worlds in the Imperium, deathworlders are the Astra Militarum's specialists in fighting in environments that would kill ordinary soldiers in minutes. When such a regiment is deployed to a world that defies even their formidable experience, the true meaning of survival is tested.",
+    "characters": [],
+    "factions": [
+      { "name": "Astra Militarum", "slug": "astra-militarum" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Final Deployment",
+    "slug": "final-deployment",
+    "series": "astra-militarum",
+    "orderInSeries": 6,
+    "author": "rs-wilt",
+    "pages": 368,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "A veteran regiment of the Astra Militarum receives orders for one last mission — a final deployment into a warzone from which few are expected to return. Tested to their limits by an overwhelming enemy, the soldiers of the Imperium must find the courage to fight on when all hope seems lost.",
+    "characters": [],
+    "factions": [
+      { "name": "Astra Militarum", "slug": "astra-militarum" }
+    ],
+    "primarchs": []
+  }
+]

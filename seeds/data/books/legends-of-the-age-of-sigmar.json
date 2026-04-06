@@ -1,0 +1,95 @@
+[
+  {
+    "title": "Fyreslayers",
+    "slug": "fyreslayers",
+    "series": "legends-of-the-age-of-sigmar",
+    "orderInSeries": 1,
+    "author": "david-annandale",
+    "pages": 128,
+    "setting": {
+      "era": "Age of Sigmar",
+      "millennium": "Age of Sigmar"
+    },
+    "description": "The Fyreslayers are fanatic duardin warrior-priests who fight for ur-gold — the scattered essence of their shattered god Grimnir. A tale of uncompromising battle-fury, unyielding oaths and the burning faith of warriors who carry the power of a dead god in their veins.",
+    "characters": [],
+    "factions": [
+      { "name": "Fyreslayers", "slug": "fyreslayers" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Skaven Pestilens",
+    "slug": "skaven-pestilens",
+    "series": "legends-of-the-age-of-sigmar",
+    "orderInSeries": 2,
+    "author": "josh-reynolds",
+    "pages": 128,
+    "setting": {
+      "era": "Age of Sigmar",
+      "millennium": "Age of Sigmar"
+    },
+    "description": "The Clans Pestilens spread their foul plagues across the Mortal Realms in the name of the Great Corruptor. A tale of vile scheming, festering corruption and the unstoppable creep of disease as Nurgle's most devoted skaven servants pursue their diseased crusade.",
+    "characters": [],
+    "factions": [
+      { "name": "Skaven", "slug": "skaven" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Sylvaneth",
+    "slug": "sylvaneth",
+    "series": "legends-of-the-age-of-sigmar",
+    "orderInSeries": 3,
+    "author": "josh-reynolds",
+    "pages": 128,
+    "setting": {
+      "era": "Age of Sigmar",
+      "millennium": "Age of Sigmar"
+    },
+    "description": "The Sylvaneth are the spirit-children of Alarielle, tree-kin who tend the forests of Ghyran and wage endless war against the forces of Chaos that seek to corrupt their sacred groves. A tale of wild, primal fury and the fierce love of nature in its most ancient and violent form.",
+    "characters": [],
+    "factions": [
+      { "name": "Sylvaneth", "slug": "sylvaneth" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Black Rift",
+    "slug": "black-rift",
+    "series": "legends-of-the-age-of-sigmar",
+    "orderInSeries": 4,
+    "author": "josh-reynolds",
+    "pages": 128,
+    "setting": {
+      "era": "Age of Sigmar",
+      "millennium": "Age of Sigmar"
+    },
+    "description": "A dark rift tears open in the heart of the Mortal Realms, disgorging horrors from beyond reality. Heroes and villains alike are drawn into its orbit as something ancient and terrible reaches through — and the price of stopping it may be more than any single warrior can bear.",
+    "characters": [],
+    "factions": [
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "City of Secrets",
+    "slug": "city-of-secrets",
+    "series": "legends-of-the-age-of-sigmar",
+    "orderInSeries": 5,
+    "author": "nick-horth",
+    "pages": 320,
+    "setting": {
+      "era": "Age of Sigmar",
+      "millennium": "Age of Sigmar"
+    },
+    "description": "In the great twin-tailed city of Hammerhal, a witch hunter pursues a trail of dark magic that leads deep into the heart of the city's underworld. Intrigue, murder and forbidden sorcery lurk in every shadow as the investigation uncovers a conspiracy that could bring the city to ruin.",
+    "characters": [],
+    "factions": [
+      { "name": "Imperium", "slug": "imperium" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "primarchs": []
+  }
+]

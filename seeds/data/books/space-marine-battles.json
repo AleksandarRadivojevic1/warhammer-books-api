@@ -1,0 +1,525 @@
+[
+  {
+    "title": "Rynn's World",
+    "slug": "rynns-world",
+    "series": "space-marine-battles",
+    "orderInSeries": 1,
+    "author": "steve-parker",
+    "pages": 416,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "The Crimson Fists Space Marines face annihilation when an Ork Waaagh! devastates their home world and destroys their fortress-monastery. Chapter Master Pedro Kantor leads the survivors in a desperate last stand against overwhelming odds — a battle that will define the Chapter for generations.",
+    "characters": [
+      { "name": "Pedro Kantor", "slug": "pedro-kantor" }
+    ],
+    "factions": [
+      { "name": "Crimson Fists", "slug": "crimson-fists" },
+      { "name": "Orks", "slug": "orks" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Helsreach",
+    "slug": "helsreach",
+    "series": "space-marine-battles",
+    "orderInSeries": 2,
+    "author": "aaron-dembski-bowden",
+    "pages": 416,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Reclusiarch Grimaldus of the Black Templars is sent to defend Helsreach — an industrial hive city on Armageddon — during the planet's third great Ork invasion. Outnumbered and outgunned, the Templars make their stand in the burning streets of a city that refuses to surrender.",
+    "characters": [
+      { "name": "Grimaldus", "slug": "grimaldus" }
+    ],
+    "factions": [
+      { "name": "Black Templars", "slug": "black-templars" },
+      { "name": "Orks", "slug": "orks" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Hunt for Voldorius",
+    "slug": "hunt-for-voldorius",
+    "series": "space-marine-battles",
+    "orderInSeries": 3,
+    "author": "andy-hoare",
+    "pages": 416,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Kor'sarro Khan of the White Scars leads his brotherhood on a relentless pursuit across the galaxy to bring the daemon prince Voldorius to justice. The hunt spans multiple worlds and leaves a trail of destruction in its wake — but the White Scars always get their quarry.",
+    "characters": [
+      { "name": "Kor'sarro Khan", "slug": "korsarro-khan" }
+    ],
+    "factions": [
+      { "name": "White Scars", "slug": "white-scars" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "The Purging of Kadillus",
+    "slug": "the-purging-of-kadillus",
+    "series": "space-marine-battles",
+    "orderInSeries": 4,
+    "author": "gav-thorpe",
+    "pages": 416,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "The Dark Angels fight to purge the industrial moon of Kadillus of an Ork infestation. But beneath the war-torn surface, another battle is being waged — and the secrets the Dark Angels carry make even a straightforward military campaign anything but simple.",
+    "characters": [],
+    "factions": [
+      { "name": "Dark Angels", "slug": "dark-angels" },
+      { "name": "Orks", "slug": "orks" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Fall of Damnos",
+    "slug": "fall-of-damnos",
+    "series": "space-marine-battles",
+    "orderInSeries": 5,
+    "author": "nick-kyme",
+    "pages": 416,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "The Ultramarines respond to a desperate plea from Damnos — a world under assault from the awakening Necrons. What begins as a relief mission becomes a catastrophic defeat as the ancient xenos prove unstoppable, and the sons of Guilliman must face a failure they cannot accept.",
+    "characters": [],
+    "factions": [
+      { "name": "Ultramarines", "slug": "ultramarines" },
+      { "name": "Necrons", "slug": "necrons" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Battle of the Fang",
+    "slug": "battle-of-the-fang",
+    "series": "space-marine-battles",
+    "orderInSeries": 6,
+    "author": "chris-wraight",
+    "pages": 416,
+    "setting": {
+      "era": "32nd Millennium",
+      "millennium": "M32"
+    },
+    "description": "A thousand years after the Horus Heresy, the Thousand Sons assault the Fang — the fortress-monastery of the Space Wolves on Fenris — while the majority of the Chapter is away. The skeleton garrison of defenders must hold against impossible odds until their brothers return.",
+    "characters": [],
+    "factions": [
+      { "name": "Space Wolves", "slug": "space-wolves" },
+      { "name": "Thousand Sons", "slug": "thousand-sons" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "The Gildar Rift",
+    "slug": "the-gildar-rift",
+    "series": "space-marine-battles",
+    "orderInSeries": 7,
+    "author": "sarah-cawkwell",
+    "pages": 416,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "The Silver Skulls Space Marines respond to a distress call from the Gildar system, only to find themselves locked in a brutal war against the Red Corsairs — a warband of Chaos Space Marines led by the renegade Huron Blackheart.",
+    "characters": [],
+    "factions": [
+      { "name": "Silver Skulls", "slug": "silver-skulls" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Legion of the Damned",
+    "slug": "legion-of-the-damned",
+    "series": "space-marine-battles",
+    "orderInSeries": 8,
+    "author": "rob-sanders",
+    "pages": 416,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "The Excoriators Chapter is on the verge of annihilation, surrounded and overwhelmed, when the legendary Legion of the Damned appear from nowhere to turn the tide. Who are these spectral warriors, and what price will be paid for their intervention?",
+    "characters": [],
+    "factions": [
+      { "name": "Adeptus Astartes", "slug": "adeptus-astartes" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Wrath of Iron",
+    "slug": "wrath-of-iron",
+    "series": "space-marine-battles",
+    "orderInSeries": 9,
+    "author": "chris-wraight",
+    "pages": 416,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "The Iron Hands descend on a world consumed by Chaos with cold, mechanical fury. Their campaign of purification is absolute and merciless — but as the war grinds on, even the sons of Ferrus Manus must question whether their hatred of weakness has made them something less than human.",
+    "characters": [],
+    "factions": [
+      { "name": "Iron Hands", "slug": "iron-hands" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "The Siege of Castellax",
+    "slug": "the-siege-of-castellax",
+    "series": "space-marine-battles",
+    "orderInSeries": 10,
+    "author": "c-l-werner",
+    "pages": 416,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "The Iron Warriors — masters of siege warfare — hold the forge world of Castellax with an iron grip. When an Ork Waaagh! descends upon the planet, the Chaos Space Marines must fight to hold what they have conquered, even as the brutality of their rule breeds resistance from within.",
+    "characters": [],
+    "factions": [
+      { "name": "Iron Warriors", "slug": "iron-warriors" },
+      { "name": "Orks", "slug": "orks" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Death of Integrity",
+    "slug": "death-of-integrity",
+    "series": "space-marine-battles",
+    "orderInSeries": 11,
+    "author": "guy-haley",
+    "pages": 416,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Two Space Marine Chapters — the Blood Drinkers and the Novamarines — mount a boarding action against a space hulk teeming with Genestealers. Navigating the drifting mass of fused ships is deadly enough; what lurks in the dark corridors within is worse.",
+    "characters": [],
+    "factions": [
+      { "name": "Adeptus Astartes", "slug": "adeptus-astartes" },
+      { "name": "Tyranids", "slug": "tyranids" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "The Death of Antagonis",
+    "slug": "the-death-of-antagonis",
+    "series": "space-marine-battles",
+    "orderInSeries": 12,
+    "author": "david-annandale",
+    "pages": 416,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "The Black Dragons Space Marines respond to a distress call from the world of Antagonis, only to find it consumed by a daemonic plague that corrupts everything it touches. Their mission to purge the world becomes a fight for their own souls as Chaos closes in from every direction.",
+    "characters": [],
+    "factions": [
+      { "name": "Adeptus Astartes", "slug": "adeptus-astartes" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Pandorax",
+    "slug": "pandorax",
+    "series": "space-marine-battles",
+    "orderInSeries": 13,
+    "author": "c-z-dunn",
+    "pages": 476,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "The Dark Angels and the Grey Knights join forces on Pythos — a death world that has become a gateway for daemonic incursion on a massive scale. As the forces of Chaos pour through, the two Chapters must set aside their mutual suspicions and fight for the survival of a sector.",
+    "characters": [],
+    "factions": [
+      { "name": "Dark Angels", "slug": "dark-angels" },
+      { "name": "Grey Knights", "slug": "grey-knights" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Malodrax",
+    "slug": "malodrax",
+    "series": "space-marine-battles",
+    "orderInSeries": 14,
+    "author": "ben-counter",
+    "pages": 416,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "An Imperial Fists captain is captured and taken to Malodrax — a daemon world of twisted reality and unspeakable horror. His brothers mount a rescue mission into a place where the laws of physics do not apply, to save a warrior who may no longer be entirely who he was.",
+    "characters": [],
+    "factions": [
+      { "name": "Imperial Fists", "slug": "imperial-fists" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Overfiend",
+    "slug": "overfiend",
+    "series": "space-marine-battles",
+    "orderInSeries": 15,
+    "author": "david-annandale",
+    "pages": 416,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "The Ultramarines clash with an Ork Overfiend — a warlord of terrifying power who has united the greenskin tribes of an entire system under his banner. Stopping such a creature before it becomes unstoppable requires a bold strategy and a willingness to take extraordinary risks.",
+    "characters": [],
+    "factions": [
+      { "name": "Ultramarines", "slug": "ultramarines" },
+      { "name": "Orks", "slug": "orks" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Slaughter at Giant's Coffin",
+    "slug": "slaughter-at-giants-coffin",
+    "series": "space-marine-battles",
+    "orderInSeries": 16,
+    "author": "l-j-goulding",
+    "pages": 416,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "The Scythes of the Emperor — a Chapter devastated by the Tyranid invasion — make a desperate stand at a place called the Giant's Coffin. Outnumbered and fighting for survival, the remnants of the Chapter must hold on long enough for relief to arrive, or die as the last of their kind.",
+    "characters": [],
+    "factions": [
+      { "name": "Adeptus Astartes", "slug": "adeptus-astartes" },
+      { "name": "Tyranids", "slug": "tyranids" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Catechism of Hate",
+    "slug": "catechism-of-hate",
+    "series": "space-marine-battles",
+    "orderInSeries": 17,
+    "author": "gav-thorpe",
+    "pages": 128,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "A Chaplain of the Ultramarines leads his brothers against the Tyranid swarm, his litanies of hatred driving them to greater feats of violence. In the grinding war against the hive mind, the Chaplain must reckon with whether hatred is a tool of war or a path to losing oneself entirely.",
+    "characters": [],
+    "factions": [
+      { "name": "Ultramarines", "slug": "ultramarines" },
+      { "name": "Tyranids", "slug": "tyranids" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "The World Engine",
+    "slug": "the-world-engine",
+    "series": "space-marine-battles",
+    "orderInSeries": 18,
+    "author": "ben-counter",
+    "pages": 416,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "An ancient and unstoppable Necron war machine — the World Engine — carves a path of destruction through Imperial space, annihilating everything in its path including the entire Astral Knights Space Marine Chapter. A novel of sacrifice, desperation and the terrible cost of standing against an enemy that cannot be reasoned with.",
+    "characters": [],
+    "factions": [
+      { "name": "Adeptus Astartes", "slug": "adeptus-astartes" },
+      { "name": "Necrons", "slug": "necrons" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Flesh of Cretacia",
+    "slug": "flesh-of-cretacia",
+    "series": "space-marine-battles",
+    "orderInSeries": 19,
+    "author": "andy-smillie",
+    "pages": 128,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "The Flesh Tearers return to Cretacia — their savage death world home — and must confront the primal darkness that gave birth to their Chapter. A novella of brutal combat and introspection from a Chapter perpetually on the edge of losing itself to the Red Thirst.",
+    "characters": [],
+    "factions": [
+      { "name": "Flesh Tearers", "slug": "flesh-tearers" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Sons of Wrath",
+    "slug": "sons-of-wrath",
+    "series": "space-marine-battles",
+    "orderInSeries": 20,
+    "author": "andy-smillie",
+    "pages": 128,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "The Flesh Tearers' unending war takes them to a world where their wrathful nature is simultaneously their greatest asset and their deadliest liability. A novella of rage barely contained and the cost of being sons of Sanguinius touched most deeply by the Black Rage.",
+    "characters": [],
+    "factions": [
+      { "name": "Flesh Tearers", "slug": "flesh-tearers" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Blades of Damocles",
+    "slug": "blades-of-damocles",
+    "series": "space-marine-battles",
+    "orderInSeries": 21,
+    "author": "phil-kelly",
+    "pages": 320,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "The Ultramarines join the Damocles Gulf Crusade — a massive Imperial assault on the upstart Tau Empire. It is the first major clash between these two civilisations, and the sons of Guilliman must adapt their legendary tactical doctrine to face an enemy unlike any they have fought before.",
+    "characters": [],
+    "factions": [
+      { "name": "Ultramarines", "slug": "ultramarines" },
+      { "name": "Tau Empire", "slug": "tau-empire" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Crusaders of Dorn",
+    "slug": "crusaders-of-dorn",
+    "series": "space-marine-battles",
+    "orderInSeries": 22,
+    "author": "guy-haley",
+    "pages": 416,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "The Black Templars — crusading sons of Rogal Dorn — wage their endless war against the enemies of the Emperor across the stars. Bound by their crusading vows and driven by their uncompromising faith, they bring the Emperor's wrath to a warzone that will test every principle they hold sacred.",
+    "characters": [],
+    "factions": [
+      { "name": "Black Templars", "slug": "black-templars" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Calgar's Siege",
+    "slug": "calgars-siege",
+    "series": "space-marine-battles",
+    "orderInSeries": 23,
+    "author": "paul-kearney",
+    "pages": 416,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Marneus Calgar, Chapter Master of the Ultramarines, conducts a legendary siege operation on a world held by an overwhelming Ork force. A tale of unmatched tactical genius, brutal attritional warfare and the indomitable will of the Lord of Macragge.",
+    "characters": [
+      { "name": "Marneus Calgar", "slug": "marneus-calgar" }
+    ],
+    "factions": [
+      { "name": "Ultramarines", "slug": "ultramarines" },
+      { "name": "Orks", "slug": "orks" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Storm of Damocles",
+    "slug": "storm-of-damocles",
+    "series": "space-marine-battles",
+    "orderInSeries": 24,
+    "author": "justin-d-hill",
+    "pages": 416,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "The Damocles Crusade enters its final phase as Imperial and Tau forces clash in a storm of fire and steel. Lord Castellan Ursarkar Creed coordinates the Imperial war effort as the Ultramarines bear the brunt of an enemy that fights not just with superior technology but with cunning diplomacy.",
+    "characters": [],
+    "factions": [
+      { "name": "Ultramarines", "slug": "ultramarines" },
+      { "name": "Tau Empire", "slug": "tau-empire" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Tyrant of the Hollow Worlds",
+    "slug": "tyrant-of-the-hollow-worlds",
+    "series": "space-marine-battles",
+    "orderInSeries": 25,
+    "author": "mark-clapham",
+    "pages": 416,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "The Space Wolves respond to an invasion of the Hollow Worlds — strange, nested sphere-worlds of alien construction — by forces of Chaos. In an environment where the rules of normal warfare do not apply, the sons of Russ must adapt their ferocious fighting style to a battlefield unlike any they have faced.",
+    "characters": [],
+    "factions": [
+      { "name": "Space Wolves", "slug": "space-wolves" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Blood and Fire",
+    "slug": "blood-and-fire",
+    "series": "space-marine-battles",
+    "orderInSeries": 26,
+    "author": "guy-haley",
+    "pages": 416,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "High Marshal Helbrecht of the Black Templars leads his crusade in a war of fire and righteous fury. The Black Templars' crusading nature makes them unlike any other Chapter — unbound to a home world, ever-moving, ever-fighting in the Emperor's name across the breadth of the galaxy.",
+    "characters": [],
+    "factions": [
+      { "name": "Black Templars", "slug": "black-templars" },
+      { "name": "Orks", "slug": "orks" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "The Eye of Ezekiel",
+    "slug": "the-eye-of-ezekiel",
+    "series": "space-marine-battles",
+    "orderInSeries": 27,
+    "author": "c-z-dunn",
+    "pages": 416,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Chief Librarian Ezekiel of the Dark Angels leads a mission that takes him into the heart of enemy territory, where psychic power and the secrets of the Chapter collide. A novel of mental fortitude, brotherhood and the particular burden carried by the sons of the Lion.",
+    "characters": [
+      { "name": "Ezekiel", "slug": "ezekiel" }
+    ],
+    "factions": [
+      { "name": "Dark Angels", "slug": "dark-angels" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "primarchs": []
+  }
+]

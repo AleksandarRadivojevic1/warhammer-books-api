@@ -1,0 +1,65 @@
+[
+  {
+    "title": "Fabius Bile: Clonelord",
+    "slug": "fabius-bile-clonelord",
+    "series": "fabius-bile",
+    "orderInSeries": 2,
+    "author": "josh-reynolds",
+    "pages": 357,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Once a loyal son of the Emperor's Children, Fabius Bile now loathes those he once called brother. But when a former comrade requests his aid on a mission he cannot refuse, Bile is drawn once more into the sinister machinations of his former Legion. Now, accompanied by new allies and old enemies alike, Fabius Bile must travel deep into the wilds of the Eastern Fringe, in search of a world unlike any other. A world which might hold the key to his very survival. A world called Solemnace.",
+    "characters": [
+      { "name": "Fabius Bile", "slug": "fabius-bile" }
+    ],
+    "factions": [
+      { "name": "Emperor's Children", "slug": "emperors-children" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Fabius Bile: Manflayer",
+    "slug": "fabius-bile-manflayer",
+    "series": "fabius-bile",
+    "orderInSeries": 2,
+    "author": "josh-reynolds",
+    "pages": 368,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "In the centuries since his return from Commorragh, Fabius Bile has distanced himself from the affairs of friend and foe, content only to oversee the cruel evolution of his New Men. But when his creations are threatened by the monstrous Haemonculi of the Thirteen Scars, the Manflayer is forced to seek out new allies and old enemies alike in an effort to preserve all that he has built. Homo novus must survive… even if Fabius Bile must die to ensure it.",
+    "characters": [
+      { "name": "Fabius Bile", "slug": "fabius-bile" }
+    ],
+    "factions": [
+      { "name": "Emperor's Children", "slug": "emperors-children" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Fabius Bile: Primogenitor",
+    "slug": "fabius-bile-primogenitor",
+    "series": "fabius-bile",
+    "orderInSeries": 1,
+    "author": "josh-reynolds",
+    "pages": 320,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "He is known by many names — Clonelord, Manflayer, Primogenitor. He is the epitome of deceit and perversion, and feared by man and monster alike. Once the Chief Apothecary of the Emperor's Children, the madman known as Fabius Bile possesses a knowledge of genetic manipulation second to none. Now a renegade among renegades, he is loathed by those he once called brother, and even the most degraded of Chaos Space Marines fear his name. Exiled for his dark experiments, Bile has retreated deep into the Eye of Terror, leaving a trail of twisted abominations in his wake. But when a former student brings word of the ultimate prize for the taking, Bile is unable to resist being drawn once more into the cauldron of war. For in seizing this prize, Fabius Bile might yet discover the one secret his has been unable to unlock... the secret which will prevent his inevitable doom.",
+    "characters": [
+      { "name": "Fabius Bile", "slug": "fabius-bile" }
+    ],
+    "factions": [
+      { "name": "Emperor's Children", "slug": "emperors-children" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "primarchs": []
+  }
+]

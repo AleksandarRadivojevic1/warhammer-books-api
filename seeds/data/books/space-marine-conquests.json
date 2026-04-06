@@ -1,0 +1,120 @@
+[
+  {
+    "title": "The Devastation of Baal",
+    "slug": "the-devastation-of-baal",
+    "series": "space-marine-conquests",
+    "orderInSeries": 1,
+    "author": "guy-haley",
+    "pages": 480,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "The Tyranid Hive Fleet Leviathan descends upon Baal, homeworld of the Blood Angels, in a swarm that threatens to consume everything. Chapter Master Dante leads a desperate defence alongside successor chapters and unlikely allies, knowing that the fall of Baal could mean the end of the sons of Sanguinius.",
+    "characters": [
+      { "name": "Commander Dante", "slug": "commander-dante" }
+    ],
+    "factions": [
+      { "name": "Blood Angels", "slug": "blood-angels" },
+      { "name": "Tyranids", "slug": "tyranids" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Ashes of Prospero",
+    "slug": "ashes-of-prospero",
+    "series": "space-marine-conquests",
+    "orderInSeries": 2,
+    "author": "gav-thorpe",
+    "pages": 320,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Njal Stormcaller of the Space Wolves leads a quest to the ruins of Prospero, the shattered homeworld of the Thousand Sons, to recover something of immense value to his Chapter. What he finds amid the ashes of that dead world will challenge everything he knows about the Space Wolves' darkest hour.",
+    "characters": [
+      { "name": "Njal Stormcaller", "slug": "njal-stormcaller" }
+    ],
+    "factions": [
+      { "name": "Space Wolves", "slug": "space-wolves" },
+      { "name": "Thousand Sons", "slug": "thousand-sons" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "War of Secrets",
+    "slug": "war-of-secrets",
+    "series": "space-marine-conquests",
+    "orderInSeries": 3,
+    "author": "phil-kelly",
+    "pages": 352,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "The Dark Angels pursue their eternal quarry — the Fallen — across a warzone where loyalties are uncertain and every ally may be a hidden enemy. As Space Marines of several Chapters converge on a vital world, the Dark Angels' true mission could shatter the alliance that holds them together.",
+    "characters": [],
+    "factions": [
+      { "name": "Dark Angels", "slug": "dark-angels" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Apocalypse",
+    "slug": "apocalypse-space-marine-conquests",
+    "series": "space-marine-conquests",
+    "orderInSeries": 4,
+    "author": "josh-reynolds",
+    "pages": 320,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Multiple Space Marine Chapters converge on a warzone where Chaos forces have gathered in unprecedented numbers. The battle that follows will be an apocalyptic clash that reshapes the sector — and the price of victory will be counted in the lives of heroes.",
+    "characters": [],
+    "factions": [
+      { "name": "Adeptus Astartes", "slug": "adeptus-astartes" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Of Honour and Iron",
+    "slug": "of-honour-and-iron",
+    "series": "space-marine-conquests",
+    "orderInSeries": 5,
+    "author": "ian-st-martin",
+    "pages": 320,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Two Space Marine Chapters with a bitter history are forced to fight side by side when an overwhelming enemy threatens a vital Imperial world. Honour and old grudges clash as the warriors must decide whether brotherhood or rivalry will define them in their darkest hour.",
+    "characters": [],
+    "factions": [
+      { "name": "Adeptus Astartes", "slug": "adeptus-astartes" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Fist of the Imperium",
+    "slug": "fist-of-the-imperium",
+    "series": "space-marine-conquests",
+    "orderInSeries": 6,
+    "author": "andy-clark",
+    "pages": 320,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "The Imperial Fists bring their legendary siege warfare to bear on a world that has fallen to Chaos. Methodical, relentless and utterly without mercy, the sons of Rogal Dorn prosecute their war with the cold precision of masters — but their enemy has prepared surprises of their own.",
+    "characters": [],
+    "factions": [
+      { "name": "Imperial Fists", "slug": "imperial-fists" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "primarchs": []
+  }
+]
