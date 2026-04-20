@@ -26,8 +26,10 @@ app.use(cors())
 app.use(morgan('tiny'))
 
 const limiter = rateLimit({
-  windowMs: 15 * 60 * 1000, // 15 minutes
-  max: 100,
+  windowMs: 15 * 60 * 1000,
+  // This API has one caller (the backend proxy), so IP-based limiting is pointless —
+  // all traffic comes from a single address.
+  max: 5000,
   standardHeaders: true,
   legacyHeaders: false,
   message: { error: "Too many requests, please try again later." }
