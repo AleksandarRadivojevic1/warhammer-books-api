@@ -13,7 +13,9 @@ const authorSchema = new mongoose.Schema({
     unique: true 
   },
 
-  bio: String
+  bio: String,
+
+  image: String
 }, { timestamps: true });
 
 module.exports = mongoose.model("Author", authorSchema);

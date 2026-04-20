@@ -12,7 +12,7 @@ const escapeRegex = (str) => str.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
 exports.getAuthors = async (req, res, next) => {
   try {
     const page = Math.max(1, parseInt(req.query.page) || 1);
-    const limit = 20;
+    const limit = 50;
     const filter = {};
 
     if (req.query.search) {
@@ -43,6 +43,7 @@ exports.getAuthors = async (req, res, next) => {
         slug: author.slug,
         url: authorUrl(author.slug),
         bio: author.bio,
+        image: author.image || null,
       })),
     });
 
@@ -75,6 +76,7 @@ exports.getAuthorBySlug = async (req, res, next) => {
       name: author.name,
       slug: author.slug,
       bio: author.bio,
+      image: author.image || null,
       books: books.map((book) => ({
         title: book.title,
         url: bookUrl(book.slug),

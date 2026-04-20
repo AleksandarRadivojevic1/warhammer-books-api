@@ -13,7 +13,7 @@ const VALID_STATUSES = ["Alive", "Dead", "Missing", "Unknown"];
 exports.getPrimarchs = async (req, res, next) => {
   try {
     const page = Math.max(1, parseInt(req.query.page) || 1);
-    const limit = 10;
+    const limit = 20;
     const filter = {};
 
     if (req.query.alignment) {
@@ -61,6 +61,7 @@ exports.getPrimarchs = async (req, res, next) => {
         status: p.status,
         fate: p.fate,
         alignment: p.alignment,
+        image: p.image || null,
         url: primarchUrl(p.slug),
       })),
     });
@@ -97,6 +98,7 @@ exports.getPrimarchBySlug = async (req, res, next) => {
       status: primarch.status,
       fate: primarch.fate,
       alignment: primarch.alignment,
+      image: primarch.image || null,
       books: books.map((book) => ({
         title: book.title,
         url: bookUrl(book.slug),

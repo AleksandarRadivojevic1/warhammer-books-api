@@ -29,7 +29,9 @@ const primarchSchema = new mongoose.Schema({
   alignment: {
     type: String,
     enum: ["Loyalist", "Traitor", "Imperium"]
-  }
+  },
+
+  image: String
 
 }, { timestamps: true });
 

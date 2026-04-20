@@ -38,7 +38,7 @@ const escapeRegex = (str) => str.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
 exports.getBooks = async (req, res, next) => {
   try {
     const page = Math.max(1, parseInt(req.query.page) || 1);
-    const limit = 10;
+    const limit = 48;
     const filter = {};
 
     // Direct field filters
@@ -73,7 +73,7 @@ exports.getBooks = async (req, res, next) => {
     // Sorting
     const sortField = VALID_SORT_FIELDS.includes(req.query.sort)
       ? req.query.sort
-      : "orderInSeries";
+      : { "orderInSeries" : 1, "_id" : 1 }; // Default sort by order in series, then by _id for consistent ordering  
     const sortOrder = VALID_SORT_ORDERS.includes(req.query.order)
       ? req.query.order
       : "asc";
