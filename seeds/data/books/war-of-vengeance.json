@@ -1,0 +1,63 @@
+[
+  {
+    "title": "The Great Betrayal",
+    "slug": "the-great-betrayal",
+    "series": "war-of-vengeance",
+    "orderInSeries": 1,
+    "author": "nick-kyme",
+    "pages": 416,
+    "setting": {
+      "era": "Old World",
+      "millennium": "IC"
+    },
+    "description": "The golden age of the dwarfs comes to an end. A diplomatic mission from the High Elves goes catastrophically wrong, an envoy of King Gotrek Starbreaker is murdered, and pride on both sides hardens into open war. The longest conflict the world has ever seen begins with an insult — and blood will answer.",
+    "characters": [
+      { "name": "Gotrek Starbreaker", "slug": "gotrek-starbreaker" }
+    ],
+    "factions": [
+      { "name": "Dwarfs", "slug": "dwarfs" },
+      { "name": "High Elves", "slug": "high-elves" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Master of Dragons",
+    "slug": "master-of-dragons",
+    "series": "war-of-vengeance",
+    "orderInSeries": 2,
+    "author": "chris-wraight",
+    "pages": 416,
+    "setting": {
+      "era": "Old World",
+      "millennium": "IC"
+    },
+    "description": "The war between the dwarfs and the high elves escalates, and Caledor II — the Phoenix King, Master of Dragons — leads his armies to war with all the fury of his noble line. But pride clouds the elves' judgment, and the dwarfs are an enemy who never forget a grudge.",
+    "characters": [
+      { "name": "Caledor II", "slug": "caledor-ii" }
+    ],
+    "factions": [
+      { "name": "High Elves", "slug": "high-elves" },
+      { "name": "Dwarfs", "slug": "dwarfs" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "The Curse of the Phoenix Crown",
+    "slug": "the-curse-of-the-phoenix-crown",
+    "series": "war-of-vengeance",
+    "orderInSeries": 3,
+    "author": "c-l-werner",
+    "pages": 416,
+    "setting": {
+      "era": "Old World",
+      "millennium": "IC"
+    },
+    "description": "The War of Vengeance reaches its grim climax as the Phoenix Crown — a relic stolen at the start of the conflict and the cause of so much bloodshed — returns to the heart of the war. Gods, kings and generations of warriors pay the price of a feud neither side can let go.",
+    "characters": [],
+    "factions": [
+      { "name": "Dwarfs", "slug": "dwarfs" },
+      { "name": "High Elves", "slug": "high-elves" }
+    ],
+    "primarchs": []
+  }
+]

@@ -87,7 +87,7 @@
     "description": "In the great twin-tailed city of Hammerhal, a witch hunter pursues a trail of dark magic that leads deep into the heart of the city's underworld. Intrigue, murder and forbidden sorcery lurk in every shadow as the investigation uncovers a conspiracy that could bring the city to ruin.",
     "characters": [],
     "factions": [
-      { "name": "Imperium", "slug": "imperium" },
+      { "name": "Cities of Sigmar", "slug": "cities-of-sigmar" },
       { "name": "Chaos", "slug": "chaos" }
     ],
     "primarchs": []

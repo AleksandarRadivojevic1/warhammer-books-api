@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Ruin",
+    "slug": "ruin-twice-dead-king",
+    "series": "twice-dead-king",
+    "orderInSeries": 1,
+    "author": "nate-crowley",
+    "pages": 320,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Oltyx, an exiled necron prince relegated to a crumbling frontier world, watches his dynasty rot around him as the galaxy wakes from the Great Sleep. When disaster strikes his holdings, Oltyx must abandon his exile and fight not just to survive but to reclaim a throne he thought lost forever.",
+    "characters": [
+      { "name": "Oltyx", "slug": "oltyx" }
+    ],
+    "factions": [
+      { "name": "Necrons", "slug": "necrons" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Reign",
+    "slug": "reign-twice-dead-king",
+    "series": "twice-dead-king",
+    "orderInSeries": 2,
+    "author": "nate-crowley",
+    "pages": 320,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Oltyx returns to the crown world of his dynasty as its rightful ruler, only to find that reign is as perilous as exile. Ancient enemies, traitorous nobles and the slow, grinding entropy of necron existence all conspire against him — and Oltyx learns that the throne he fought for may not be the throne he wants.",
+    "characters": [
+      { "name": "Oltyx", "slug": "oltyx" }
+    ],
+    "factions": [
+      { "name": "Necrons", "slug": "necrons" }
+    ],
+    "primarchs": []
+  }
+]

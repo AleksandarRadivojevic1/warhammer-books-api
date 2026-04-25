@@ -1,0 +1,41 @@
+[
+  {
+    "title": "Spear of Shadows",
+    "slug": "spear-of-shadows",
+    "series": "eight-lamentations",
+    "orderInSeries": 1,
+    "author": "josh-reynolds",
+    "pages": 320,
+    "setting": {
+      "era": "Age of Sigmar",
+      "millennium": "Age of Sigmar"
+    },
+    "description": "Eight terrible weapons, forged in the lost age of myth, have been scattered across the Mortal Realms. The first — the Spear of Shadows — is sought by both the forces of Order and the servants of Chaos, and the race to claim it sets off a war that will echo across all eight Lamentations.",
+    "characters": [],
+    "factions": [
+      { "name": "Stormcast Eternals", "slug": "stormcast-eternals" },
+      { "name": "Fyreslayers", "slug": "fyreslayers" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Lady of Sorrows",
+    "slug": "lady-of-sorrows",
+    "series": "eight-lamentations",
+    "orderInSeries": 2,
+    "author": "c-l-werner",
+    "pages": 288,
+    "setting": {
+      "era": "Age of Sigmar",
+      "millennium": "Age of Sigmar"
+    },
+    "description": "A novella continuation of the Eight Lamentations saga. Another of the lost weapons surfaces in the darkest corners of the Mortal Realms, drawing heroes, monsters and fanatics into its orbit as the hunt for the cursed armaments grows ever deadlier.",
+    "characters": [],
+    "factions": [
+      { "name": "Stormcast Eternals", "slug": "stormcast-eternals" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "primarchs": []
+  }
+]

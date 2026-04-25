@@ -1,0 +1,45 @@
+[
+  {
+    "title": "Storm of Iron",
+    "slug": "storm-of-iron",
+    "series": "iron-warriors",
+    "orderInSeries": 1,
+    "author": "graham-mcneill",
+    "pages": 304,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Warsmith Honsou of the Iron Warriors leads an assault on the Hydra Cordatus citadel — an Imperial fortress defended by tenacious Guardsmen and a handful of Imperial Fists. What unfolds is a merciless siege in the grand tradition of the Iron Warriors: methodical, attritional, and utterly without mercy.",
+    "characters": [
+      { "name": "Honsou", "slug": "honsou" }
+    ],
+    "factions": [
+      { "name": "Iron Warriors", "slug": "iron-warriors" },
+      { "name": "Imperial Fists", "slug": "imperial-fists" },
+      { "name": "Astra Militarum", "slug": "astra-militarum" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Iron Warriors: The Omnibus",
+    "slug": "iron-warriors-the-omnibus",
+    "series": "iron-warriors",
+    "orderInSeries": 2,
+    "author": "graham-mcneill",
+    "pages": 768,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "An omnibus collecting Iron Warriors short fiction and novellas — including the novel The Iron Warriors, the novella Iron Warrior, and multiple short stories chronicling Honsou's warband across decades of raids, betrayals and sieges. A definitive portrait of Perturabo's sons in the post-Heresy era.",
+    "characters": [
+      { "name": "Honsou", "slug": "honsou" }
+    ],
+    "factions": [
+      { "name": "Iron Warriors", "slug": "iron-warriors" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "primarchs": []
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "title": "Dead Winter",
+    "slug": "dead-winter",
+    "series": "the-black-plague",
+    "orderInSeries": 1,
+    "author": "c-l-werner",
+    "pages": 416,
+    "setting": {
+      "era": "Old World",
+      "millennium": "IC"
+    },
+    "description": "In the twilight of the twelfth century, a creeping pestilence seeps into the streets of Altdorf and spreads outward across the Empire. The Black Plague is the Skaven's most terrible weapon — and as the dead pile in the streets, Emperor Boris Goldgather schemes for his own survival while the ratmen below gnaw at the foundations of civilisation.",
+    "characters": [
+      { "name": "Boris Goldgather", "slug": "boris-goldgather" }
+    ],
+    "factions": [
+      { "name": "Empire", "slug": "empire" },
+      { "name": "Skaven", "slug": "skaven" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Blighted Empire",
+    "slug": "blighted-empire",
+    "series": "the-black-plague",
+    "orderInSeries": 2,
+    "author": "c-l-werner",
+    "pages": 416,
+    "setting": {
+      "era": "Old World",
+      "millennium": "IC"
+    },
+    "description": "The plague spreads unchecked. Whole cities lie abandoned to the dead, nobility collapses into infighting, and the Skaven armies of Clan Pestilens prepare to surge up from the sewers and claim what is left. A dying world awaits those brave — or desperate — enough to fight back.",
+    "characters": [],
+    "factions": [
+      { "name": "Empire", "slug": "empire" },
+      { "name": "Skaven", "slug": "skaven" },
+      { "name": "Undead", "slug": "undead" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Wolf of Sigmar",
+    "slug": "wolf-of-sigmar",
+    "series": "the-black-plague",
+    "orderInSeries": 3,
+    "author": "c-l-werner",
+    "pages": 416,
+    "setting": {
+      "era": "Old World",
+      "millennium": "IC"
+    },
+    "description": "Mandred Skavenslayer — a young, angry prince of Middenheim — rallies the shattered provinces of the Empire for a reckoning against the ratmen. His war of vengeance will write his name into legend as the Wolf of Sigmar, saviour of mankind and slayer of skaven.",
+    "characters": [
+      { "name": "Mandred Skavenslayer", "slug": "mandred-skavenslayer" }
+    ],
+    "factions": [
+      { "name": "Empire", "slug": "empire" },
+      { "name": "Skaven", "slug": "skaven" }
+    ],
+    "primarchs": []
+  }
+]

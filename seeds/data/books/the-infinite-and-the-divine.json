@@ -1,0 +1,23 @@
+[
+  {
+    "title": "The Infinite and the Divine",
+    "slug": "the-infinite-and-the-divine",
+    "series": "the-infinite-and-the-divine",
+    "orderInSeries": 1,
+    "author": "robert-rath",
+    "pages": 416,
+    "setting": {
+      "era": "Pre-Imperium",
+      "millennium": "M30"
+    },
+    "description": "Across millions of years, two necron nobles — the warrior Trazyn the Infinite and the cryptek Orikan the Diviner — wage a bitter rivalry over a relic that could unlock the secrets of the universe. Their petty, grand and absurd feud spans the rise and fall of civilisations, and proves that even immortal undead gods are not above holding a grudge.",
+    "characters": [
+      { "name": "Trazyn the Infinite", "slug": "trazyn-the-infinite" },
+      { "name": "Orikan the Diviner", "slug": "orikan-the-diviner" }
+    ],
+    "factions": [
+      { "name": "Necrons", "slug": "necrons" }
+    ],
+    "primarchs": []
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "title": "The Carrion Throne",
+    "slug": "the-carrion-throne",
+    "series": "vaults-of-terra",
+    "orderInSeries": 1,
+    "author": "chris-wraight",
+    "pages": 320,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Inquisitor Erasmus Crowl of the Ordo Hereticus walks the labyrinthine hab-layers of Terra — the sacred, rotting Throneworld — hunting a heresy that threatens to eat the Imperium from within. His investigation takes him from the gilded halls of the High Lords to the forgotten underdepths where ten thousand years of Imperial history lie buried.",
+    "characters": [
+      { "name": "Erasmus Crowl", "slug": "erasmus-crowl" },
+      { "name": "Luce Spinoza", "slug": "luce-spinoza" }
+    ],
+    "factions": [
+      { "name": "Inquisition", "slug": "inquisition" },
+      { "name": "Imperium", "slug": "imperium" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "The Hollow Mountain",
+    "slug": "the-hollow-mountain",
+    "series": "vaults-of-terra",
+    "orderInSeries": 2,
+    "author": "chris-wraight",
+    "pages": 320,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Crowl and Spinoza dig deeper into the conspiracy that snakes through the Palace itself, following leads into the hollow mountain at Terra's heart. Every answer exposes a darker question, and the allies they once trusted may be part of the heresy they hunt.",
+    "characters": [
+      { "name": "Erasmus Crowl", "slug": "erasmus-crowl" },
+      { "name": "Luce Spinoza", "slug": "luce-spinoza" }
+    ],
+    "factions": [
+      { "name": "Inquisition", "slug": "inquisition" },
+      { "name": "Imperium", "slug": "imperium" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "The Dark City",
+    "slug": "the-dark-city",
+    "series": "vaults-of-terra",
+    "orderInSeries": 3,
+    "author": "chris-wraight",
+    "pages": 320,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "The trilogy's conclusion sends Crowl and Spinoza beyond Terra on a journey that will expose the ultimate rot at the heart of the Imperium. In the webway beyond the Throneworld, ancient enemies and older truths wait — and no Inquisitor comes back from the dark city unchanged.",
+    "characters": [
+      { "name": "Erasmus Crowl", "slug": "erasmus-crowl" },
+      { "name": "Luce Spinoza", "slug": "luce-spinoza" }
+    ],
+    "factions": [
+      { "name": "Inquisition", "slug": "inquisition" },
+      { "name": "Aeldari", "slug": "aeldari" },
+      { "name": "Dark Eldar", "slug": "dark-eldar" }
+    ],
+    "primarchs": []
+  }
+]

@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Nightbringer",
+    "slug": "nightbringer",
+    "series": "ultramarines",
+    "orderInSeries": 1,
+    "author": "graham-mcneill",
+    "pages": 416,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Captain Uriel Ventris of the Ultramarines is newly appointed to lead the Fourth Company. Sent to the world of Pavonis to investigate unrest and mysterious attacks, he uncovers an Eldar plot to prevent the awakening of an ancient Necron C'tan — the Nightbringer itself.",
+    "characters": [
+      { "name": "Uriel Ventris", "slug": "uriel-ventris" }
+    ],
+    "factions": [
+      { "name": "Ultramarines", "slug": "ultramarines" },
+      { "name": "Eldar", "slug": "eldar" },
+      { "name": "Necrons", "slug": "necrons" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Warriors of Ultramar",
+    "slug": "warriors-of-ultramar",
+    "series": "ultramarines",
+    "orderInSeries": 2,
+    "author": "graham-mcneill",
+    "pages": 416,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Uriel Ventris and the Ultramarines are dispatched to the isolated world of Tarsis Ultra where a Tyranid splinter fleet is closing in. Alongside Imperial Guard and allied Chapters, the Ultramarines must devise an unorthodox defence against a hive fleet that outnumbers them beyond reckoning.",
+    "characters": [
+      { "name": "Uriel Ventris", "slug": "uriel-ventris" }
+    ],
+    "factions": [
+      { "name": "Ultramarines", "slug": "ultramarines" },
+      { "name": "Tyranids", "slug": "tyranids" },
+      { "name": "Astra Militarum", "slug": "astra-militarum" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Dead Sky, Black Sun",
+    "slug": "dead-sky-black-sun",
+    "series": "ultramarines",
+    "orderInSeries": 3,
+    "author": "graham-mcneill",
+    "pages": 416,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Declared death-oathed for breaking the Codex Astartes, Uriel Ventris and his battle-brother Pasanius are exiled into the Eye of Terror itself. In the heart of the Iron Warriors' domain they must survive a nightmare realm, confront the daemon-forge of Honsou, and find a path back from damnation.",
+    "characters": [
+      { "name": "Uriel Ventris", "slug": "uriel-ventris" },
+      { "name": "Honsou", "slug": "honsou" }
+    ],
+    "factions": [
+      { "name": "Ultramarines", "slug": "ultramarines" },
+      { "name": "Iron Warriors", "slug": "iron-warriors" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "The Killing Ground",
+    "slug": "the-killing-ground",
+    "series": "ultramarines",
+    "orderInSeries": 4,
+    "author": "graham-mcneill",
+    "pages": 416,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Returned from the Eye of Terror, Uriel and Pasanius must prove they are still Ultramarines. Their death-oath leads them to Salinas — a world recovering from a failed Imperial compliance — where a rebellion stirs, a witch hunter pursues them, and the sins of the Imperium's past refuse to stay buried.",
+    "characters": [
+      { "name": "Uriel Ventris", "slug": "uriel-ventris" }
+    ],
+    "factions": [
+      { "name": "Ultramarines", "slug": "ultramarines" },
+      { "name": "Inquisition", "slug": "inquisition" },
+      { "name": "Imperium", "slug": "imperium" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Courage and Honour",
+    "slug": "courage-and-honour",
+    "series": "ultramarines",
+    "orderInSeries": 5,
+    "author": "graham-mcneill",
+    "pages": 416,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Uriel Ventris is restored to command of the Fourth Company, just in time to defend the world of Pavonis from a Tau invasion. As the xenos advance and the Ultramarines prepare for a grinding war, old enemies from Uriel's past return to settle scores that were never properly finished.",
+    "characters": [
+      { "name": "Uriel Ventris", "slug": "uriel-ventris" }
+    ],
+    "factions": [
+      { "name": "Ultramarines", "slug": "ultramarines" },
+      { "name": "Tau Empire", "slug": "tau-empire" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "The Chapter's Due",
+    "slug": "the-chapters-due",
+    "series": "ultramarines",
+    "orderInSeries": 6,
+    "author": "graham-mcneill",
+    "pages": 416,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Honsou, the half-breed Iron Warrior, has sworn to destroy the Ultramarines for what Uriel Ventris did in the Eye of Terror. He raises a vast warband and marches on Ultramar itself, plunging Guilliman's realm into its darkest hour since the fall of Calth. The sons of the Thirteenth must muster every ally they have to save their home.",
+    "characters": [
+      { "name": "Uriel Ventris", "slug": "uriel-ventris" },
+      { "name": "Honsou", "slug": "honsou" },
+      { "name": "Marneus Calgar", "slug": "marneus-calgar" }
+    ],
+    "factions": [
+      { "name": "Ultramarines", "slug": "ultramarines" },
+      { "name": "Iron Warriors", "slug": "iron-warriors" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "primarchs": []
+  }
+]

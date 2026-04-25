@@ -1,0 +1,114 @@
+[
+  {
+    "title": "Realmslayer",
+    "slug": "realmslayer",
+    "series": "gotrek-aos",
+    "orderInSeries": 1,
+    "author": "david-guymer",
+    "pages": 208,
+    "setting": {
+      "era": "Age of Sigmar",
+      "millennium": "Age of Sigmar"
+    },
+    "description": "Gotrek Gurnisson, the last of the Slayers, walks the Mortal Realms — dragged forward from the World-That-Was by forces he does not understand. Armed with the rune-hammer Zangrom-Thaz and as bitter as ever, the Doomseeker searches for Felix Jaeger, for his doom, and for a way to make sense of the ruin of everything he knew.",
+    "characters": [
+      { "name": "Gotrek Gurnisson", "slug": "gotrek-gurnisson" },
+      { "name": "Maleneth Witchblade", "slug": "maleneth-witchblade" }
+    ],
+    "factions": [
+      { "name": "Fyreslayers", "slug": "fyreslayers" },
+      { "name": "Daughters of Khaine", "slug": "daughters-of-khaine" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Ghoulslayer",
+    "slug": "ghoulslayer",
+    "series": "gotrek-aos",
+    "orderInSeries": 2,
+    "author": "darius-hinks",
+    "pages": 304,
+    "setting": {
+      "era": "Age of Sigmar",
+      "millennium": "Age of Sigmar"
+    },
+    "description": "Gotrek and the aelf assassin Maleneth Witchblade plunge into the plague-ridden cities of Shyish, where the Flesh-eater Courts reign and Nagash's dominion is absolute. In a realm of delusional cannibal knights and restless dead, the Doomseeker finds an enemy he can almost respect — almost.",
+    "characters": [
+      { "name": "Gotrek Gurnisson", "slug": "gotrek-gurnisson" },
+      { "name": "Maleneth Witchblade", "slug": "maleneth-witchblade" }
+    ],
+    "factions": [
+      { "name": "Flesh-eater Courts", "slug": "flesh-eater-courts" },
+      { "name": "Daughters of Khaine", "slug": "daughters-of-khaine" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Gitslayer",
+    "slug": "gitslayer",
+    "series": "gotrek-aos",
+    "orderInSeries": 3,
+    "author": "darius-hinks",
+    "pages": 320,
+    "setting": {
+      "era": "Age of Sigmar",
+      "millennium": "Age of Sigmar"
+    },
+    "description": "Gotrek stalks the underworlds in search of a lost duardin hold, hunted by gitmob grots and pursued by enemies from his own past. Maleneth's patience with the stubborn Slayer is tested to breaking point as they descend into the green madness of the grots' subterranean domain.",
+    "characters": [
+      { "name": "Gotrek Gurnisson", "slug": "gotrek-gurnisson" },
+      { "name": "Maleneth Witchblade", "slug": "maleneth-witchblade" }
+    ],
+    "factions": [
+      { "name": "Fyreslayers", "slug": "fyreslayers" },
+      { "name": "Gloomspite Gitz", "slug": "gloomspite-gitz" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Soulslayer",
+    "slug": "soulslayer",
+    "series": "gotrek-aos",
+    "orderInSeries": 4,
+    "author": "darius-hinks",
+    "pages": 320,
+    "setting": {
+      "era": "Age of Sigmar",
+      "millennium": "Age of Sigmar"
+    },
+    "description": "Gotrek's quest to understand the Mortal Realms — and his own place in them — leads him into confrontation with the armies of Slaanesh. Maleneth's secret allegiances come to a head as the Slayer faces the seductive horrors of the Dark Prince's followers.",
+    "characters": [
+      { "name": "Gotrek Gurnisson", "slug": "gotrek-gurnisson" },
+      { "name": "Maleneth Witchblade", "slug": "maleneth-witchblade" }
+    ],
+    "factions": [
+      { "name": "Fyreslayers", "slug": "fyreslayers" },
+      { "name": "Hedonites of Slaanesh", "slug": "hedonites-of-slaanesh" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Blightslayer",
+    "slug": "blightslayer",
+    "series": "gotrek-aos",
+    "orderInSeries": 5,
+    "author": "richard-strachan",
+    "pages": 320,
+    "setting": {
+      "era": "Age of Sigmar",
+      "millennium": "Age of Sigmar"
+    },
+    "description": "Gotrek and Maleneth journey into the rotting heart of Nurgle's domain, where plague-ridden cults and the rancid legions of the Plaguefather defile the Mortal Realms. Nothing in the Doomseeker's life has prepared him for the patient, smiling horror of the Grandfather — and his hammer has a long afternoon of work ahead of it.",
+    "characters": [
+      { "name": "Gotrek Gurnisson", "slug": "gotrek-gurnisson" },
+      { "name": "Maleneth Witchblade", "slug": "maleneth-witchblade" }
+    ],
+    "factions": [
+      { "name": "Maggotkin of Nurgle", "slug": "maggotkin-of-nurgle" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "primarchs": []
+  }
+]

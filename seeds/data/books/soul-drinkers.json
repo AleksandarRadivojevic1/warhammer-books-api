@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Soul Drinker",
+    "slug": "soul-drinker",
+    "series": "soul-drinkers",
+    "orderInSeries": 1,
+    "author": "ben-counter",
+    "pages": 288,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "The Soul Drinkers, a proud successor Chapter of the Imperial Fists, recover the Soulspear — a long-lost relic of their founder. When the Inquisition moves to take it from them, betrayal and bloodshed set the Chapter on a path that will see them branded Excommunicate Traitoris.",
+    "characters": [
+      { "name": "Sarpedon", "slug": "sarpedon" }
+    ],
+    "factions": [
+      { "name": "Soul Drinkers", "slug": "soul-drinkers" },
+      { "name": "Imperium", "slug": "imperium" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "The Bleeding Chalice",
+    "slug": "the-bleeding-chalice",
+    "series": "soul-drinkers",
+    "orderInSeries": 2,
+    "author": "ben-counter",
+    "pages": 256,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Mutated by an unknown affliction and hunted by the Imperium, the Soul Drinkers search for a cure for the curse that is consuming their Chapter. Chapter Master Sarpedon leads his battle-brothers on a quest that will take them to the edge of damnation — and beyond.",
+    "characters": [
+      { "name": "Sarpedon", "slug": "sarpedon" }
+    ],
+    "factions": [
+      { "name": "Soul Drinkers", "slug": "soul-drinkers" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Crimson Tears",
+    "slug": "crimson-tears",
+    "series": "soul-drinkers",
+    "orderInSeries": 3,
+    "author": "ben-counter",
+    "pages": 256,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Sarpedon and the Soul Drinkers confront an Imperial Assassin and the machinations of an Inquisitor who has spent years plotting their destruction. As the Chapter fights for survival, the line between renegade and traitor blurs with every choice they make.",
+    "characters": [
+      { "name": "Sarpedon", "slug": "sarpedon" }
+    ],
+    "factions": [
+      { "name": "Soul Drinkers", "slug": "soul-drinkers" },
+      { "name": "Inquisition", "slug": "inquisition" },
+      { "name": "Officio Assassinorum", "slug": "officio-assassinorum" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Chapter War",
+    "slug": "chapter-war",
+    "series": "soul-drinkers",
+    "orderInSeries": 4,
+    "author": "ben-counter",
+    "pages": 320,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "A rival faction of Soul Drinkers splinters from Sarpedon's force, and what begins as a schism becomes a full Chapter war. Brother fights brother across ruined worlds as the Chapter's soul is contested by those who would reclaim their loyalty to the Imperium and those who will not.",
+    "characters": [
+      { "name": "Sarpedon", "slug": "sarpedon" }
+    ],
+    "factions": [
+      { "name": "Soul Drinkers", "slug": "soul-drinkers" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Hellforged",
+    "slug": "hellforged",
+    "series": "soul-drinkers",
+    "orderInSeries": 5,
+    "author": "ben-counter",
+    "pages": 320,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "The Soul Drinkers raid a daemon world, seeking ancient weapons with which to fight the Imperium that has branded them traitors. In the forges of hell, Sarpedon's Chapter must descend ever deeper into corruption to survive — and the question becomes whether they can still come back.",
+    "characters": [
+      { "name": "Sarpedon", "slug": "sarpedon" }
+    ],
+    "factions": [
+      { "name": "Soul Drinkers", "slug": "soul-drinkers" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Phalanx",
+    "slug": "phalanx",
+    "series": "soul-drinkers",
+    "orderInSeries": 6,
+    "author": "ben-counter",
+    "pages": 416,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Captured at last, Sarpedon is brought before a tribunal of Imperial Fists aboard their mobile fortress-monastery Phalanx to answer for the crimes of the Soul Drinkers. The final trial of the Chapter becomes a violent reckoning that no Astartes aboard the great ship will forget.",
+    "characters": [
+      { "name": "Sarpedon", "slug": "sarpedon" }
+    ],
+    "factions": [
+      { "name": "Soul Drinkers", "slug": "soul-drinkers" },
+      { "name": "Imperial Fists", "slug": "imperial-fists" }
+    ],
+    "primarchs": []
+  }
+]

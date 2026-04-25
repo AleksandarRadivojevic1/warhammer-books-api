@@ -1,0 +1,63 @@
+[
+  {
+    "title": "The Achilus Assault",
+    "slug": "the-achilus-assault",
+    "series": "deathwatch",
+    "orderInSeries": 1,
+    "author": "steve-parker",
+    "pages": 416,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "The Jericho Reach is a vast warzone on the edge of Imperial space where Tyranids, Orks and Chaos press in from every side. Deathwatch kill-teams are deployed across the Reach's myriad warzones, each mission a surgical strike against xenos threats no ordinary Astartes can handle.",
+    "characters": [],
+    "factions": [
+      { "name": "Deathwatch", "slug": "deathwatch" },
+      { "name": "Tyranids", "slug": "tyranids" },
+      { "name": "Orks", "slug": "orks" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Deathwatch",
+    "slug": "deathwatch-novel",
+    "series": "deathwatch",
+    "orderInSeries": 2,
+    "author": "steve-parker",
+    "pages": 416,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Talon Squad — a Deathwatch kill-team assembled from warriors of different Chapters — is dispatched to an isolated world where Tyranid genestealers have infiltrated the population. Their mission demands not just combat skill but the hardest of all Astartes virtues: the ability to work as brothers across Chapter lines.",
+    "characters": [
+      { "name": "Karras", "slug": "karras" }
+    ],
+    "factions": [
+      { "name": "Deathwatch", "slug": "deathwatch" },
+      { "name": "Tyranids", "slug": "tyranids" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Warzone Damocles",
+    "slug": "warzone-damocles",
+    "series": "deathwatch",
+    "orderInSeries": 3,
+    "author": "various",
+    "pages": 512,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "An anthology of Deathwatch stories set during the Damocles Gulf Crusade and its aftermath. Multiple kill-teams, multiple worlds — each tale a surgical strike by the Imperium's specialist xenos hunters against Tau, Tyranids and stranger foes on the Eastern Fringe.",
+    "characters": [],
+    "factions": [
+      { "name": "Deathwatch", "slug": "deathwatch" },
+      { "name": "Tau Empire", "slug": "tau-empire" },
+      { "name": "Tyranids", "slug": "tyranids" }
+    ],
+    "primarchs": []
+  }
+]

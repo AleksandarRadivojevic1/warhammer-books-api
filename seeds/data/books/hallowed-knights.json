@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Plague Garden",
+    "slug": "plague-garden-hallowed-knights",
+    "series": "hallowed-knights",
+    "orderInSeries": 1,
+    "author": "josh-reynolds",
+    "pages": 320,
+    "setting": {
+      "era": "Age of Sigmar",
+      "millennium": "Age of Sigmar"
+    },
+    "description": "Lord-Castellant Gardus Steel Soul leads a warrior chamber of the Hallowed Knights into the Garden of Nurgle itself — the festering pocket realm at the heart of the Realm of Life — to rescue a captured Lord-Relictor. What they find in that paradise of rot will test the limits of faith and immortality alike.",
+    "characters": [
+      { "name": "Gardus Steel Soul", "slug": "gardus-steel-soul" }
+    ],
+    "factions": [
+      { "name": "Stormcast Eternals", "slug": "stormcast-eternals" },
+      { "name": "Maggotkin of Nurgle", "slug": "maggotkin-of-nurgle" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Black Pyramid",
+    "slug": "black-pyramid-hallowed-knights",
+    "series": "hallowed-knights",
+    "orderInSeries": 2,
+    "author": "josh-reynolds",
+    "pages": 409,
+    "setting": {
+      "era": "Age of Sigmar",
+      "millennium": "Age of Sigmar"
+    },
+    "description": "In the aftermath of the Necroquake, the Hallowed Knights venture into Shyish in search of a mysterious black pyramid that may hold the key to understanding Nagash's apocalyptic design. The Realm of Death is no place for the living — but for Sigmar's reforged, it is no place for the dead either.",
+    "characters": [
+      { "name": "Gardus Steel Soul", "slug": "gardus-steel-soul" }
+    ],
+    "factions": [
+      { "name": "Stormcast Eternals", "slug": "stormcast-eternals" },
+      { "name": "Nighthaunt", "slug": "nighthaunt" },
+      { "name": "Ossiarch Bonereapers", "slug": "ossiarch-bonereapers" }
+    ],
+    "primarchs": []
+  }
+]

@@ -277,6 +277,139 @@ module.exports = async () => {
       order: 42,
       description: "The Rise of Nagash trilogy by Mike Lee chronicles the origins of the Great Necromancer — from his birth as a Nehekharan prince to his monstrous transformation into the world's most powerful undead sorcerer and his relentless war to conquer the known world."
     },
+    {
+      name: "Dark Imperium",
+      slug: "dark-imperium",
+      era: "42nd Millennium",
+      order: 43,
+      description: "Guy Haley's Dark Imperium trilogy follows the resurrected Primarch Roboute Guilliman as his Indomitus Crusade confronts the Death Guard of Mortarion in the Plague Wars of Ultramar — a generational reckoning between loyal and traitor brothers a hundred years after the Great Rift."
+    },
+    {
+      name: "Watchers of the Throne",
+      slug: "watchers-of-the-throne",
+      era: "41st Millennium",
+      order: 44,
+      description: "Chris Wraight's Watchers of the Throne duology takes the reader inside the Imperial Palace in the chaos of the post-Cadia era, following a Custodian and a Sister of Silence as the Emperor's personal legion steps out of the shadows for the first time in millennia."
+    },
+    {
+      name: "Vaults of Terra",
+      slug: "vaults-of-terra",
+      era: "41st Millennium",
+      order: 45,
+      description: "Chris Wraight's Vaults of Terra trilogy follows Inquisitor Erasmus Crowl through the sacred rot of the Throneworld, tracing a heretical conspiracy from the High Lords' halls into the hollow mountain at Terra's heart and beyond."
+    },
+    {
+      name: "Ultramarines",
+      slug: "ultramarines",
+      era: "41st Millennium",
+      order: 46,
+      description: "Graham McNeill's original Ultramarines series — sometimes known as The Chronicles of Uriel Ventris — follows Captain Uriel Ventris and the Fourth Company through the defining campaigns of their career: from Tyranid swarms and Necron awakenings to exile in the Eye of Terror and the return of the Iron Warrior Honsou."
+    },
+    {
+      name: "Grey Knights",
+      slug: "grey-knights",
+      era: "41st Millennium",
+      order: 47,
+      description: "Ben Counter's Grey Knights trilogy follows Justicar Alaric of the Chamber Militant of the Ordo Malleus as he leads his squad into the most horrific corners of the galaxy, hunting daemons and the servants of Chaos with the purest warriors the Imperium has ever produced."
+    },
+    {
+      name: "Blood Angels",
+      slug: "blood-angels",
+      era: "41st Millennium",
+      order: 48,
+      description: "James Swallow's Blood Angels series follows Brother Rafen through the Deus Encarmine / Deus Sanguinius arc and the Red Fury / Black Tide sequel novels — a saga of heresy, the Red Thirst and the bond between brothers of the sons of Sanguinius."
+    },
+    {
+      name: "Space Wolf",
+      slug: "space-wolf",
+      era: "41st Millennium",
+      order: 49,
+      description: "William King's original Space Wolf series (continued by Lee Lightner) follows Ragnar Blackmane from young Fenrisian warrior to celebrated hero of the Rout — a saga of wolf-blood, honour and the relentless pursuit of ancient enemies across the galaxy."
+    },
+    {
+      name: "Iron Warriors",
+      slug: "iron-warriors",
+      era: "41st Millennium",
+      order: 50,
+      description: "Graham McNeill's Iron Warriors books — including the novel Storm of Iron and the Iron Warriors Omnibus — chronicle the sieges, raids and grudges of Warsmith Honsou's warband, the greatest post-Heresy portrait of Perturabo's embittered sons."
+    },
+    {
+      name: "Soul Drinkers",
+      slug: "soul-drinkers",
+      era: "41st Millennium",
+      order: 51,
+      description: "Ben Counter's Soul Drinkers hexalogy follows Chapter Master Sarpedon as his proud Imperial Fists successor Chapter is branded Excommunicate Traitoris and slides toward damnation and redemption in equal measure — one of Black Library's longest character arcs."
+    },
+    {
+      name: "Deathwatch",
+      slug: "deathwatch",
+      era: "41st Millennium",
+      order: 52,
+      description: "The Deathwatch series — led by Steve Parker and continued by various authors — follows kill-teams of the Chamber Militant of the Ordo Xenos through the Jericho Reach and beyond, hunting the alien threats no single Space Marine Chapter could face alone."
+    },
+    {
+      name: "Twice-Dead King",
+      slug: "twice-dead-king",
+      era: "41st Millennium",
+      order: 53,
+      description: "Nate Crowley's Twice-Dead King duology (Ruin, Reign) follows the exiled necron prince Oltyx as he rises from the broken edges of a crumbling dynasty to claim a throne — a rare and sympathetic portrait of the necron mindset from inside the metal."
+    },
+    {
+      name: "The Infinite and the Divine",
+      slug: "the-infinite-and-the-divine",
+      era: "Pre-Imperium",
+      order: 54,
+      description: "Robert Rath's standalone novel follows the multi-million-year rivalry between the necron nobles Trazyn the Infinite and Orikan the Diviner — a darkly comic, deeply strange look at immortal petty spite across the rise and fall of civilisations."
+    },
+    {
+      name: "Gotrek Gurnisson",
+      slug: "gotrek-aos",
+      era: "Age of Sigmar",
+      order: 55,
+      description: "The Age of Sigmar continuation of the Gotrek saga — beginning with Realmslayer by David Guymer and continued by Darius Hinks and Richard Strachan — follows the last Slayer, hurled forward into the Mortal Realms, as he searches for Felix Jaeger, for his doom, and for the meaning of a world he barely understands."
+    },
+    {
+      name: "Hallowed Knights",
+      slug: "hallowed-knights",
+      era: "Age of Sigmar",
+      order: 56,
+      description: "Josh Reynolds's Hallowed Knights novels follow Lord-Castellant Gardus Steel Soul and his Stormcast warrior chamber through the worst of Nurgle's and Nagash's domains — Plague Garden and Black Pyramid, two tales of the most indomitable warriors Sigmar ever forged."
+    },
+    {
+      name: "Eight Lamentations",
+      slug: "eight-lamentations",
+      era: "Age of Sigmar",
+      order: 57,
+      description: "An Age of Sigmar meta-series launched by Josh Reynolds's Spear of Shadows, following the hunt for eight cursed weapons scattered across the Mortal Realms by Chaos champions and hunted by heroes of Order."
+    },
+    {
+      name: "The Black Plague",
+      slug: "the-black-plague",
+      era: "Old World",
+      order: 58,
+      description: "C.L. Werner's Black Plague trilogy (Dead Winter, Blighted Empire, Wolf of Sigmar) chronicles the Skaven plague that almost destroyed the Empire in the twelfth century — a Time of Legends epic of civic collapse, ratmen schemes and the rise of Mandred Skavenslayer."
+    },
+    {
+      name: "War of Vengeance",
+      slug: "war-of-vengeance",
+      era: "Old World",
+      order: 59,
+      description: "A Time of Legends trilogy (Nick Kyme / Chris Wraight / C.L. Werner) chronicling the cataclysmic war between the Dwarfs and the High Elves — the grudge that ended the golden age of the Elder Races and shaped the Old World forever after."
+    },
+    {
+      name: "Kharn",
+      slug: "kharn",
+      era: "41st Millennium",
+      order: 60,
+      description: "Anthony Reynolds's Kharn duology (Eater of Worlds, The Red Path) follows the Betrayer himself — chosen of Khorne, living incarnation of rage — as he leads what remains of the Eighth Company of the World Eaters through the galaxy's most violent warzones."
+    },
+    {
+      name: "Macharian Crusade",
+      slug: "macharian-crusade",
+      era: "41st Millennium",
+      order: 61,
+      description: "William King's Macharian Crusade trilogy (Angel of Fire, Fist of Demetrius, Fall of Macharius) chronicles the greatest Imperial crusade since the Emperor's own time, following the Lord Solar and the troopers who marched with him across a thousand reclaimed worlds."
+    },
   ]);
 
   console.log("Series seeded");

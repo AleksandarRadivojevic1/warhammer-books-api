@@ -1,0 +1,129 @@
+[
+  {
+    "title": "Space Wolf",
+    "slug": "space-wolf-novel",
+    "series": "space-wolf",
+    "orderInSeries": 1,
+    "author": "william-king",
+    "pages": 256,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Ragnar, a young Fenrisian warrior, is taken from the wreckage of his tribe's defeat to become an aspirant of the Space Wolves. Enduring the brutal trials of initiation and the Canis Helix, he must prove himself worthy of the wolf-blood — or be devoured by it.",
+    "characters": [
+      { "name": "Ragnar Blackmane", "slug": "ragnar-blackmane" }
+    ],
+    "factions": [
+      { "name": "Space Wolves", "slug": "space-wolves" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Ragnar's Claw",
+    "slug": "ragnars-claw",
+    "series": "space-wolf",
+    "orderInSeries": 2,
+    "author": "william-king",
+    "pages": 256,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Now a Blood Claw, Ragnar and his pack range across the galaxy — from ork warzones to the intrigue of Imperial hive worlds — proving themselves as warriors of the Rout while navigating the wild impulses of their young wolf-blood.",
+    "characters": [
+      { "name": "Ragnar Blackmane", "slug": "ragnar-blackmane" }
+    ],
+    "factions": [
+      { "name": "Space Wolves", "slug": "space-wolves" },
+      { "name": "Orks", "slug": "orks" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Grey Hunter",
+    "slug": "grey-hunter",
+    "series": "space-wolf",
+    "orderInSeries": 3,
+    "author": "william-king",
+    "pages": 256,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Elevated to the ranks of the Grey Hunters, Ragnar leads his pack against the forces of Chaos on Garm — a world where the Thousand Sons pursue a scheme that could shatter an entire system. Ancient hatreds between the sons of Russ and the sons of Magnus flare once more.",
+    "characters": [
+      { "name": "Ragnar Blackmane", "slug": "ragnar-blackmane" }
+    ],
+    "factions": [
+      { "name": "Space Wolves", "slug": "space-wolves" },
+      { "name": "Thousand Sons", "slug": "thousand-sons" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Wolfblade",
+    "slug": "wolfblade",
+    "series": "space-wolf",
+    "orderInSeries": 4,
+    "author": "william-king",
+    "pages": 256,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Assigned to the Wolfblade — the Space Wolf honour guard serving House Belisarius on Terra — Ragnar leaves Fenris behind for the courtly intrigue of the Imperial court. His blade stays hungry, and the enemies who stalk him in gilded halls are every bit as dangerous as any ork or daemon.",
+    "characters": [
+      { "name": "Ragnar Blackmane", "slug": "ragnar-blackmane" }
+    ],
+    "factions": [
+      { "name": "Space Wolves", "slug": "space-wolves" },
+      { "name": "Imperium", "slug": "imperium" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Sons of Fenris",
+    "slug": "sons-of-fenris",
+    "series": "space-wolf",
+    "orderInSeries": 5,
+    "author": "lee-lightner",
+    "pages": 416,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Returning to Fenris after his long exile, Ragnar finds his homeworld under attack and his Chapter facing a new crisis. Treachery stalks the halls of the Fang, and to save his brothers Ragnar must unmask a traitor among the ranks of the Rout itself.",
+    "characters": [
+      { "name": "Ragnar Blackmane", "slug": "ragnar-blackmane" }
+    ],
+    "factions": [
+      { "name": "Space Wolves", "slug": "space-wolves" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Wolf's Honour",
+    "slug": "wolfs-honour",
+    "series": "space-wolf",
+    "orderInSeries": 6,
+    "author": "lee-lightner",
+    "pages": 416,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Ragnar pursues his old enemy Madox of the Thousand Sons across the galaxy as Magnus the Red's schemes come to fruition. The chase leads deep into Chaos-held space, where the fate of Fenris itself may hang on the honour of a single wolf.",
+    "characters": [
+      { "name": "Ragnar Blackmane", "slug": "ragnar-blackmane" }
+    ],
+    "factions": [
+      { "name": "Space Wolves", "slug": "space-wolves" },
+      { "name": "Thousand Sons", "slug": "thousand-sons" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "primarchs": []
+  }
+]

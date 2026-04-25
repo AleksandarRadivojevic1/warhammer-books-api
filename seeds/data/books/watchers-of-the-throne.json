@@ -1,0 +1,48 @@
+[
+  {
+    "title": "The Emperor's Legion",
+    "slug": "the-emperors-legion",
+    "series": "watchers-of-the-throne",
+    "orderInSeries": 1,
+    "author": "chris-wraight",
+    "pages": 320,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "The galaxy is in turmoil. Cadia has fallen, the Great Rift has torn the Imperium in half, and on Terra itself the Custodian Guard — the Emperor's personal legion — must step out from behind the Golden Throne for the first time in millennia. Valerian of the Adeptus Custodes and Aleya of the Sisters of Silence fight to hold the Throneworld as the Imperium teeters on the edge of extinction.",
+    "characters": [
+      { "name": "Valerian", "slug": "valerian" },
+      { "name": "Aleya", "slug": "aleya" }
+    ],
+    "factions": [
+      { "name": "Adeptus Custodes", "slug": "adeptus-custodes" },
+      { "name": "Sisters of Silence", "slug": "sisters-of-silence" },
+      { "name": "Imperium", "slug": "imperium" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "The Regent's Shadow",
+    "slug": "the-regents-shadow",
+    "series": "watchers-of-the-throne",
+    "orderInSeries": 2,
+    "author": "chris-wraight",
+    "pages": 320,
+    "setting": {
+      "era": "42nd Millennium",
+      "millennium": "M42"
+    },
+    "description": "With Guilliman absent on his Indomitus Crusade, the politics of Terra grow more poisonous by the day. The High Lords scheme in the Regent's shadow, the Custodians uncover a conspiracy that could unseat the fragile new order, and Aleya and Valerian must navigate a Palace more dangerous than any warzone.",
+    "characters": [
+      { "name": "Valerian", "slug": "valerian" },
+      { "name": "Aleya", "slug": "aleya" }
+    ],
+    "factions": [
+      { "name": "Adeptus Custodes", "slug": "adeptus-custodes" },
+      { "name": "Sisters of Silence", "slug": "sisters-of-silence" },
+      { "name": "Imperium", "slug": "imperium" }
+    ],
+    "primarchs": []
+  }
+]

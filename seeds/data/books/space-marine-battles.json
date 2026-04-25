@@ -283,10 +283,12 @@
       "era": "41st Millennium",
       "millennium": "M41"
     },
-    "description": "The Ultramarines clash with an Ork Overfiend — a warlord of terrifying power who has united the greenskin tribes of an entire system under his banner. Stopping such a creature before it becomes unstoppable requires a bold strategy and a willingness to take extraordinary risks.",
+    "description": "The Salamanders, White Scars and Raven Guard unite against the Overfiend of Octarius — an Ork warlord whose empire has grown monstrous and unstoppable. Three Chapters, three fighting styles — all brought to bear against the greenskin menace in the Octarius System.",
     "characters": [],
     "factions": [
-      { "name": "Ultramarines", "slug": "ultramarines" },
+      { "name": "Salamanders", "slug": "salamanders" },
+      { "name": "White Scars", "slug": "white-scars" },
+      { "name": "Raven Guard", "slug": "raven-guard" },
       { "name": "Orks", "slug": "orks" }
     ],
     "primarchs": []
@@ -487,16 +489,19 @@
     "slug": "blood-and-fire",
     "series": "space-marine-battles",
     "orderInSeries": 26,
-    "author": "guy-haley",
-    "pages": 416,
+    "author": "aaron-dembski-bowden",
+    "pages": 128,
     "setting": {
       "era": "41st Millennium",
       "millennium": "M41"
     },
-    "description": "High Marshal Helbrecht of the Black Templars leads his crusade in a war of fire and righteous fury. The Black Templars' crusading nature makes them unlike any other Chapter — unbound to a home world, ever-moving, ever-fighting in the Emperor's name across the breadth of the galaxy.",
-    "characters": [],
+    "description": "In the aftermath of the war for Hive Helsreach, Black Templars Chaplain Grimaldus receives a distress call from an old ally. The Celestial Lions have been brought to the brink of extinction — and the evidence points to the Inquisition itself orchestrating their destruction. A novella of brotherhood, suspicion and the secrets the Imperium would rather bury.",
+    "characters": [
+      { "name": "Grimaldus", "slug": "grimaldus" }
+    ],
     "factions": [
       { "name": "Black Templars", "slug": "black-templars" },
+      { "name": "Celestial Lions", "slug": "celestial-lions" },
       { "name": "Orks", "slug": "orks" }
     ],
     "primarchs": []

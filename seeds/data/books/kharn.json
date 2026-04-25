@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Kharn: Eater of Worlds",
+    "slug": "kharn-eater-of-worlds",
+    "series": "kharn",
+    "orderInSeries": 1,
+    "author": "anthony-reynolds",
+    "pages": 208,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Khârn the Betrayer, most feared champion of Khorne, leads the remnants of the Eighth Company of the World Eaters against enemies both ancient and new. Driven by the Butcher's Nails and the endless roar of the Blood God, the Betrayer's bloody legend grows with every skull he takes.",
+    "characters": [
+      { "name": "Khârn the Betrayer", "slug": "kharn-the-betrayer" }
+    ],
+    "factions": [
+      { "name": "World Eaters", "slug": "world-eaters" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Kharn: The Red Path",
+    "slug": "kharn-the-red-path",
+    "series": "kharn",
+    "orderInSeries": 2,
+    "author": "anthony-reynolds",
+    "pages": 320,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Khârn walks the Red Path — the bloody road laid out for him by the Lord of Skulls — deeper into the heart of slaughter. A crusade of butchery takes him across ruined worlds, each battle pulling him further from what little remained of the Astartes he used to be.",
+    "characters": [
+      { "name": "Khârn the Betrayer", "slug": "kharn-the-betrayer" }
+    ],
+    "factions": [
+      { "name": "World Eaters", "slug": "world-eaters" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "primarchs": []
+  }
+]

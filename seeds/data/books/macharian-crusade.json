@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Angel of Fire",
+    "slug": "angel-of-fire",
+    "series": "macharian-crusade",
+    "orderInSeries": 1,
+    "author": "william-king",
+    "pages": 416,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Lord Solar Macharius, greatest general of the Imperium since the Emperor's time, leads a vast crusade to reclaim a thousand lost worlds. Trooper Leo Lemuel and his companions follow Macharius from glory to glory, but every campaign leaves its scars — and the Lord Solar's crusade is just beginning.",
+    "characters": [
+      { "name": "Macharius", "slug": "macharius" },
+      { "name": "Leo Lemuel", "slug": "leo-lemuel" }
+    ],
+    "factions": [
+      { "name": "Astra Militarum", "slug": "astra-militarum" },
+      { "name": "Imperium", "slug": "imperium" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Fist of Demetrius",
+    "slug": "fist-of-demetrius",
+    "series": "macharian-crusade",
+    "orderInSeries": 2,
+    "author": "william-king",
+    "pages": 416,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Macharius pursues his crusade ever deeper into the uncharted east, hunting a sacred relic of a Space Marine Chapter lost in the pogroms of history. Alongside the Lord Solar's armies march Eldar, Dark Eldar raiders and stranger enemies still — and victory becomes ever more expensive.",
+    "characters": [
+      { "name": "Macharius", "slug": "macharius" },
+      { "name": "Leo Lemuel", "slug": "leo-lemuel" }
+    ],
+    "factions": [
+      { "name": "Astra Militarum", "slug": "astra-militarum" },
+      { "name": "Dark Eldar", "slug": "dark-eldar" },
+      { "name": "Imperium", "slug": "imperium" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Fall of Macharius",
+    "slug": "fall-of-macharius",
+    "series": "macharian-crusade",
+    "orderInSeries": 3,
+    "author": "william-king",
+    "pages": 416,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "The Lord Solar's crusade falters. Exhausted, surrounded by enemies and undermined by those who fear his power, Macharius faces his final reckoning. The legend ends in the place all such legends must — in betrayal, in blood, and in a silence the Imperium will remember forever.",
+    "characters": [
+      { "name": "Macharius", "slug": "macharius" },
+      { "name": "Leo Lemuel", "slug": "leo-lemuel" }
+    ],
+    "factions": [
+      { "name": "Astra Militarum", "slug": "astra-militarum" },
+      { "name": "Chaos", "slug": "chaos" },
+      { "name": "Imperium", "slug": "imperium" }
+    ],
+    "primarchs": []
+  }
+]

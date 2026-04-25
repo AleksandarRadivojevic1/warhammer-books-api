@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Dark Imperium",
+    "slug": "dark-imperium",
+    "series": "dark-imperium",
+    "orderInSeries": 1,
+    "author": "guy-haley",
+    "pages": 400,
+    "setting": {
+      "era": "42nd Millennium",
+      "millennium": "M42"
+    },
+    "description": "A hundred years have passed since Roboute Guilliman returned from stasis to take command of the Imperium. Now the resurrected primarch leads his Indomitus Crusade, but the shadow of his long-lost brother Mortarion falls across Ultramar as the Death Guard emerge from the warp to finish what the Horus Heresy began.",
+    "characters": [
+      { "name": "Roboute Guilliman", "slug": "roboute-guilliman" },
+      { "name": "Mortarion", "slug": "mortarion" }
+    ],
+    "factions": [
+      { "name": "Ultramarines", "slug": "ultramarines" },
+      { "name": "Death Guard", "slug": "death-guard" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "primarchs": ["roboute-guilliman", "mortarion"]
+  },
+  {
+    "title": "Plague War",
+    "slug": "plague-war",
+    "series": "dark-imperium",
+    "orderInSeries": 2,
+    "author": "guy-haley",
+    "pages": 400,
+    "setting": {
+      "era": "42nd Millennium",
+      "millennium": "M42"
+    },
+    "description": "Mortarion has come to Ultramar with a host of plague legionaries, intent on transforming Guilliman's realm into a new Garden of Nurgle. The war for Ultramar reaches its bloody zenith as brother faces brother — and Guilliman must confront the terrible truth of what his traitor kin have become.",
+    "characters": [
+      { "name": "Roboute Guilliman", "slug": "roboute-guilliman" },
+      { "name": "Mortarion", "slug": "mortarion" }
+    ],
+    "factions": [
+      { "name": "Ultramarines", "slug": "ultramarines" },
+      { "name": "Death Guard", "slug": "death-guard" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "primarchs": ["roboute-guilliman", "mortarion"]
+  },
+  {
+    "title": "Godblight",
+    "slug": "godblight",
+    "series": "dark-imperium",
+    "orderInSeries": 3,
+    "author": "guy-haley",
+    "pages": 416,
+    "setting": {
+      "era": "42nd Millennium",
+      "millennium": "M42"
+    },
+    "description": "The climax of the Plague War. Guilliman and Mortarion stand at the brink of a confrontation ten thousand years in the making, while Nurgle himself takes an interest in the outcome. Gods walk the mortal plane as the fate of Ultramar — and Guilliman's soul — hangs in the balance.",
+    "characters": [
+      { "name": "Roboute Guilliman", "slug": "roboute-guilliman" },
+      { "name": "Mortarion", "slug": "mortarion" }
+    ],
+    "factions": [
+      { "name": "Ultramarines", "slug": "ultramarines" },
+      { "name": "Death Guard", "slug": "death-guard" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "primarchs": ["roboute-guilliman", "mortarion"]
+  }
+]

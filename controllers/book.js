@@ -71,13 +71,6 @@ exports.getBooks = async (req, res, next) => {
     }
 
     // Sorting
-    const sortField = VALID_SORT_FIELDS.includes(req.query.sort)
-      ? req.query.sort
-      : { "orderInSeries" : 1, "_id" : 1 }; // Default sort by order in series, then by _id for consistent ordering  
-    const sortOrder = VALID_SORT_ORDERS.includes(req.query.order)
-      ? req.query.order
-      : "asc";
-
     if (req.query.sort && !VALID_SORT_FIELDS.includes(req.query.sort)) {
       return res.status(400).json({
         error: `Invalid sort field. Must be one of: ${VALID_SORT_FIELDS.join(", ")}`,
@@ -90,12 +83,17 @@ exports.getBooks = async (req, res, next) => {
       });
     }
 
+    const sortOrder = VALID_SORT_ORDERS.includes(req.query.order) ? req.query.order : "asc";
+    const sort = VALID_SORT_FIELDS.includes(req.query.sort)
+      ? { [req.query.sort]: sortOrder === "asc" ? 1 : -1 }
+      : { orderInSeries: 1, _id: 1 };
+
     const [total, books] = await Promise.all([
       Book.countDocuments(filter),
       Book.find(filter)
         .populate("author", "name slug")
         .populate("series", "name slug")
-        .sort({ [sortField]: sortOrder === "asc" ? 1 : -1 })
+        .sort(sort)
         .skip((page - 1) * limit)
         .limit(limit),
     ]);

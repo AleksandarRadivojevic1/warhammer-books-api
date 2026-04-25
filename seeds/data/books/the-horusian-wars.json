@@ -58,5 +58,35 @@
       }
     ],
     "primarchs": []
+  },
+  {
+    "title": "Divination",
+    "slug": "divination-horusian-wars",
+    "series": "the-horusian-wars",
+    "orderInSeries": 3,
+    "author": "john-french",
+    "pages": 320,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "An anthology of short stories exploring the allies and enemies of Inquisitor Covenant. Setting aside the big picture for a moment, these tales give voice to the warband members, rivals and ghosts that surround Covenant as the Horusian conspiracy grinds on.",
+    "characters": [
+      {
+        "name": "Inquisitor Covenant",
+        "slug": "inquisitor-covenant"
+      }
+    ],
+    "factions": [
+      {
+        "name": "Inquisition",
+        "slug": "inquisition"
+      },
+      {
+        "name": "Chaos",
+        "slug": "chaos"
+      }
+    ],
+    "primarchs": []
   }
 ]

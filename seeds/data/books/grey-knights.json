@@ -1,0 +1,67 @@
+[
+  {
+    "title": "Grey Knights",
+    "slug": "grey-knights-novel",
+    "series": "grey-knights",
+    "orderInSeries": 1,
+    "author": "ben-counter",
+    "pages": 288,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Justicar Alaric of the Grey Knights, the Chamber Militant of the Ordo Malleus, leads his squad against a daemonic incursion on the world of Volcanis Ultor. The Grey Knights are the Imperium's most secret weapon against the daemon — warriors forged in body and spirit to stand where no other Space Marine can.",
+    "characters": [
+      { "name": "Alaric", "slug": "alaric" }
+    ],
+    "factions": [
+      { "name": "Grey Knights", "slug": "grey-knights" },
+      { "name": "Inquisition", "slug": "inquisition" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Dark Adeptus",
+    "slug": "dark-adeptus",
+    "series": "grey-knights",
+    "orderInSeries": 2,
+    "author": "ben-counter",
+    "pages": 288,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "A long-lost forge world re-enters realspace — but the Adeptus Mechanicus who man it have been twisted beyond recognition by ten thousand years in the warp. Alaric and his Grey Knights are dispatched to purge the world before its corrupted technology can be unleashed on the Imperium.",
+    "characters": [
+      { "name": "Alaric", "slug": "alaric" }
+    ],
+    "factions": [
+      { "name": "Grey Knights", "slug": "grey-knights" },
+      { "name": "Adeptus Mechanicus", "slug": "adeptus-mechanicus" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Hammer of Daemons",
+    "slug": "hammer-of-daemons",
+    "series": "grey-knights",
+    "orderInSeries": 3,
+    "author": "ben-counter",
+    "pages": 288,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Alaric is captured and cast into a daemon world where he is forced to fight as a gladiator for the entertainment of Chaos champions. Stripped of his Chapter, his weapons and everything but his faith, he must find a way to turn the arena itself into a blade against his captors.",
+    "characters": [
+      { "name": "Alaric", "slug": "alaric" }
+    ],
+    "factions": [
+      { "name": "Grey Knights", "slug": "grey-knights" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "primarchs": []
+  }
+]

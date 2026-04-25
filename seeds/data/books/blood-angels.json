@@ -1,0 +1,89 @@
+[
+  {
+    "title": "Deus Encarmine",
+    "slug": "deus-encarmine",
+    "series": "blood-angels",
+    "orderInSeries": 1,
+    "author": "james-swallow",
+    "pages": 288,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Brother-Sergeant Rafen and his Blood Angels pursue their former brother Arkio, who has apparently manifested the form and powers of the primarch Sanguinius. Is this an angelic rebirth or the work of Chaos? The Chapter must decide before Arkio's following splits the sons of Sanguinius in two.",
+    "characters": [
+      { "name": "Rafen", "slug": "rafen" },
+      { "name": "Arkio", "slug": "arkio" }
+    ],
+    "factions": [
+      { "name": "Blood Angels", "slug": "blood-angels" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Deus Sanguinius",
+    "slug": "deus-sanguinius",
+    "series": "blood-angels",
+    "orderInSeries": 2,
+    "author": "james-swallow",
+    "pages": 288,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "The Blood Angels are torn in civil war. Arkio — styled the Reborn Angel — marches on Baal itself, convinced he is the returning primarch. Rafen must confront the truth of his brother's apotheosis and shatter the heresy before it consumes the Chapter forever.",
+    "characters": [
+      { "name": "Rafen", "slug": "rafen" },
+      { "name": "Arkio", "slug": "arkio" }
+    ],
+    "factions": [
+      { "name": "Blood Angels", "slug": "blood-angels" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Red Fury",
+    "slug": "red-fury",
+    "series": "blood-angels",
+    "orderInSeries": 3,
+    "author": "james-swallow",
+    "pages": 416,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "A successor Chapter of the Blood Angels arrives at Baal with a grievance the sons of Sanguinius cannot ignore. Rafen is thrust into the politics and bloodlines of the wider Chapters of Sanguinius, where the Red Thirst has awakened something terrible and ancient.",
+    "characters": [
+      { "name": "Rafen", "slug": "rafen" }
+    ],
+    "factions": [
+      { "name": "Blood Angels", "slug": "blood-angels" },
+      { "name": "Flesh Tearers", "slug": "flesh-tearers" }
+    ],
+    "primarchs": []
+  },
+  {
+    "title": "Black Tide",
+    "slug": "black-tide",
+    "series": "blood-angels",
+    "orderInSeries": 4,
+    "author": "james-swallow",
+    "pages": 416,
+    "setting": {
+      "era": "41st Millennium",
+      "millennium": "M41"
+    },
+    "description": "Rafen leads a strike mission into the Eye of Terror itself, hunting a Word Bearers Dark Apostle who has defiled the relics of Sanguinius. In the mad geography of the warp, the line between brother and enemy, faith and corruption, grows impossibly thin.",
+    "characters": [
+      { "name": "Rafen", "slug": "rafen" }
+    ],
+    "factions": [
+      { "name": "Blood Angels", "slug": "blood-angels" },
+      { "name": "Word Bearers", "slug": "word-bearers" },
+      { "name": "Chaos", "slug": "chaos" }
+    ],
+    "primarchs": []
+  }
+]
